@@ -1,0 +1,5 @@
+.bg-banner-challenges {
+  background: url('../../../public/images/challenge/bg-banner.png') no-repeat
+    center center;
+  background-size: cover;
+}

@@ -1,0 +1,5 @@
+.banner-course {
+  background: url('../../../../public/images/course/banner-course.png')
+    no-repeat center center;
+  background-size: cover;
+}

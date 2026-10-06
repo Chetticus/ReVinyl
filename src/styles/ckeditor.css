@@ -1,0 +1,40 @@
+/* CKEditor Custom Styles */
+.ckeditor-wrapper .ck-editor__editable {
+  min-height: 120px !important;
+}
+
+/* Basic list display styles - keep it simple to avoid conflicts */
+.ckeditor-wrapper .ck.ck-content ul,
+.ckeditor-wrapper .ck.ck-content ol {
+  margin-left: 20px;
+  padding-left: 0;
+}
+
+.ckeditor-wrapper .ck.ck-content ul {
+  list-style-type: disc;
+}
+
+.ckeditor-wrapper .ck.ck-content ol {
+  list-style-type: decimal;
+}
+
+.ckeditor-wrapper .ck.ck-content li {
+  display: list-item;
+  margin-bottom: 5px;
+}
+
+/* Ensure proper paragraph handling inside list items */
+.ckeditor-wrapper .ck.ck-content li > p {
+  margin: 0;
+  display: inline;
+}
+
+/* Make sure the editor area is fully interactive */
+.ckeditor-wrapper .ck-editor__editable_inline {
+  cursor: text;
+}
+
+/* Optional: Custom selection color */
+.ckeditor-wrapper .ck.ck-content ::selection {
+  background: rgba(191, 47, 31, 0.2);
+}
