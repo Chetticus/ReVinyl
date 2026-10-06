@@ -12,6 +12,7 @@ const vi = {
   navigation: {
     archive: 'Kho âm nhạc',
     timeline: 'Dòng thời gian',
+    topics: 'Chuyên đề',
     contribute: 'Đóng góp',
     about: 'Giới thiệu',
     contact: 'Liên hệ',
