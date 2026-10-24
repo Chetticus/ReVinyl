@@ -1,5 +1,4 @@
 'use client';
-import { WorkbookNotice } from '@/components/archive/WorkbookNotice';
 
 import {
   ArrowLeft,
@@ -118,9 +117,6 @@ export default function ArchivePage() {
 
   return (
     <main className='vinyl-striped-bg min-h-screen pb-20 pt-16 text-[#EFE3CD]'>
-      <div className='mx-auto max-w-7xl px-4 pt-6 md:px-8'>
-        <WorkbookNotice />
-      </div>
       {/* HERO */}
       <section className='border-b border-[#4A341F]'>
         <div className='mx-auto max-w-7xl px-4 py-12 md:px-8 md:py-16 lg:py-20'>
@@ -129,7 +125,7 @@ export default function ArchivePage() {
               <div className='h-px w-9 bg-[#E4722C]' />
 
               <span className='text-xs font-semibold uppercase tracking-[0.24em] text-[#E9A074]'>
-                ReVinyl Archive
+                Vinyl Heritage Archive
               </span>
             </div>
 
@@ -266,7 +262,7 @@ export default function ArchivePage() {
         <div className='mb-6 flex items-end justify-between border-b border-[#4A341F] pb-4'>
           <div>
             <p className='mb-1 text-[11px] font-semibold uppercase tracking-[0.18em] text-[#C4B298]'>
-              ReVinyl
+              Vinyl Heritage Vietnam
             </p>
 
             <h2 className='text-2xl font-semibold tracking-[-0.02em] md:text-3xl'>

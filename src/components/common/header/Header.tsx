@@ -88,7 +88,7 @@ function Header() {
           >
             <Image
               src={VINYL_IMAGES.logoWhite}
-              alt='ReVinyl'
+              alt='Vinyl Heritage Vietnam'
               fill
               className='object-contain object-left'
               priority

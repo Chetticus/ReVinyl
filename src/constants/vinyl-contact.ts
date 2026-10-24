@@ -1,38 +1,40 @@
-import content from '@/data/website-content.json';
-import { telephoneHref } from '@/lib/contact';
-
 export const VINYL_CONTACT_IMAGES = {
   form: '/images/contact.png',
   formFallback: '/images/vinyl-home/story-2.png',
 } as const;
-const contact = content.vi.contact;
+
 export const VINYL_CONTACT_COPY = {
-  hero: { label: contact.label, title: contact.title },
+  hero: {
+    label: 'Liên hệ với chúng tôi',
+    title:
+      'Mỗi câu chuyện đều đáng được lắng nghe. Hãy để lại lời nhắn — chúng tôi sẵn sàng đồng hành cùng bạn trên hành trình gìn giữ di sản âm nhạc Việt Nam.',
+  },
   form: {
-    label: contact.formLabel,
-    title: contact.formTitle,
-    submit: contact.submit,
-    submitting: contact.submitting,
-    success: contact.success,
+    label: 'Kết nối với chúng tôi',
+    title: 'Gửi tin nhắn cho Vinyl Heritage',
+    submit: 'Gửi tin nhắn',
+    submitting: 'Đang gửi...',
+    success: 'Gửi thành công! Chúng tôi sẽ phản hồi qua email sớm nhất.',
   },
 } as const;
+
 export const VINYL_CONTACT_INFO = [
   {
-    title: contact.email,
-    value: contact.emailValue,
-    href: `mailto:${contact.emailValue}`,
-    type: 'email',
+    title: 'Email',
+    value: 'example@gmail.com',
+    href: 'mailto:example@gmail.com',
+    type: 'email' as const,
   },
   {
-    title: contact.phone,
-    value: contact.phoneValue,
-    href: telephoneHref(contact.phoneValue),
-    type: 'phone',
+    title: 'Hotline',
+    value: '+84 345622468',
+    href: 'tel:+84345622468',
+    type: 'phone' as const,
   },
   {
-    title: contact.address,
-    value: contact.addressValue,
+    title: 'Địa chỉ',
+    value: 'Hà Nội, Việt Nam',
     href: undefined,
-    type: 'address',
+    type: 'address' as const,
   },
 ] as const;

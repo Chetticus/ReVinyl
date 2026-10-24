@@ -132,7 +132,7 @@ export default function TaxonomiesPage() {
 
   const { data, isLoading, isError } = useQuery({
     queryKey: ['archive-lookups'],
-    queryFn: archiveApi.adminLookups,
+    queryFn: archiveApi.lookups,
   });
 
   const selectedOption =

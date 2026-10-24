@@ -51,7 +51,7 @@ export function RecordingCard({
               />
 
               <span className='absolute bottom-5 left-5 text-[10px] font-semibold uppercase tracking-[0.2em] text-[var(--wood-dark)]'>
-                ReVinyl
+                Vinyl Heritage
               </span>
             </div>
           )}

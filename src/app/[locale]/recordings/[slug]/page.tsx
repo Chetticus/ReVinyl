@@ -1,5 +1,4 @@
 'use client';
-import { WorkbookNotice } from '@/components/archive/WorkbookNotice';
 
 import {
   ArrowLeft,
@@ -118,9 +117,6 @@ export default function RecordingPage() {
 
   return (
     <main className='vinyl-striped-bg min-h-screen pt-[72px] text-[#302A26]'>
-      <div className='mx-auto max-w-7xl px-4 pt-6 md:px-8'>
-        <WorkbookNotice />
-      </div>
       {/* HERO / LISTEN */}
       <section className='vinyl-striped-bg relative overflow-hidden text-white'>
         {/* subtle decorative light */}
@@ -162,7 +158,7 @@ export default function RecordingPage() {
                     />
 
                     <span className='absolute bottom-6 left-6 text-[10px] font-semibold uppercase tracking-[0.24em] text-[#725E52]'>
-                      ReVinyl
+                      Vinyl Heritage Vietnam
                     </span>
                   </div>
                 )}
@@ -486,18 +482,12 @@ export default function RecordingPage() {
 
                       <p className='mt-1 text-sm text-[#8A8078]'>
                         {[
-                          item.reference.type,
                           item.reference.publisher,
                           item.reference.publishedYear,
                         ]
                           .filter(Boolean)
                           .join(' · ')}
                       </p>
-                      {item.reference.notes && (
-                        <p className='mt-2 whitespace-pre-line text-sm leading-6 text-[#625B55]'>
-                          {item.reference.notes}
-                        </p>
-                      )}
                     </div>
 
                     {status && (

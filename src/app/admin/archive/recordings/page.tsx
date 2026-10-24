@@ -209,7 +209,7 @@ export default function RecordingsAdminPage() {
 
             <p className='mt-2 max-w-2xl text-sm leading-6 text-[#637381]'>
               Quản lý nội dung, trạng thái xuất bản và thông tin của
-              các bản thu trong ReVinyl.
+              các bản thu trong Vinyl Heritage Vietnam.
             </p>
           </div>
 
@@ -1095,9 +1095,8 @@ function RecordingTableSkeleton() {
 }
 
 function formatDate(
-  value: string | Date | undefined
+  value: string | Date
 ) {
-  if (!value) return '—';
   return new Intl.DateTimeFormat(
     'vi-VN',
     {

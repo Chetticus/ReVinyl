@@ -151,6 +151,7 @@ function SettingsPage() {
   const onSecuritySubmit = async (data: SecurityFormData) => {
     setIsPasswordUpdating(true);
     try {
+      console.log('Update password:', data);
       // Handle password update logic here
       await new Promise(resolve => setTimeout(resolve, 1000)); // Simulate API call
       securityForm.reset(); // Reset form after successful update

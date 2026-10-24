@@ -8,7 +8,7 @@ function AuthLayout({ children }: PropsWithChildren) {
       <div className='relative hidden min-h-screen flex-1 md:block'>
         <Image
           src={bannerAuth}
-          alt='ReVinyl'
+          alt='Vinyl Heritage Vietnam'
           fill
           priority
           className='object-cover'

@@ -1,5 +1,4 @@
 'use client';
-import { WorkbookNotice } from '@/components/archive/WorkbookNotice';
 
 import {
   ArrowRight,
@@ -75,9 +74,6 @@ export default function TimelinePage() {
 
   return (
     <main className='vinyl-striped-bg min-h-screen pb-24 pt-[72px] text-[#EFE3CD]'>
-      <div className='mx-auto max-w-7xl px-4 pt-6 md:px-8'>
-        <WorkbookNotice />
-      </div>
       {/* HERO */}
       <section className='border-b border-[#4A341F]'>
         <div className='mx-auto max-w-7xl px-4 py-14 md:px-8 md:py-20'>

@@ -1,5 +1,7 @@
 # Vinylize integration
 
+Frontend scope correction: all earlier branding, account/user-display, footer/about/contact copy, template and workbook-preview changes have been reverted to the pre-update frontend (`b40e208`). The only retained application changes are the Vinylized audio player/4.5-second intro and the four-artist homepage selection. Original Vinyl Heritage logos and original user/account rendering are restored exactly.
+
 The source is the user's project at `C:/Users/1/Documents/Claude_Projects/VinylStuff`. It performs audio processing in Python using NumPy, SciPy and SoundFile. Its React player compares original and processed audio and applies a synthetic room response to the processed bus only.
 
 ## Processing retained

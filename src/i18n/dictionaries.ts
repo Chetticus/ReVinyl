@@ -1,4 +1,3 @@
-import websiteContent from '@/data/website-content.json';
 import { Locale } from './config';
 
 const vi = {
@@ -30,13 +29,13 @@ const vi = {
     title: 'Những câu hỏi thường gặp',
 
     description:
-      'Tìm hiểu thêm về ReVinyl, cách khám phá kho âm nhạc và cách chúng tôi xây dựng, trình bày và kiểm chứng các tư liệu.',
+      'Tìm hiểu thêm về Vinyl Heritage Vietnam, cách khám phá kho âm nhạc và cách chúng tôi xây dựng, trình bày và kiểm chứng các tư liệu.',
 
     items: [
       {
-        question: 'ReVinyl là gì?',
+        question: 'Vinyl Heritage Vietnam là gì?',
         answer:
-          'ReVinyl là một kho lưu trữ âm nhạc số giúp người dùng nghe, tìm hiểu và khám phá các bản thu Việt Nam thông qua âm thanh, câu chuyện, bối cảnh lịch sử, văn hóa, lời ca, nhạc cụ và nguồn tư liệu liên quan.',
+          'Vinyl Heritage Vietnam là một kho lưu trữ âm nhạc số giúp người dùng nghe, tìm hiểu và khám phá các bản thu Việt Nam thông qua âm thanh, câu chuyện, bối cảnh lịch sử, văn hóa, lời ca, nhạc cụ và nguồn tư liệu liên quan.',
       },
       {
         question: 'Website dành cho ai?',
@@ -61,7 +60,7 @@ const vi = {
       {
         question: 'Thông tin trên website có được kiểm chứng không?',
         answer:
-          'ReVinyl ưu tiên sử dụng và ghi rõ nguồn tham khảo cho các thông tin lịch sử, văn hóa và âm nhạc. Trạng thái kiểm chứng của nguồn có thể được hiển thị để người đọc phân biệt nội dung đã xác minh và nội dung đang tiếp tục được đối chiếu.',
+          'Vinyl Heritage Vietnam ưu tiên sử dụng và ghi rõ nguồn tham khảo cho các thông tin lịch sử, văn hóa và âm nhạc. Trạng thái kiểm chứng của nguồn có thể được hiển thị để người đọc phân biệt nội dung đã xác minh và nội dung đang tiếp tục được đối chiếu.',
       },
       {
         question: 'Tại sao một số bản thu không hiển thị toàn bộ lời bài hát?',
@@ -76,12 +75,12 @@ const vi = {
       {
         question: 'Tôi có thể góp ý hoặc cung cấp thêm tư liệu không?',
         answer:
-          'Có. Nếu bạn phát hiện thông tin cần chỉnh sửa hoặc sở hữu nguồn tư liệu liên quan, bạn có thể liên hệ với ReVinyl qua trang Liên hệ. Nội dung đóng góp sẽ được xem xét trước khi được sử dụng trong kho lưu trữ.',
+          'Có. Nếu bạn phát hiện thông tin cần chỉnh sửa hoặc sở hữu nguồn tư liệu liên quan, bạn có thể liên hệ với Vinyl Heritage Vietnam qua trang Liên hệ. Nội dung đóng góp sẽ được xem xét trước khi được sử dụng trong kho lưu trữ.',
       },
       {
-        question: 'ReVinyl có bán đĩa vinyl không?',
+        question: 'Vinyl Heritage Vietnam có bán đĩa vinyl không?',
         answer:
-          'Không. Hiện tại ReVinyl tập trung vào việc lưu trữ, giới thiệu và hỗ trợ người dùng khám phá di sản âm nhạc Việt Nam. Nền tảng không hoạt động như một cửa hàng bán đĩa.',
+          'Không. Hiện tại Vinyl Heritage Vietnam tập trung vào việc lưu trữ, giới thiệu và hỗ trợ người dùng khám phá di sản âm nhạc Việt Nam. Nền tảng không hoạt động như một cửa hàng bán đĩa.',
       },
       {
         question: 'Khi cần hỗ trợ tôi có thể liên hệ ở đâu?',
@@ -125,7 +124,7 @@ const vi = {
     storyIntro:
       'Đi sâu vào bối cảnh ra đời, con người, kỹ thuật thu âm và những câu chuyện ít được biết đến phía sau mỗi ấn phẩm.',
     storyBody:
-      'Mỗi chiếc đĩa là kết quả của một hành trình dài — từ ý tưởng sáng tác, phòng thu, giọng hát, nhạc cụ cho đến thiết kế bìa và cách tác phẩm được đưa đến công chúng. ReVinyl tìm lại những dấu vết ấy để kể về con người, thời đại và những câu chuyện đã góp phần tạo nên giá trị riêng cho từng bản thu.',
+      'Mỗi chiếc đĩa là kết quả của một hành trình dài — từ ý tưởng sáng tác, phòng thu, giọng hát, nhạc cụ cho đến thiết kế bìa và cách tác phẩm được đưa đến công chúng. Vinyl Heritage Vietnam tìm lại những dấu vết ấy để kể về con người, thời đại và những câu chuyện đã góp phần tạo nên giá trị riêng cho từng bản thu.',
     storyCta: 'Khám phá những câu chuyện',
     newsletterTitle:
       'Mỗi chiếc đĩa là một dấu vết.\nMỗi câu chuyện là một phần di sản.',
@@ -159,6 +158,23 @@ const vi = {
     communityTitle: 'Di sản trở nên sống động\nkhi được cùng nhau sẻ chia',
     communityDescription:
       'Những chia sẻ ấy giúp di sản âm nhạc không chỉ được lưu giữ, mà còn tiếp tục hiện diện trong đời sống hôm nay.',
+    reviewers: [
+      {
+        role: 'Nhà sưu tầm đĩa nhạc',
+        quote:
+          'Vinyl Heritage Vietnam giúp người xem hiểu bối cảnh văn hóa phía sau mỗi bản thu.',
+      },
+      {
+        role: 'Người nghiên cứu văn hóa',
+        quote:
+          'Thông tin về nghệ sĩ, tác phẩm, thời kỳ và hiện vật được kết nối thành một câu chuyện dễ tiếp cận.',
+      },
+      {
+        role: 'Người yêu nhạc',
+        quote:
+          'Di sản âm nhạc và những câu chuyện phía sau mỗi bản thu trở nên gần gũi hơn.',
+      },
+    ],
     featuredArchiveLabel: 'Từ kho lưu trữ',
 
     featuredArchiveTitle: 'Những bản thu đáng khám phá',
@@ -178,30 +194,73 @@ const vi = {
     featuredSlideLabel: 'Bản thu',
   },
   about: {
-    ...websiteContent.vi.about,
+    bannerLabel: 'Tầm nhìn của chúng tôi',
+    bannerTitle:
+      'Gìn giữ những thanh âm của quá khứ, để di sản âm nhạc Việt Nam tiếp tục được lắng nghe trong tương lai.',
+    bannerCta: 'Xem thêm về chúng tôi',
+    introLabel: 'VỀ CHÚNG TÔI',
+    introTitle: 'Gìn giữ âm thanh, lưu giữ ký ức',
+    introSubtitle:
+      'Chúng tôi tin rằng mỗi chiếc đĩa Vinyl không chỉ lưu giữ âm nhạc, mà còn lưu giữ một phần ký ức và câu chuyện của văn hóa Việt Nam.',
+    introParagraphs: [
+      'Chúng tôi được tạo nên với mong muốn sưu tầm, lưu trữ và giới thiệu những giá trị của đĩa nhạc Vinyl Việt Nam đến cộng đồng.',
+      'Mỗi bản đĩa là một mảnh ghép của thời gian. Từ những bản thu âm, hình ảnh bìa đĩa, thông tin nghệ sĩ cho đến những câu chuyện phía sau mỗi sản phẩm, tất cả đều góp phần phản ánh một giai đoạn của đời sống âm nhạc và văn hóa Việt Nam.',
+      'Chúng tôi mong muốn tạo nên một không gian để những giá trị ấy được ghi nhận, bảo tồn và tiếp tục được khám phá bởi các thế hệ hôm nay và mai sau.',
+    ],
+    introCta: 'Khám phá ngay hôm nay',
+    workLabel: 'Chúng tôi làm việc thế nào',
+    workTitle: 'Sưu tầm, lưu trữ và kể lại những câu chuyện',
+    workDescription:
+      'Vinyl Heritage Vietnam kết hợp công việc sưu tầm tư liệu, đối chiếu nguồn và kể chuyện để mỗi chiếc đĩa không chỉ được nhìn như một ấn phẩm, mà còn như một phần của đời sống âm nhạc Việt Nam.',
+    workCta: 'Khám phá kho âm nhạc',
+    playVideo: 'Phát video',
   },
   contact: {
-    ...websiteContent.vi.contact,
+    label: 'Liên hệ với chúng tôi',
+    title:
+      'Mỗi câu chuyện đều đáng được lắng nghe. Hãy để lại lời nhắn — chúng tôi sẵn sàng đồng hành cùng bạn trên hành trình gìn giữ di sản âm nhạc Việt Nam.',
+    email: 'Email',
+    phone: 'Hotline',
+    address: 'Địa chỉ',
+    addressValue: 'Hà Nội, Việt Nam',
+    formLabel: 'Kết nối với chúng tôi',
+    formTitle: 'Gửi tin nhắn cho Vinyl Heritage',
+    name: 'Họ và tên',
+    topic: 'Chủ đề',
+    message: 'Nội dung',
+    namePlaceholder: 'Nguyễn Văn A',
+    topicPlaceholder: 'Ví dụ: Trao đổi tư liệu đĩa nhạc',
+    messagePlaceholder: 'Chia sẻ ngắn gọn nội dung bạn muốn trao đổi...',
+    submit: 'Gửi liên hệ',
+    submitting: 'Đang gửi...',
+    success: 'Gửi thành công! Chúng tôi sẽ phản hồi qua email sớm nhất.',
     validation: {
       name: 'Họ và tên phải có ít nhất 2 ký tự.',
       email: 'Email không hợp lệ.',
       topic: 'Chủ đề phải có ít nhất 2 ký tự.',
       message: 'Nội dung phải có ít nhất 2 ký tự.',
     },
-    emailDraftReady:
-      'Đã mở bản nháp trong ứng dụng email. Hãy gửi email để hoàn tất liên hệ.',
   },
   footer: {
-    ...websiteContent.vi.footer,
+    headline: 'Âm thanh có thể khép lại,\nnhưng ký ức vẫn tiếp tục ngân vang.',
+    description:
+      'Vinyl Heritage Vietnam gìn giữ và kể lại những câu chuyện làm nên di sản âm nhạc Việt Nam.',
+    company: 'Khám phá',
+    support: 'Hỗ trợ',
+    social: 'Mạng xã hội',
+    terms: 'Điều khoản & Điều kiện',
+    privacy: 'Chính sách bảo mật',
+    rights: 'Bảo lưu mọi quyền.',
   },
+
   metadata: {
-    homeTitle: 'ReVinyl',
+    homeTitle: 'Vinyl Heritage Vietnam',
     homeDescription:
       'Gìn giữ và kể lại những câu chuyện làm nên di sản âm nhạc Việt Nam.',
-    aboutTitle: 'Giới thiệu | ReVinyl',
+    aboutTitle: 'Giới thiệu | Vinyl Heritage Vietnam',
     aboutDescription: 'Tìm hiểu sứ mệnh gìn giữ di sản âm nhạc Việt Nam.',
-    contactTitle: 'Liên hệ | ReVinyl',
-    contactDescription: 'Liên hệ với ReVinyl.',
+    contactTitle: 'Liên hệ | Vinyl Heritage Vietnam',
+    contactDescription: 'Liên hệ với Vinyl Heritage Vietnam.',
   },
 } as const;
 
@@ -224,13 +283,13 @@ const en = {
     title: 'Frequently Asked Questions',
 
     description:
-      'Learn more about ReVinyl, how to explore the music archive, and how our historical, cultural, and musical information is presented and verified.',
+      'Learn more about Vinyl Heritage Vietnam, how to explore the music archive, and how our historical, cultural, and musical information is presented and verified.',
 
     items: [
       {
-        question: 'What is ReVinyl?',
+        question: 'What is Vinyl Heritage Vietnam?',
         answer:
-          'ReVinyl is a digital music archive designed to help people listen to, understand, and explore Vietnamese recordings through sound, stories, historical and cultural context, lyrics interpretation, instruments, and supporting sources.',
+          'Vinyl Heritage Vietnam is a digital music archive designed to help people listen to, understand, and explore Vietnamese recordings through sound, stories, historical and cultural context, lyrics interpretation, instruments, and supporting sources.',
       },
       {
         question: 'Who is the website for?',
@@ -255,7 +314,7 @@ const en = {
       {
         question: 'Is the information on the website verified?',
         answer:
-          'ReVinyl prioritizes clearly referenced sources for historical, cultural, and musical information. Verification status may be displayed so readers can distinguish between verified material and information that is still being reviewed.',
+          'Vinyl Heritage Vietnam prioritizes clearly referenced sources for historical, cultural, and musical information. Verification status may be displayed so readers can distinguish between verified material and information that is still being reviewed.',
       },
       {
         question: 'Why are full lyrics not available for every recording?',
@@ -270,12 +329,12 @@ const en = {
       {
         question: 'Can I suggest corrections or contribute information?',
         answer:
-          'Yes. If you notice information that should be corrected or have relevant source material, you can contact ReVinyl through the Contact page. Contributions are reviewed before being incorporated into the archive.',
+          'Yes. If you notice information that should be corrected or have relevant source material, you can contact Vinyl Heritage Vietnam through the Contact page. Contributions are reviewed before being incorporated into the archive.',
       },
       {
-        question: 'Does ReVinyl sell vinyl records?',
+        question: 'Does Vinyl Heritage Vietnam sell vinyl records?',
         answer:
-          'No. ReVinyl currently focuses on preserving, presenting, and helping audiences explore Vietnamese musical heritage. It does not operate as a vinyl record store.',
+          'No. Vinyl Heritage Vietnam currently focuses on preserving, presenting, and helping audiences explore Vietnamese musical heritage. It does not operate as a vinyl record store.',
       },
       {
         question: 'How can I contact the team for support?',
@@ -329,7 +388,7 @@ const en = {
     storyIntro:
       'Go deeper into the context, people, recording techniques, and lesser-known stories behind each release.',
     storyBody:
-      'Every record is the result of a long journey—from composition and studio sessions to voices, instruments, cover design, and the way music reached its audience. ReVinyl retraces those paths to tell the stories of the people and eras that gave each recording its distinct value.',
+      'Every record is the result of a long journey—from composition and studio sessions to voices, instruments, cover design, and the way music reached its audience. Vinyl Heritage Vietnam retraces those paths to tell the stories of the people and eras that gave each recording its distinct value.',
     storyCta: 'Discover the stories',
     newsletterTitle:
       'Every record leaves a trace.\nEvery story is part of our heritage.',
@@ -363,6 +422,23 @@ const en = {
     communityTitle: 'Heritage comes alive\nwhen we share it together',
     communityDescription:
       'These perspectives allow musical heritage not only to be preserved, but to remain present in life today.',
+    reviewers: [
+      {
+        role: 'Record collector',
+        quote:
+          'Vinyl Heritage Vietnam helps audiences understand the cultural context behind each recording.',
+      },
+      {
+        role: 'Cultural researcher',
+        quote:
+          'Information about artists, works, periods, and artifacts is connected into an accessible story.',
+      },
+      {
+        role: 'Music enthusiast',
+        quote:
+          'Musical heritage and the stories behind each recording feel closer than ever.',
+      },
+    ],
     featuredArchiveLabel: 'From the archive',
 
     featuredArchiveTitle: 'Recordings worth discovering',
@@ -382,31 +458,73 @@ const en = {
     featuredSlideLabel: 'Recording',
   },
   about: {
-    ...websiteContent.en.about,
+    bannerLabel: 'Our vision',
+    bannerTitle:
+      'Preserving the sounds of the past so Vietnamese musical heritage can continue to be heard in the future.',
+    bannerCta: 'Learn more about us',
+    introLabel: 'ABOUT US',
+    introTitle: 'Preserving sound, safeguarding memory',
+    introSubtitle:
+      'We believe every vinyl record holds not only music, but also a piece of Vietnam’s cultural memory and story.',
+    introParagraphs: [
+      'We were created to collect, preserve, and introduce the value of Vietnamese vinyl records to the community.',
+      'Every record is a fragment of its time. Its recordings, cover art, artist information, and the stories behind its creation all reflect a period in Vietnam’s musical and cultural life.',
+      'We hope to create a space where these values are recognized, preserved, and rediscovered by present and future generations.',
+    ],
+    introCta: 'Start exploring today',
+    workLabel: 'How we work',
+    workTitle: 'Collecting, preserving, and retelling stories',
+    workDescription:
+      'Vinyl Heritage Vietnam combines collecting materials, cross-checking sources, and storytelling so each record can be understood not merely as an object, but as part of Vietnamese musical life.',
+    workCta: 'Explore the archive',
+    playVideo: 'Play video',
   },
   contact: {
-    ...websiteContent.en.contact,
+    label: 'Contact us',
+    title:
+      'Every story deserves to be heard. Leave us a message—we are ready to join you in preserving Vietnamese musical heritage.',
+    email: 'Email',
+    phone: 'Hotline',
+    address: 'Address',
+    addressValue: 'Hanoi, Vietnam',
+    formLabel: 'Connect with us',
+    formTitle: 'Send Vinyl Heritage a message',
+    name: 'Full name',
+    topic: 'Subject',
+    message: 'Message',
+    namePlaceholder: 'Your full name',
+    topicPlaceholder: 'For example: Sharing record materials',
+    messagePlaceholder: 'Briefly tell us what you would like to discuss...',
+    submit: 'Send message',
+    submitting: 'Sending...',
+    success: 'Message sent! We will reply by email as soon as possible.',
     validation: {
       name: 'Full name must be at least 2 characters.',
       email: 'Please enter a valid email.',
       topic: 'Subject must be at least 2 characters.',
       message: 'Message must be at least 2 characters.',
     },
-    emailDraftReady:
-      'An email draft has opened in your mail app. Send it to complete your message.',
   },
   footer: {
-    ...websiteContent.en.footer,
+    headline: 'The sound may end,\nbut memory keeps resonating.',
+    description:
+      'Vinyl Heritage Vietnam preserves and retells the stories that shape Vietnam’s musical heritage.',
+    company: 'Explore',
+    support: 'Support',
+    social: 'Social media',
+    terms: 'Terms & Conditions',
+    privacy: 'Privacy Policy',
+    rights: 'All rights reserved.',
   },
   metadata: {
-    homeTitle: 'ReVinyl',
+    homeTitle: 'Vinyl Heritage Vietnam',
     homeDescription:
       'Preserving and retelling the stories that shape Vietnam’s musical heritage.',
-    aboutTitle: 'About | ReVinyl',
+    aboutTitle: 'About | Vinyl Heritage Vietnam',
     aboutDescription:
       'Learn about our mission to preserve Vietnamese musical heritage.',
-    contactTitle: 'Contact | ReVinyl',
-    contactDescription: 'Contact ReVinyl.',
+    contactTitle: 'Contact | Vinyl Heritage Vietnam',
+    contactDescription: 'Contact Vinyl Heritage Vietnam.',
   },
 };
 

@@ -38,7 +38,7 @@ const WELCOME_MESSAGE = {
   id: 'welcome',
   role: 'ai' as const,
   content:
-    'Chào bạn, tôi là trợ lý AI của ReVinyl. Bạn có thể hỏi về chuyên đề, thử thách, lịch sử đĩa than Việt Nam hoặc nhờ giải thích kiến thức học tập.',
+    'Chào bạn, tôi là trợ lý AI của Vinyl Heritage. Bạn có thể hỏi về chuyên đề, thử thách, lịch sử đĩa than Việt Nam hoặc nhờ giải thích kiến thức học tập.',
   images: undefined as string[] | undefined,
   imageUrls: undefined as string[] | undefined,
 };

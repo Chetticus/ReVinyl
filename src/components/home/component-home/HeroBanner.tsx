@@ -17,7 +17,7 @@ const HeroBanner = () => {
         <div className='flex justify-between flex-col items-center gap-20 md:flex-row'>
           <div className='max-w-[600px]'>
             <div className='font-extrabold text-[36px] lg:text-[72px]'>
-              Nâng tầm tương lai tài chính của bạn với ReVinyl
+              Nâng tầm tương lai tài chính của bạn với Vinyl Heritage
             </div>
             <div className='text-lg text-[#212B36]'>
               Biến ước mơ của bạn thành sự thật! Hãy học cách sử dụng tiền thông

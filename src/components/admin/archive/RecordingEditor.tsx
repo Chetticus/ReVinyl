@@ -152,7 +152,7 @@ export function RecordingEditor({
 
   const { data: lookups } = useQuery({
     queryKey: ['archive-lookups'],
-    queryFn: archiveApi.adminLookups,
+    queryFn: archiveApi.lookups,
   });
 
   const [locale, setLocale] =

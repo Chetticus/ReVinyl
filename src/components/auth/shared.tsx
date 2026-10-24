@@ -28,7 +28,7 @@ export function AuthHeader({ title, description, linkRow }: AuthHeaderProps) {
       <div className='flex justify-center pb-4'>
         <Image
           src={VINYL_IMAGES.logoPrimary}
-          alt='ReVinyl'
+          alt='Vinyl Heritage Vietnam'
           width={240}
           height={40}
           className='h-10 w-[240px] object-contain'

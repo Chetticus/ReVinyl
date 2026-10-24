@@ -44,7 +44,7 @@ const LoginForm = ({ form, onSubmit, error, isPending }: LoginFormProps) => {
               <FormControl>
                 <Input
                   type='email'
-                  placeholder='Email của bạn'
+                  placeholder='example@gmail.com'
                   className={`${authInputClass} ${
                     fieldState.error ? 'border-red-500 focus-visible:border-red-500' : ''
                   }`}

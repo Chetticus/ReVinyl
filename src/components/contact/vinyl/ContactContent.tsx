@@ -16,7 +16,6 @@ import {
 import { SectionContainer } from '@/components/home/vinyl/shared';
 import NewsletterSection from '@/components/home/vinyl/NewsletterSection';
 import { usePublicI18n } from '@/i18n/PublicI18nProvider';
-import { contactDraftHref, telephoneHref } from '@/lib/contact';
 
 export default function ContactContent() {
   const { dictionary: d } = usePublicI18n();
@@ -37,14 +36,14 @@ export default function ContactContent() {
   const info = [
     {
       title: c.email,
-      value: c.emailValue,
-      href: `mailto:${c.emailValue}`,
+      value: 'example@gmail.com',
+      href: 'mailto:example@gmail.com',
       Icon: Sms,
     },
     {
       title: c.phone,
-      value: c.phoneValue,
-      href: telephoneHref(c.phoneValue),
+      value: '+84 345622468',
+      href: 'tel:+84345622468',
       Icon: CallCalling,
     },
     {
@@ -54,8 +53,9 @@ export default function ContactContent() {
       Icon: Location,
     },
   ];
-  const submit = (values: Values) => {
-    window.location.href = contactDraftHref(c.emailValue, values);
+  const submit = async (_values: Values) => {
+    await Promise.resolve();
+    form.reset();
   };
   const fieldClass =
     'h-[54px] rounded-[10px] border border-[rgba(145,158,171,0.32)] px-[14px] focus-visible:border-[#E4722C] focus-visible:ring-0';
@@ -73,18 +73,13 @@ export default function ContactContent() {
             {info.map(({ title, value, href, Icon }) => {
               const content = (
                 <>
-                  <div className='min-w-0 flex-1'>
+                  <div className='flex-1'>
                     <p className='text-xl font-semibold text-[#302A26]'>
                       {title}
                     </p>
-                    <p className='mt-1 break-words text-[#65584D]'>{value}</p>
+                    <p className='mt-1 text-[#65584D]'>{value}</p>
                   </div>
-                  <Icon
-                    size={28}
-                    color='#E4722C'
-                    variant='Bold'
-                    className='shrink-0'
-                  />
+                  <Icon size={28} color='#E4722C' variant='Bold' />
                 </>
               );
               const classes =
@@ -117,7 +112,7 @@ export default function ContactContent() {
                 </h2>
                 {isSubmitSuccessful && (
                   <p role='status' className='mt-2 text-sm text-emerald-600'>
-                    {c.emailDraftReady}
+                    {c.success}
                   </p>
                 )}
               </div>

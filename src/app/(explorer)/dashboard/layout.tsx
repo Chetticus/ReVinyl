@@ -42,7 +42,7 @@ export default function DashboardLayout({
               {}
               <img
                 src={getUserMe?.data?.avatar || '/images/contact.png'}
-                alt={getUserMe?.data?.fullName || 'Avatar'}
+                alt='Chris Hemsworth'
                 width={120}
                 height={120}
                 className='rounded-full border-4 border-white h-[120px] w-[120px]'

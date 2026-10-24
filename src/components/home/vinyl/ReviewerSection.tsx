@@ -15,9 +15,8 @@ import {
 
 export default function ReviewerSection() {
   const { dictionary: d } = usePublicI18n();
-  const reviewers = REVIEWERS;
-  const [activeIndex, setActiveIndex] = useState(0);
-  if (reviewers.length === 0) return null;
+  const reviewers = REVIEWERS.map((reviewer, index) => ({ ...reviewer, ...d.home.reviewers[index] }));
+  const [activeIndex, setActiveIndex] = useState(1);
   const active = reviewers[activeIndex];
 
   return (
