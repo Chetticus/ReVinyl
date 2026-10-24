@@ -1,0 +1,110 @@
+{
+  "vi": {
+    "footer": {
+      "headline": "Âm thanh có thể khép lại, nhưng ký ức vẫn tiếp tục ngân vang.",
+      "description": "ReVinyl gìn giữ và kể lại những câu chuyện làm nên di sản âm nhạc Việt Nam.",
+      "company": "Khám phá",
+      "support": "Hỗ trợ",
+      "social": "Mạng xã hội",
+      "terms": "Điều khoản & Điều kiện",
+      "privacy": "Chính sách bảo mật",
+      "rights": "Bảo lưu mọi quyền.",
+      "contactEmail": "hainam.nguyen.1109@gmail.com",
+      "contactPhone": "+84 836110909"
+    },
+    "about": {
+      "bannerLabel": "Tầm nhìn của chúng tôi",
+      "bannerTitle": "Gìn giữ những thanh âm của quá khứ, để di sản âm nhạc Việt Nam tiếp tục được lắng nghe trong tương lai.",
+      "bannerCta": "Xem thêm về chúng tôi",
+      "introLabel": "VỀ CHÚNG TÔI",
+      "introTitle": "Gìn giữ âm thanh, lưu giữ ký ức",
+      "introSubtitle": "Chúng tôi tin rằng mỗi chiếc đĩa Vinyl không chỉ lưu giữ âm nhạc, mà còn lưu giữ một phần ký ức và câu chuyện của văn hóa Việt Nam.",
+      "introCta": "Khám phá ngay hôm nay",
+      "workLabel": "Chúng tôi làm việc thế nào",
+      "workTitle": "Sưu tầm, lưu trữ và kể lại những câu chuyện",
+      "workDescription": "ReVinyl kết hợp công việc sưu tầm tư liệu, đối chiếu nguồn và kể chuyện để mỗi chiếc đĩa không chỉ được nhìn như một ấn phẩm, mà còn như một phần của đời sống âm nhạc Việt Nam.",
+      "workCta": "Khám phá kho âm nhạc",
+      "playVideo": "Phát video",
+      "introParagraphs": [
+        "Chúng tôi được tạo nên với mong muốn sưu tầm, lưu trữ và giới thiệu những giá trị của đĩa nhạc Vinyl Việt Nam đến cộng đồng.",
+        "Mỗi bản đĩa là một mảnh ghép của thời gian. Từ những bản thu âm, hình ảnh bìa đĩa, thông tin nghệ sĩ cho đến những câu chuyện phía sau mỗi sản phẩm, tất cả đều góp phần phản ánh một giai đoạn của đời sống âm nhạc và văn hóa Việt Nam.",
+        "Chúng tôi mong muốn tạo nên một không gian để những giá trị ấy được ghi nhận, bảo tồn và tiếp tục được khám phá bởi các thế hệ hôm nay và mai sau."
+      ]
+    },
+    "contact": {
+      "label": "Liên hệ với chúng tôi",
+      "title": "Mỗi câu chuyện đều đáng được lắng nghe. Hãy để lại lời nhắn — chúng tôi sẵn sàng đồng hành cùng bạn trên hành trình gìn giữ di sản âm nhạc Việt Nam.",
+      "email": "Email",
+      "emailValue": "hainam.nguyen.1109@gmail.com",
+      "phone": "Điện thoại",
+      "phoneValue": "+84 836110909",
+      "address": "Địa chỉ",
+      "addressValue": "Ngõ 133 Xuân Thủy, Hà Nội, Việt Nam",
+      "formLabel": "Kết nối với chúng tôi",
+      "formTitle": "Gửi tin nhắn cho ReVinyl",
+      "name": "Họ và tên",
+      "namePlaceholder": "Nguyễn Văn A",
+      "topic": "Chủ đề",
+      "topicPlaceholder": "Ví dụ: Trao đổi tư liệu đĩa nhạc",
+      "message": "Nội dung",
+      "messagePlaceholder": "Chia sẻ ngắn gọn nội dung bạn muốn trao đổi...",
+      "submit": "Gửi liên hệ",
+      "submitting": "Đang gửi...",
+      "success": "Gửi thành công! Chúng tôi sẽ phản hồi qua email sớm nhất."
+    }
+  },
+  "en": {
+    "footer": {
+      "headline": "The sound may end, but memory keeps resonating.",
+      "description": "ReVinyl preserves and retells the stories that shape Vietnam’s musical heritage.",
+      "company": "Explore",
+      "support": "Support",
+      "social": "Social media",
+      "terms": "Terms & Conditions",
+      "privacy": "Privacy Policy",
+      "rights": "All rights reserved.",
+      "contactEmail": "hainam.nguyen.1109@gmail.com",
+      "contactPhone": "+84 836110909"
+    },
+    "about": {
+      "bannerLabel": "Our vision",
+      "bannerTitle": "Preserving the sounds of the past so Vietnamese musical heritage can continue to be heard in the future.",
+      "bannerCta": "Learn more about us",
+      "introLabel": "ABOUT US",
+      "introTitle": "Preserving sound, safeguarding memory",
+      "introSubtitle": "We believe every vinyl record holds not only music, but also a piece of Vietnam’s cultural memory and story.",
+      "introCta": "Start exploring today",
+      "workLabel": "How we work",
+      "workTitle": "Collecting, preserving, and retelling stories",
+      "workDescription": "ReVinyl combines collecting materials, cross-checking sources, and storytelling so each record can be understood not merely as an object, but as part of Vietnamese musical life.",
+      "workCta": "Explore the archive",
+      "playVideo": "Play video",
+      "introParagraphs": [
+        "We were created to collect, preserve, and introduce the value of Vietnamese vinyl records to the community.",
+        "Every record is a fragment of its time. Its recordings, cover art, artist information, and the stories behind its creation all reflect a period in Vietnam’s musical and cultural life.",
+        "We hope to create a space where these values are recognized, preserved, and rediscovered by present and future generations."
+      ]
+    },
+    "contact": {
+      "label": "Contact us",
+      "title": "Every story deserves to be heard. Leave us a message — we are ready to join you in preserving Vietnamese musical heritage.",
+      "email": "Email",
+      "emailValue": "hainam.nguyen.1109@gmail.com",
+      "phone": "Phone",
+      "phoneValue": "+84 836110909",
+      "address": "Address",
+      "addressValue": "Alley 133, Xuan Thuy, Hanoi, Vietnam",
+      "formLabel": "Connect with us",
+      "formTitle": "Send ReVinyl a message",
+      "name": "Full name",
+      "namePlaceholder": "Your full name",
+      "topic": "Subject",
+      "topicPlaceholder": "For example: Sharing record materials",
+      "message": "Message",
+      "messagePlaceholder": "Briefly tell us what you would like to discuss...",
+      "submit": "Send message",
+      "submitting": "Sending...",
+      "success": "Message sent! We will reply by email as soon as possible."
+    }
+  }
+}

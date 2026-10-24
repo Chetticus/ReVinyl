@@ -23,8 +23,10 @@ import {
 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils'; // Optional helper
+import { useAuthStore } from '@/stores/useAuthStore';
 
 const UserButton = () => {
+  const user = useAuthStore(state => state.user);
   const [open, setOpen] = useState(false);
   const activePath = 'Tổng quan'; // Replace with route match logic
 
@@ -49,7 +51,7 @@ const UserButton = () => {
       >
         <DrawerTrigger>
           <Image
-            src={AvatarKid}
+            src={user?.avatar || AvatarKid}
             alt='Avatar'
             width={40}
             height={40}
@@ -71,16 +73,16 @@ const UserButton = () => {
             {/* Avatar & Info */}
             <div className='flex flex-col items-center py-4'>
               <Image
-                src={AvatarKid}
+                src={user?.avatar || AvatarKid}
                 alt='Avatar'
                 width={64}
                 height={64}
                 className='rounded-full border-4 border-red-200'
               />
-              <h3 className='mt-2 font-semibold text-sm'>Chris Hemsworth</h3>
-              <p className='text-xs text-muted-foreground'>
-                demo@lichsukythu.cc
-              </p>
+              <h3 className='mt-2 font-semibold text-sm'>
+                {user?.fullName || 'Tài khoản'}
+              </h3>
+              <p className='text-xs text-muted-foreground'>{user?.email}</p>
             </div>
 
             <div className='border-t my-4' />

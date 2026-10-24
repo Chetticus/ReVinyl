@@ -19,7 +19,7 @@ export default function HeroSection() {
         <div className='flex max-w-xl flex-col justify-between gap-10 md:h-full md:gap-0'>
           <div className='space-y-3'>
             <p className='text-base font-semibold text-white'>
-              / VINYL HERITAGE VIETNAM /
+              / REVINYL /
             </p>
             <h1 className='text-5xl font-semibold leading-[1.1] text-white md:text-[80px] md:leading-[88px]'>
               Mỗi Chiếc Đĩa

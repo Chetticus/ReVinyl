@@ -201,7 +201,7 @@ export function AiFloatingButton() {
           <span className='ai-fab-pulse' />
           <Image
             src={AI_BOT_ICON}
-            alt='Trợ lý AI Vinyl Heritage'
+            alt='Trợ lý AI ReVinyl'
             fill
             sizes='(max-width: 1023px) 52px, 64px'
             className='ai-fab-icon'

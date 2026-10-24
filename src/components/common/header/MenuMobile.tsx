@@ -74,7 +74,7 @@ export const MenuMobile = ({ tone = 'light' }: MenuMobileProps) => {
           <div className='relative h-10 w-[180px]'>
             <Image
               src={VINYL_IMAGES.logoPrimary}
-              alt='Vinyl Heritage Vietnam'
+              alt='ReVinyl'
               fill
               className='object-contain object-left cursor-pointer'
               onClick={() => handleNavigate(buildLocalePath(locale))}

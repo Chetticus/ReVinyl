@@ -1,18 +1,39 @@
-# Vinyl Heritage Vietnam
+# ReVinyl
 
 Không gian số giới thiệu, lưu giữ và kể lại những câu chuyện xoay quanh đĩa nhạc, nghệ sĩ và đời sống âm nhạc Việt Nam.
 
 > Mỗi chiếc đĩa lưu giữ một thời đại.
 
+## Workbook content
+
+The supplied `ReVinyl-Mainstream-Seed-30-Recordings.xlsx` provides bilingual Footer, About and Contact copy, project contact details, and 30 recordings with their categories, translations, instrument roles and references. The live admin import also includes five extra recordings from the supplied audio folder. Public archive reads now default to the backend, so admin artwork, publication and audio updates appear on the site.
+
+To refresh the generated content:
+
+```powershell
+python scripts/import_workbook.py "C:/path/to/ReVinyl-Mainstream-Seed-30-Recordings.xlsx"
+npm run verify:workbook
+```
+
+`NEXT_PUBLIC_ARCHIVE_SOURCE=api` is the default. Set it to `workbook` only to preview the original 30 source drafts locally, without live audio. Local workbook IDs are never used for backend admin writes. Preview contributions link to Contact; the Contact form prepares an email draft for the supplied project address, which the visitor sends from their mail app.
+
+## Vinylized listening
+
+The archive uses pre-rendered `VINYLIZED` assets made with the user's Vinylize engine. The player switches between Digital and Vinylized at the current position, keeps Digital free of effects, and adds Vinylize's room response only to the processed version. Import filenames and internal source/rights notes remain in admin rather than below the public playback controls.
+
+See [Vinylize integration](docs/VINYLIZE_INTEGRATION.md) for the exact preset, source provenance, rendering command and validation. Generated song files are excluded from Git and uploaded through the archive admin API. Homepage selections feature Tuấn Ngọc, Khánh Ly, Thái Thanh and Bằng Kiều, with a different-artist fallback if a curated release is unavailable.
+
+See [the personal-information map](docs/PERSONAL_INFORMATION_MAP.md) for every public contact location, visitor/account field, workbook-to-code mapping, missing project input and integration limitation.
+
 ## [LINK-DEMO](https://drive.google.com/drive/folders/1ch69fEvJzArxUTdVh26wiy7COyrBHhxd?usp=sharing)
 
-![Vinyl Heritage](https://res.cloudinary.com/dks2uuwb6/image/upload/v1788429898/6ef8fb24-469f-47fe-97ad-225ab208e1e6.png)
+![ReVinyl](https://res.cloudinary.com/dks2uuwb6/image/upload/v1788429898/6ef8fb24-469f-47fe-97ad-225ab208e1e6.png)
 
 ---
 
 ## Giới thiệu
 
-**Vinyl Heritage Vietnam** là nền tảng khám phá di sản âm nhạc Việt Nam qua đĩa than (vinyl). Dự án bảo tồn, hệ thống hóa và lan tỏa giá trị lịch sử, nghệ thuật và ký ức được lưu giữ trên các ấn phẩm âm nhạc — từ bản thu, nghệ sĩ, thời kỳ đến câu chuyện phía sau mỗi mặt đĩa.
+**ReVinyl** là nền tảng khám phá di sản âm nhạc Việt Nam qua đĩa than (vinyl). Dự án bảo tồn, hệ thống hóa và lan tỏa giá trị lịch sử, nghệ thuật và ký ức được lưu giữ trên các ấn phẩm âm nhạc — từ bản thu, nghệ sĩ, thời kỳ đến câu chuyện phía sau mỗi mặt đĩa.
 
 Nền tảng gồm bốn mảng chính:
 
@@ -376,4 +397,4 @@ Sheet `00_HUONG_DAN` mô tả quy tắc điền, quy ước slug, định dạng
 
 ---
 
-© Vinyl Heritage Vietnam
+© ReVinyl

@@ -5,6 +5,7 @@ import { Call, Sms } from 'iconsax-react';
 import { VINYL_IMAGES } from '@/constants/vinyl-home';
 import { usePublicI18n } from '@/i18n/PublicI18nProvider';
 import { buildLocalePath } from '@/i18n/config';
+import { telephoneHref } from '@/lib/contact';
 
 function Column({
   title,
@@ -15,7 +16,9 @@ function Column({
 }) {
   return (
     <div className='flex flex-col gap-6'>
-      <h3 className='font-[family-name:var(--font-display)] text-xl font-semibold text-[var(--parchment)]'>{title}</h3>
+      <h3 className='font-[family-name:var(--font-display)] text-xl font-semibold text-[var(--parchment)]'>
+        {title}
+      </h3>
       <ul className='flex flex-col gap-2'>
         {links.map(link => (
           <li key={link.label}>
@@ -60,7 +63,7 @@ export default function Footer() {
           <Link href={local()} className='relative block h-10 w-[210px]'>
             <Image
               src={VINYL_IMAGES.logoWhite}
-              alt='Vinyl Heritage Vietnam'
+              alt='ReVinyl'
               fill
               className='object-contain object-left'
             />
@@ -70,7 +73,7 @@ export default function Footer() {
         <div className='flex flex-col gap-12 xl:flex-row xl:justify-between'>
           <div className='space-y-8'>
             <a
-              href='mailto:example@gmail.com'
+              href={`mailto:${d.footer.contactEmail}`}
               className='flex items-center gap-4 text-[var(--parchment-dim)] hover:text-[var(--gold-bright)]'
             >
               <Sms size={26} />
@@ -78,11 +81,11 @@ export default function Footer() {
                 <strong className='block text-[var(--parchment)]'>
                   {d.contact.email}
                 </strong>
-                example@gmail.com
+                {d.footer.contactEmail}
               </span>
             </a>
             <a
-              href='tel:+84345622468'
+              href={telephoneHref(d.footer.contactPhone)}
               className='flex items-center gap-4 text-[var(--parchment-dim)] hover:text-[var(--gold-bright)]'
             >
               <Call size={26} />
@@ -90,7 +93,7 @@ export default function Footer() {
                 <strong className='block text-[var(--parchment)]'>
                   {d.contact.phone}
                 </strong>
-                +84 345622468
+                {d.footer.contactPhone}
               </span>
             </a>
           </div>
@@ -102,7 +105,7 @@ export default function Footer() {
         <div className='mt-10 flex flex-col gap-4 border-t border-[var(--gold)]/15 pt-8 md:flex-row md:justify-between'>
           <p className='text-[var(--parchment-dim)]'>
             © {new Date().getFullYear()}{' '}
-            <strong className='text-[var(--parchment)]'>Vinyl Heritage Vietnam.</strong>{' '}
+            <strong className='text-[var(--parchment)]'>ReVinyl.</strong>{' '}
             {d.footer.rights}
           </p>
           <div className='flex gap-6 text-[var(--parchment-dim)]'>

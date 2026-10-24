@@ -149,6 +149,7 @@ export const copy = {
       'Phiên bản được xử lý từ nguồn Digital nhằm tạo trải nghiệm nghe lấy cảm hứng từ đĩa vinyl.',
 
     audioUnavailable: 'Bản thu âm hiện chưa được xuất bản.',
+    audioPlaybackError: 'Không thể phát âm thanh. Vui lòng thử lại.',
 
     play: 'Phát',
 
@@ -253,14 +254,14 @@ export const copy = {
       },
       creditStep: '6 — Ghi nhận đóng góp',
       creditConsent:
-        'Tôi đồng ý để Vinyl Heritage Vietnam ghi nhận tên của tôi nếu đóng góp này được sử dụng.',
+        'Tôi đồng ý để ReVinyl ghi nhận tên của tôi nếu đóng góp này được sử dụng.',
       submit: 'Gửi đóng góp',
       submitting: 'Đang gửi...',
       disclaimer:
-        'Thông tin bạn gửi sẽ được đội ngũ Vinyl Heritage Vietnam xem xét và kiểm chứng trước khi được sử dụng.',
+        'Thông tin bạn gửi sẽ được đội ngũ ReVinyl xem xét và kiểm chứng trước khi được sử dụng.',
       successTitle: 'Cảm ơn bạn đã đóng góp.',
       successDescription:
-        'Thông tin đã được gửi tới đội ngũ Vinyl Heritage Vietnam để xem xét và kiểm chứng.',
+        'Thông tin đã được gửi tới đội ngũ ReVinyl để xem xét và kiểm chứng.',
       again: 'Đóng góp thêm',
       explore: 'Khám phá kho âm nhạc',
       error: 'Không thể gửi đóng góp lúc này. Vui lòng thử lại.',
@@ -416,6 +417,7 @@ export const copy = {
       'A version processed from the Digital source to create a vinyl-inspired listening experience.',
 
     audioUnavailable: 'Audio for this recording is not yet available.',
+    audioPlaybackError: 'Audio could not be played. Please try again.',
 
     play: 'Play',
 
@@ -520,14 +522,14 @@ export const copy = {
       },
       creditStep: '6 — Contributor credit',
       creditConsent:
-        'I agree that Vinyl Heritage Vietnam may credit my name if this contribution is used.',
+        'I agree that ReVinyl may credit my name if this contribution is used.',
       submit: 'Send contribution',
       submitting: 'Sending...',
       disclaimer:
-        'Vinyl Heritage Vietnam will review and verify your information before it is used.',
+        'ReVinyl will review and verify your information before it is used.',
       successTitle: 'Thank you for contributing.',
       successDescription:
-        'Your information has been sent to the Vinyl Heritage Vietnam team for review and verification.',
+        'Your information has been sent to the ReVinyl team for review and verification.',
       again: 'Contribute more',
       explore: 'Explore the music archive',
       error: 'Your contribution could not be sent. Please try again.',

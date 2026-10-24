@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Generated audio masters are uploaded to archive storage, not bundled with Next.
+/outputs/vinylized/
+__pycache__/

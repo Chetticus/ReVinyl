@@ -44,7 +44,7 @@ export interface ArchiveRecording {
   year?: number;
   coverImage?: string;
   status: 'DRAFT' | 'PUBLISHED';
-  updatedAt: string;
+  updatedAt?: string;
   artist?: ArchiveLookup;
   album?: ArchiveLookup;
   era?: ArchiveLookup & {

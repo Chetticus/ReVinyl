@@ -1,6 +1,6 @@
 export const VINYL_IMAGES = {
-  logoPrimary: '/images/vinyl-home/logo-primary.png',
-  logoWhite: '/images/vinyl-home/logo-white.png',
+  logoPrimary: '/images/revinyl-wordmark-dark.svg',
+  logoWhite: '/images/revinyl-wordmark-light.svg',
   flagVn: '/images/vinyl-home/flag-vn.svg',
   hero: '/images/vinyl-home/hero.png',
   about: [
@@ -33,57 +33,30 @@ export const VINYL_IMAGES = {
 } as const;
 
 export const ABOUT_CARDS = [
-  { image: VINYL_IMAGES.about[0], lines: ['Bạn yêu', 'đĩa nhạc xưa'], align: 'end' },
-  { image: VINYL_IMAGES.about[1], lines: ['Bạn muốn', 'hiểu từng bản thu'], align: 'start' },
-  { image: VINYL_IMAGES.about[2], lines: ['Bạn trân trọng', 'âm nhạc Việt'], align: 'center' },
-  { image: VINYL_IMAGES.about[3], lines: ['Bạn cần', 'tư liệu dễ tìm'], align: 'start' },
-  { image: VINYL_IMAGES.about[4], lines: ['Bạn tìm kiếm', 'những câu chuyện'], align: 'end' },
-] as const;
-
-export const COLLECTION_TABS = [
-  { id: 'all', label: 'Tất cả', count: 1233 },
-  { id: 'featured', label: 'Nổi bật', count: 26 },
-  { id: 'popular', label: 'Phổ biến', count: 433 },
-  { id: 'trending', label: 'Xu hướng', count: 757 },
-  { id: 'latest', label: 'Mới nhất', count: 212 },
-] as const;
-
-export const COLLECTION_ITEMS = [
   {
-    image: VINYL_IMAGES.collection[0],
-    title: 'Tìm hiểu về đĩa Vinyl, âm thanh và văn hóa nghe nhạc',
-    authors: 'Anh Tuấn, Quang Anh',
-    topics: 12,
-    readers: 768,
-    rating: 4.5,
-    reviews: 15,
+    image: VINYL_IMAGES.about[0],
+    lines: ['Bạn yêu', 'đĩa nhạc xưa'],
+    align: 'end',
   },
   {
-    image: VINYL_IMAGES.collection[1],
-    title: 'Những bản thu tiêu biểu của nhạc Việt thập niên 60–70',
-    authors: 'Vinyl Heritage Team',
-    topics: 8,
-    readers: 542,
-    rating: 4.8,
-    reviews: 22,
+    image: VINYL_IMAGES.about[1],
+    lines: ['Bạn muốn', 'hiểu từng bản thu'],
+    align: 'start',
   },
   {
-    image: VINYL_IMAGES.collection[2],
-    title: 'Hành trình phát triển của ngành công nghiệp đĩa nhựa Việt Nam',
-    authors: 'Nguyễn Minh Hoàng',
-    topics: 10,
-    readers: 391,
-    rating: 4.6,
-    reviews: 18,
+    image: VINYL_IMAGES.about[2],
+    lines: ['Bạn trân trọng', 'âm nhạc Việt'],
+    align: 'center',
   },
   {
-    image: VINYL_IMAGES.collection[3],
-    title: 'Ký ức âm nhạc qua từng vòng quay đĩa',
-    authors: 'Trần Ngọc Anh',
-    topics: 6,
-    readers: 620,
-    rating: 4.7,
-    reviews: 31,
+    image: VINYL_IMAGES.about[3],
+    lines: ['Bạn cần', 'tư liệu dễ tìm'],
+    align: 'start',
+  },
+  {
+    image: VINYL_IMAGES.about[4],
+    lines: ['Bạn tìm kiếm', 'những câu chuyện'],
+    align: 'end',
   },
 ] as const;
 
@@ -130,26 +103,10 @@ export const VIET_VALUES = [
   },
 ] as const;
 
-export const REVIEWERS = [
-  {
-    name: 'Nguyễn Minh Hoàng',
-    role: 'Nhà sưu tầm đĩa nhạc',
-    quote:
-      'Vinyl Heritage Vietnam không chỉ giới thiệu những chiếc đĩa cũ, mà còn giúp người xem hiểu được bối cảnh văn hóa phía sau mỗi bản thu. Đây là điều rất cần thiết để giá trị của đĩa nhạc được nhìn nhận đầy đủ hơn.',
-    image: VINYL_IMAGES.reviewers[0],
-  },
-  {
-    name: 'Trần Ngọc Anh',
-    role: 'Người nghiên cứu văn hóa',
-    quote:
-      'Tôi đặc biệt ấn tượng với cách thông tin được kết nối giữa nghệ sĩ, tác phẩm, thời kỳ và hiện vật. Những dữ liệu tưởng như rời rạc đã trở thành một câu chuyện có chiều sâu và dễ tiếp cận.',
-    image: VINYL_IMAGES.reviewers[1],
-  },
-  {
-    name: 'Lê Quốc Bảo',
-    role: 'Người yêu nhạc',
-    quote:
-      'Đây là nơi tôi tìm thấy lại những giai điệu tuổi thơ và hiểu thêm về câu chuyện phía sau mỗi bản thu. Di sản âm nhạc trở nên gần gũi hơn bao giờ hết.',
-    image: VINYL_IMAGES.reviewers[2],
-  },
-] as const;
+// Add only approved testimonials, with permission to publish the name, photo and quote.
+export const REVIEWERS: Array<{
+  name: string;
+  role: string;
+  quote: string;
+  image: string;
+}> = [];

@@ -9,7 +9,7 @@ export default function BannerHeader() {
         <span>Thử thách</span>{' '}
       </div>
       <div className='font-bold my-3 text-lg text-white'>
-        Thử Thách Vinyl Heritage
+        Thử Thách ReVinyl
       </div>
       <div className='text-white text-sm'>
         Kiểm tra kiến thức, rinh ngay điểm cao!&#34; hoặc &#34;Học mà chơi, chơi

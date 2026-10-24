@@ -1,5 +1,12 @@
 import api from '@/lib/api/axios';
 import {
+  listWorkbookRecordings,
+  usesWorkbookArchive,
+  workbookLookups,
+  workbookRecordingDetail,
+  workbookTimeline,
+} from './workbook';
+import {
   ArchiveRecording,
   ArchiveAdminDashboard,
   ArchiveResponse,
@@ -17,16 +24,24 @@ export const archiveApi = {
       .get<ArchiveAdminDashboard>('/admin/archive/dashboard')
       .then(r => r.data),
   list: (params: Record<string, string | number | undefined>) =>
-    api
-      .get<ArchiveResponse>('/archive/recordings', { params })
-      .then(r => r.data),
+    usesWorkbookArchive
+      ? Promise.resolve(listWorkbookRecordings(params))
+      : api
+          .get<ArchiveResponse>('/archive/recordings', { params })
+          .then(r => r.data),
   detail: (slug: string, locale: Locale) =>
-    api
-      .get<ArchiveRecording>(`/archive/recordings/${slug}`, {
-        params: { locale },
-      })
-      .then(r => r.data),
-  lookups: () => api.get<Lookups>('/archive/lookups').then(r => r.data),
+    usesWorkbookArchive
+      ? Promise.resolve().then(() => workbookRecordingDetail(slug, locale))
+      : api
+          .get<ArchiveRecording>(`/archive/recordings/${slug}`, {
+            params: { locale },
+          })
+          .then(r => r.data),
+  lookups: () =>
+    usesWorkbookArchive
+      ? Promise.resolve(workbookLookups)
+      : api.get<Lookups>('/archive/lookups').then(r => r.data),
+  adminLookups: () => api.get<Lookups>('/archive/lookups').then(r => r.data),
   createLookup: (kind: string, data: object) =>
     api.post(`/admin/archive/lookups/${kind}`, data).then(r => r.data),
   updateLookup: (kind: string, id: string, data: object) =>
@@ -34,7 +49,9 @@ export const archiveApi = {
   deleteLookup: (kind: string, id: string) =>
     api.delete(`/admin/archive/lookups/${kind}/${id}`).then(r => r.data),
   timeline: (locale: Locale) =>
-    api.get('/archive/timeline', { params: { locale } }).then(r => r.data),
+    usesWorkbookArchive
+      ? Promise.resolve(workbookTimeline(locale))
+      : api.get('/archive/timeline', { params: { locale } }).then(r => r.data),
   createContribution: (data: CreateContributionInput) =>
     api.post('/archive/contributions', data).then(r => r.data),
   adminList: (params: Record<string, string | number | undefined>) =>

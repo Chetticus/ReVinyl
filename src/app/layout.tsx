@@ -6,9 +6,9 @@ import { Toaster } from 'sonner';
 import { headers } from 'next/headers';
 
 export const metadata: Metadata = {
-  title: 'Vinyl Heritage Vietnam',
+  title: 'ReVinyl',
   description:
-    'Vinyl Heritage Vietnam gìn giữ và kể lại những câu chuyện làm nên di sản âm nhạc Việt Nam.',
+    'ReVinyl gìn giữ và kể lại những câu chuyện làm nên di sản âm nhạc Việt Nam.',
 };
 
 export default async function RootLayout({

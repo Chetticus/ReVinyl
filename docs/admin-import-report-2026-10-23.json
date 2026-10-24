@@ -1,0 +1,1945 @@
+{
+  "source": "ReVinyl-Mainstream-Seed-30-Recordings.xlsx",
+  "sourceSha256": "7c1c5201e4ddb3c7caecf1762dac26986bc4a98cda721e3d88b7da7b3de1ce20",
+  "startedAt": "2026-10-23T12:10:55.177Z",
+  "createdLookups": [
+    {
+      "kind": "artists",
+      "slug": "tuan-ngoc",
+      "id": "f5b108b0-a1a3-4231-b8d4-f0e1b4fb8786"
+    },
+    {
+      "kind": "artists",
+      "slug": "khanh-ly",
+      "id": "00ca8813-8ea6-47a1-a7cc-019d5b63a818"
+    },
+    {
+      "kind": "artists",
+      "slug": "thai-thanh",
+      "id": "d9d54337-d9ab-4291-b999-5693e43a6c72"
+    },
+    {
+      "kind": "artists",
+      "slug": "le-thu",
+      "id": "7cc3e44a-2771-4c8d-bdf4-64699a7a61d0"
+    },
+    {
+      "kind": "artists",
+      "slug": "elvis-phuong",
+      "id": "69fc3ec5-d8ea-433b-baf8-8d1a6b3eea6d"
+    },
+    {
+      "kind": "artists",
+      "slug": "thanh-tuyen",
+      "id": "b88f87a6-1b68-4ecf-b907-06c67098bdba"
+    },
+    {
+      "kind": "artists",
+      "slug": "anh-tho",
+      "id": "30302702-af56-4b2e-859a-3e842e04bfaa"
+    },
+    {
+      "kind": "artists",
+      "slug": "viet-hoan-va-anh-tho",
+      "id": "5980bed8-81bd-47e2-83b8-c69d612f78ec"
+    },
+    {
+      "kind": "artists",
+      "slug": "trong-tan-va-anh-tho",
+      "id": "b09c4a40-98f0-4dab-8d74-485ad860c8a0"
+    },
+    {
+      "kind": "artists",
+      "slug": "quang-dung",
+      "id": "a35e1d2f-a33d-4de8-9827-b51a65f7837c"
+    },
+    {
+      "kind": "artists",
+      "slug": "bang-kieu",
+      "id": "1cfaf22b-6370-4b4b-894c-6ebbfe319277"
+    },
+    {
+      "kind": "albums",
+      "slug": "rieng-mot-goc-troi-tuan-ngoc-1996",
+      "id": "faf58ae2-2adb-4e52-bc25-6c9dd5ce49a3"
+    },
+    {
+      "kind": "albums",
+      "slug": "nho-em-giu-lay-tinh-ta-tuan-ngoc-2000",
+      "id": "5b3bf4f6-e1dd-470e-b79b-c8ac4314cfeb"
+    },
+    {
+      "kind": "albums",
+      "slug": "giot-le-cho-ngan-sau-tuan-ngoc-1994",
+      "id": "448332e2-76ec-43fa-9c03-02eda6713b3d"
+    },
+    {
+      "kind": "albums",
+      "slug": "tam-su-gui-ve-dau-tuan-ngoc-1991",
+      "id": "b705631c-e05b-479a-9ea0-04ae5526c3c5"
+    },
+    {
+      "kind": "albums",
+      "slug": "dem-thay-ta-la-thac-do-tuan-ngoc-1995",
+      "id": "447ddb49-0cf3-4147-a8a4-4364494404e1"
+    },
+    {
+      "kind": "albums",
+      "slug": "tinh-nho-khanh-ly-1990",
+      "id": "b80e92e6-49a6-4c55-b38e-278ff295d5c0"
+    },
+    {
+      "kind": "albums",
+      "slug": "ha-trang-khanh-ly-1990",
+      "id": "ac2798e6-b3fb-40be-9e00-336feb6928d7"
+    },
+    {
+      "kind": "albums",
+      "slug": "mot-coi-di-ve-khanh-ly-1992",
+      "id": "616da74e-a903-4966-ac43-a66b1b292381"
+    },
+    {
+      "kind": "albums",
+      "slug": "ngay-xua-hoang-thi-thai-thanh-1986",
+      "id": "d8be0c63-dc04-47eb-843e-5c7fd8046a2d"
+    },
+    {
+      "kind": "albums",
+      "slug": "nghin-trung-xa-cach-thai-thanh-1996",
+      "id": "7acbd3b8-9af4-459e-aea2-53e81d3cdd70"
+    },
+    {
+      "kind": "albums",
+      "slug": "dem-nho-trang-sai-gon-thai-thanh-1990",
+      "id": "b575b7a7-ff71-437a-88c5-14daa7940e8e"
+    },
+    {
+      "kind": "albums",
+      "slug": "xin-con-goi-ten-nhau-le-thu-2003",
+      "id": "7a960ac0-32d8-4434-b2cc-ae1da53e1ff6"
+    },
+    {
+      "kind": "albums",
+      "slug": "hoai-cam-le-thu-1985",
+      "id": "3d2aed3e-9b37-4a62-9d3d-8390ccb9a590"
+    },
+    {
+      "kind": "albums",
+      "slug": "bai-tinh-ca-mua-dong-le-thu-1989",
+      "id": "7df120e6-fb70-49c8-8372-a1b5b3ce70e8"
+    },
+    {
+      "kind": "albums",
+      "slug": "vet-thu-tren-lung-ngua-hoang-elvis-phuong-1992",
+      "id": "7144d5ab-aca4-4e20-b0dd-e08b9daaaf9a"
+    },
+    {
+      "kind": "albums",
+      "slug": "pham-duy-2-ky-niem-elvis-phuong-1992",
+      "id": "458ac9d5-8661-4b4f-9620-6609681a18d4"
+    },
+    {
+      "kind": "albums",
+      "slug": "bay-di-oi-co-don-elvis-phuong-1995",
+      "id": "3ab2e567-0f98-47ab-ae5e-54ce4548a738"
+    },
+    {
+      "kind": "albums",
+      "slug": "36-nam-tieng-hat-gui-nguoi-thanh-tuyen-2001",
+      "id": "cb7b25e9-eed3-4379-9d31-ad1b4b340d16"
+    },
+    {
+      "kind": "albums",
+      "slug": "tinh-khuc-tran-thien-thanh-thanh-tuyen-1988",
+      "id": "ee1b3cd6-d8b0-4ec5-8cdd-c1a2842793d0"
+    },
+    {
+      "kind": "albums",
+      "slug": "con-duong-xua-em-di-thanh-tuyen-1991",
+      "id": "6a65bcba-4b62-4049-8e93-5feeeb3965d1"
+    },
+    {
+      "kind": "albums",
+      "slug": "tinh-em-anh-tho-2005",
+      "id": "b993fe1c-b0ba-4097-88e9-316c04d059e7"
+    },
+    {
+      "kind": "albums",
+      "slug": "gui-em-o-cuoi-song-hong-viet-hoan-anh-tho-2001",
+      "id": "fbdc1ba7-e56d-461e-bbe5-d6c5c91b37f8"
+    },
+    {
+      "kind": "albums",
+      "slug": "dat-nuoc-tinh-yeu-trong-tan-anh-tho-2012",
+      "id": "26731557-5970-4cfe-938e-2498f6480604"
+    },
+    {
+      "kind": "albums",
+      "slug": "ben-em-ngay-cuoi-quang-dung-1997",
+      "id": "97c8f860-8550-4332-8186-36c3dc2ba2b3"
+    },
+    {
+      "kind": "albums",
+      "slug": "chuyen-la-vol-1-bang-kieu-2000",
+      "id": "f5a83cc4-5314-4c7f-8b5b-ca764ad2204d"
+    },
+    {
+      "kind": "albums",
+      "slug": "noi-tinh-yeu-bat-dau-bang-kieu-2020",
+      "id": "ed2ead46-1cf0-4df7-9b1f-61477d5a78ec"
+    },
+    {
+      "kind": "eras",
+      "slug": "1980s",
+      "id": "dbf4c975-9d0e-4922-a545-80e30180933d"
+    },
+    {
+      "kind": "eras",
+      "slug": "2000s",
+      "id": "36e38864-f369-41ee-a868-a94288ecf8cc"
+    },
+    {
+      "kind": "eras",
+      "slug": "2010s",
+      "id": "4c6545e1-b900-4533-ae59-7de628deca3e"
+    },
+    {
+      "kind": "eras",
+      "slug": "2020s",
+      "id": "a4788dd3-73a2-4e09-bc11-cc97ee636871"
+    },
+    {
+      "kind": "genres",
+      "slug": "tinh-khuc",
+      "id": "b22f179c-b1c3-43ef-8959-ec98b36abef9"
+    },
+    {
+      "kind": "genres",
+      "slug": "tan-nhac-viet-nam",
+      "id": "534df395-aa8c-4c2a-9352-52307b9ce640"
+    },
+    {
+      "kind": "genres",
+      "slug": "nhac-vang",
+      "id": "9a3c7387-0852-4bd8-8303-4c1b8a10a34b"
+    },
+    {
+      "kind": "genres",
+      "slug": "nhac-que-huong",
+      "id": "22138311-bddb-499c-b0c2-0d4a4a2958a3"
+    },
+    {
+      "kind": "genres",
+      "slug": "pop-ballad",
+      "id": "33b0f2f9-a775-4f9e-8346-6302431a4204"
+    },
+    {
+      "kind": "regions",
+      "slug": "hai-ngoai",
+      "id": "7f38b638-3060-4ceb-ace3-534d343864e9"
+    },
+    {
+      "kind": "regions",
+      "slug": "viet-nam",
+      "id": "7981b099-34e6-4d83-891e-a7ed10fe5ce4"
+    },
+    {
+      "kind": "regions",
+      "slug": "viet-nam-hai-ngoai",
+      "id": "644cf39b-50fe-4796-8859-1093d4c676b8"
+    },
+    {
+      "kind": "instruments",
+      "slug": "giong-hat",
+      "id": "a784cdeb-920f-462e-85c9-e9198243b0d3"
+    },
+    {
+      "kind": "instruments",
+      "slug": "piano-keyboard",
+      "id": "2e9bde1b-a460-44d7-899f-541c8219b156"
+    },
+    {
+      "kind": "instruments",
+      "slug": "bass",
+      "id": "888b96a3-b1cd-4284-b608-1e8082ce29c0"
+    },
+    {
+      "kind": "instruments",
+      "slug": "trong",
+      "id": "a41b4dd2-c977-444c-95e0-5b478cc99f27"
+    },
+    {
+      "kind": "instruments",
+      "slug": "dan-day",
+      "id": "4e072ad2-d792-4359-8a56-0234eed0a35a"
+    },
+    {
+      "kind": "instruments",
+      "slug": "keyboard",
+      "id": "d645e8ba-e85b-4d21-ac9e-d6a99fd2c985"
+    },
+    {
+      "kind": "instruments",
+      "slug": "bo-go",
+      "id": "dd81af0f-9b26-4c88-bc55-342cf9a28ada"
+    },
+    {
+      "kind": "artists",
+      "slug": "thuy-chi",
+      "id": "4e7e8cf5-dad4-4432-9a40-710d89ac862b"
+    }
+  ],
+  "reusedLookups": [
+    {
+      "kind": "genres",
+      "slug": "nhac-trinh",
+      "id": "d3a05d79-3adb-4abf-9976-5a2a6e006f52"
+    },
+    {
+      "kind": "instruments",
+      "slug": "guitar",
+      "id": "9397bdc8-f77c-47a8-8204-e3ca7d2393ce"
+    },
+    {
+      "kind": "instruments",
+      "slug": "sao-truc",
+      "id": "0657d8dc-ecbf-4687-80a3-7ccbbba4b12a"
+    }
+  ],
+  "updatedLookups": [
+    {
+      "kind": "eras",
+      "slug": "1990s",
+      "id": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa"
+    }
+  ],
+  "createdRecords": [
+    {
+      "slug": "rieng-mot-goc-troi-tuan-ngoc-1996",
+      "id": "d8187af0-971d-46ee-a77c-f1861a2f41a4"
+    },
+    {
+      "slug": "khuc-thuy-du-tuan-ngoc-2000",
+      "id": "f696d655-f782-4eb6-a1e4-1260753e5342"
+    },
+    {
+      "slug": "giot-le-cho-ngan-sau-tuan-ngoc-1994",
+      "id": "c1d27e51-2b80-4a7f-9328-95451fd2f2e7"
+    },
+    {
+      "slug": "ao-lua-ha-dong-tuan-ngoc-1991",
+      "id": "751f7091-632e-419f-ab80-8b1c17fbd392"
+    },
+    {
+      "slug": "dem-thay-ta-la-thac-do-tuan-ngoc-1995",
+      "id": "a4e5e67c-7575-44d8-945d-4c726e885b50"
+    },
+    {
+      "slug": "diem-xua-khanh-ly-1990",
+      "id": "451a27bd-c625-48ab-af3e-99909e9ac666"
+    },
+    {
+      "slug": "cat-bui-khanh-ly-1990",
+      "id": "77e8b77c-b772-4621-b9a2-95a01be3e6be"
+    },
+    {
+      "slug": "nhin-nhung-mua-thu-di-khanh-ly-1990",
+      "id": "10606ea1-48a9-44b4-8605-a8c2fdfd6eb6"
+    },
+    {
+      "slug": "mot-coi-di-ve-khanh-ly-1992",
+      "id": "2cd6ca8d-e1b2-4034-96a4-8ac1b2946c02"
+    },
+    {
+      "slug": "tinh-ca-thai-thanh-1986",
+      "id": "65b64d97-ea59-476f-be36-d120fb04fd3c"
+    },
+    {
+      "slug": "nghin-trung-xa-cach-thai-thanh-1996",
+      "id": "59a4a1e3-66b7-4026-a304-baa8184fe084"
+    },
+    {
+      "slug": "ngay-xua-hoang-thi-thai-thanh-1986",
+      "id": "772b46b5-69bb-448a-bb87-9dcb0708e64f"
+    },
+    {
+      "slug": "ao-anh-sut-chi-duong-ta-thai-thanh-1990",
+      "id": "1da025a5-9fc8-4871-9ef9-4a57ed0fee07"
+    },
+    {
+      "slug": "xin-con-goi-ten-nhau-le-thu-2003",
+      "id": "dd49f678-4d8e-4f81-bdf8-6d6ed5288e8f"
+    },
+    {
+      "slug": "hoai-cam-le-thu-1985",
+      "id": "98f3f0da-0ca4-444d-95b4-864cfb662410"
+    },
+    {
+      "slug": "bai-tinh-ca-mua-dong-le-thu-1989",
+      "id": "55a3610f-0feb-4ccd-863c-2a4ce3c7aacd"
+    },
+    {
+      "slug": "vet-thu-tren-lung-ngua-hoang-elvis-phuong-1992",
+      "id": "ec142cbd-4c29-4449-8638-d7850356ef2b"
+    },
+    {
+      "slug": "ao-anh-sut-chi-duong-ta-elvis-phuong-1992",
+      "id": "b88a4b6a-c2c1-498f-9f91-7ee483b3be8f"
+    },
+    {
+      "slug": "toi-muon-quen-nguoi-elvis-phuong-1995",
+      "id": "1116a2f7-00e6-43f9-a2ad-daff4e3383e4"
+    },
+    {
+      "slug": "noi-buon-hoa-phuong-thanh-tuyen-2001",
+      "id": "609559c5-3b0a-4900-84cd-61e00364ee5d"
+    },
+    {
+      "slug": "tinh-dau-tinh-cuoi-thanh-tuyen-1988",
+      "id": "553cb81c-0b87-4bc8-9bb4-69becc430163"
+    },
+    {
+      "slug": "con-duong-xua-em-di-thanh-tuyen-1991",
+      "id": "f21871c4-1ef3-413b-9cea-39462124b2af"
+    },
+    {
+      "slug": "khuc-hat-song-que-anh-tho-2005",
+      "id": "7ae5fc1a-f267-4d30-8883-e2872f89f03c"
+    },
+    {
+      "slug": "gui-em-o-cuoi-song-hong-viet-hoan-anh-tho-2001",
+      "id": "8607bb3d-3a55-4cbb-ba41-969f9ee6a208"
+    },
+    {
+      "slug": "dong-song-que-anh-dong-song-que-em-2012",
+      "id": "088e4967-b484-4039-8eb3-499324494aad"
+    },
+    {
+      "slug": "con-ta-voi-nong-nan-quang-dung-1997",
+      "id": "01e1831b-d5c6-460a-ab4e-7273fd358053"
+    },
+    {
+      "slug": "vi-do-la-em-quang-dung-1997",
+      "id": "cf68dffc-aa1b-4595-a7fa-e02f63ee2301"
+    },
+    {
+      "slug": "bien-nghin-thu-o-lai-quang-dung-1997",
+      "id": "cbdf97b3-63eb-4a28-a74c-a0729106870f"
+    },
+    {
+      "slug": "trai-tim-ben-le-bang-kieu-2000",
+      "id": "1ac72b36-da22-4dea-bf3d-c6bb752970d3"
+    },
+    {
+      "slug": "canh-hong-phai-bang-kieu-2020",
+      "id": "b989262d-1692-424a-8f40-e432825dabc2"
+    },
+    {
+      "slug": "chieu-mot-minh-qua-pho-audio",
+      "id": "7f8a4e94-f33c-4a8f-af36-795cf1b83374"
+    },
+    {
+      "slug": "chim-ngoi-bay-ve-audio",
+      "id": "ad216d26-f57f-4e49-84d4-992c28adb206"
+    },
+    {
+      "slug": "giac-mo-trua-thuy-chi-audio",
+      "id": "50820ca7-7436-4724-839f-7f139d6b78d4"
+    },
+    {
+      "slug": "nho-mua-thu-ha-noi-audio",
+      "id": "1ad14268-b9b7-44c7-bce4-316d8d5b6192"
+    },
+    {
+      "slug": "ru-doi-di-nhe-audio",
+      "id": "8ac0ecfc-6db4-4f4d-b097-6ce03b6a281b"
+    }
+  ],
+  "skippedRecords": [],
+  "uploadedAudio": [
+    {
+      "slug": "rieng-mot-goc-troi-tuan-ngoc-1996",
+      "filename": "Riêng Một Góc Trời.mp3",
+      "bytes": 4691776
+    },
+    {
+      "slug": "giot-le-cho-ngan-sau-tuan-ngoc-1994",
+      "filename": "Giọt Lệ Cho Ngàn Sau.mp3",
+      "bytes": 5565994
+    },
+    {
+      "slug": "ao-lua-ha-dong-tuan-ngoc-1991",
+      "filename": "Áo Lụa Hà Đông.mp3",
+      "bytes": 5800307
+    },
+    {
+      "slug": "dem-thay-ta-la-thac-do-tuan-ngoc-1995",
+      "filename": "Đêm Thấy Ta Là Thác Đổ.mp3",
+      "bytes": 5527949
+    },
+    {
+      "slug": "diem-xua-khanh-ly-1990",
+      "filename": "DIỄM XƯA (Sáng Tác Trịnh Công Sơn) - KHÁNH LY - Mưa vẫn mưa bay trên tầng tháp cổ.mp3",
+      "bytes": 3355323
+    },
+    {
+      "slug": "cat-bui-khanh-ly-1990",
+      "filename": "Khánh Ly Cát bụi.mp3",
+      "bytes": 4752947
+    },
+    {
+      "slug": "nhin-nhung-mua-thu-di-khanh-ly-1990",
+      "filename": "NHÌN NHỮNG MÙA THU ĐI Trịnh Công Sơn Khánh Ly.mp3",
+      "bytes": 4610295
+    },
+    {
+      "slug": "tinh-ca-thai-thanh-1986",
+      "filename": "Tình Ca.mp3",
+      "bytes": 7643722
+    },
+    {
+      "slug": "nghin-trung-xa-cach-thai-thanh-1996",
+      "filename": "NGHÌN TRÙNG XA CÁCH - THÁI THANH Tạm Biệt Cô Thái Thanh.mp3",
+      "bytes": 4930203
+    },
+    {
+      "slug": "ngay-xua-hoang-thi-thai-thanh-1986",
+      "filename": "NGÀY XƯA HOÀNG THỊ - THÁI THANH (PHẠM DUY).mp3",
+      "bytes": 5714071
+    },
+    {
+      "slug": "xin-con-goi-ten-nhau-le-thu-2003",
+      "filename": "Xin Còn Gọi Tên Nhau.mp3",
+      "bytes": 4912601
+    },
+    {
+      "slug": "bai-tinh-ca-mua-dong-le-thu-1989",
+      "filename": "Bài Tình Ca Mùa Đông.mp3",
+      "bytes": 2109823
+    },
+    {
+      "slug": "vet-thu-tren-lung-ngua-hoang-elvis-phuong-1992",
+      "filename": "♬ Vết Thù Trên Lưng Ngựa Hoang - Elvis Phương.mp3",
+      "bytes": 4176064
+    },
+    {
+      "slug": "ao-anh-sut-chi-duong-ta-elvis-phuong-1992",
+      "filename": "Áo Anh Sứt Chỉ Đường Tà.mp3",
+      "bytes": 5370514
+    },
+    {
+      "slug": "toi-muon-quen-nguoi-elvis-phuong-1995",
+      "filename": "Tôi Muốn Quên Người.mp3",
+      "bytes": 4224752
+    },
+    {
+      "slug": "noi-buon-hoa-phuong-thanh-tuyen-2001",
+      "filename": "Nỗi Buồn Hoa Phượng.mp3",
+      "bytes": 4875431
+    },
+    {
+      "slug": "con-duong-xua-em-di-thanh-tuyen-1991",
+      "filename": "Con Đường Xưa Em Đi.mp3",
+      "bytes": 4117554
+    },
+    {
+      "slug": "khuc-hat-song-que-anh-tho-2005",
+      "filename": "Khúc Hát Sông Quê - Anh Thơ [Official Audio].mp3",
+      "bytes": 6753521
+    },
+    {
+      "slug": "con-ta-voi-nong-nan-quang-dung-1997",
+      "filename": "Còn Ta Với Nồng Nàn.mp3",
+      "bytes": 4416847
+    },
+    {
+      "slug": "vi-do-la-em-quang-dung-1997",
+      "filename": "Vì Đó Là Em.mp3",
+      "bytes": 5219265
+    },
+    {
+      "slug": "bien-nghin-thu-o-lai-quang-dung-1997",
+      "filename": "Bien nghin thu o lai.mp3",
+      "bytes": 3948675
+    },
+    {
+      "slug": "trai-tim-ben-le-bang-kieu-2000",
+      "filename": "Trái Tim Bên Lề Bằng Kiều.mp3",
+      "bytes": 5021453
+    },
+    {
+      "slug": "canh-hong-phai-bang-kieu-2020",
+      "filename": "Cánh Hồng Phai.mp3",
+      "bytes": 4572325
+    },
+    {
+      "slug": "chieu-mot-minh-qua-pho-audio",
+      "filename": "Chiều Một Mình Qua Phố.mp3",
+      "bytes": 4993240
+    },
+    {
+      "slug": "chim-ngoi-bay-ve-audio",
+      "filename": "Chim ngói bay về.mp3",
+      "bytes": 4691483
+    },
+    {
+      "slug": "giac-mo-trua-thuy-chi-audio",
+      "filename": "Giấc Mơ Trưa Thùy Chi Audio MV.mp3",
+      "bytes": 8455660
+    },
+    {
+      "slug": "nho-mua-thu-ha-noi-audio",
+      "filename": "Nhớ Mùa Thu Hà Nội (1995).mp3",
+      "bytes": 3997382
+    },
+    {
+      "slug": "ru-doi-di-nhe-audio",
+      "filename": "Ru Đời Đi Nhé.mp3",
+      "bytes": 4282199
+    }
+  ],
+  "skippedAudio": [],
+  "errors": [],
+  "verified": [
+    {
+      "slug": "rieng-mot-goc-troi-tuan-ngoc-1996",
+      "id": "d8187af0-971d-46ee-a77c-f1861a2f41a4",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 6,
+      "references": 1,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "Riêng Một Góc Trời.mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758506/archive/recordings/d8187af0-971d-46ee-a77c-f1861a2f41a4/file_xri047.mp3",
+          "fileSize": 4691776,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "khuc-thuy-du-tuan-ngoc-2000",
+      "id": "f696d655-f782-4eb6-a1e4-1260753e5342",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 6,
+      "references": 1,
+      "audio": [],
+      "issues": []
+    },
+    {
+      "slug": "giot-le-cho-ngan-sau-tuan-ngoc-1994",
+      "id": "c1d27e51-2b80-4a7f-9328-95451fd2f2e7",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 6,
+      "references": 1,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "Giọt Lệ Cho Ngàn Sau.mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758522/archive/recordings/c1d27e51-2b80-4a7f-9328-95451fd2f2e7/file_mldq90.mp3",
+          "fileSize": 5565994,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ao-lua-ha-dong-tuan-ngoc-1991",
+      "id": "751f7091-632e-419f-ab80-8b1c17fbd392",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 6,
+      "references": 1,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "Áo Lụa Hà Đông.mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758544/archive/recordings/751f7091-632e-419f-ab80-8b1c17fbd392/file_tbqahu.mp3",
+          "fileSize": 5800307,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "dem-thay-ta-la-thac-do-tuan-ngoc-1995",
+      "id": "a4e5e67c-7575-44d8-945d-4c726e885b50",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 6,
+      "references": 1,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "Đêm Thấy Ta Là Thác Đổ.mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758559/archive/recordings/a4e5e67c-7575-44d8-945d-4c726e885b50/file_vewlvv.mp3",
+          "fileSize": 5527949,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "diem-xua-khanh-ly-1990",
+      "id": "451a27bd-c625-48ab-af3e-99909e9ac666",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 6,
+      "references": 1,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "DIỄM XƯA (Sáng Tác Trịnh Công Sơn) - KHÁNH LY - Mưa vẫn mưa bay trên tầng tháp cổ.mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758581/archive/recordings/451a27bd-c625-48ab-af3e-99909e9ac666/file_ck9tmk.mp3",
+          "fileSize": 3355323,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "cat-bui-khanh-ly-1990",
+      "id": "77e8b77c-b772-4621-b9a2-95a01be3e6be",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 6,
+      "references": 1,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "Khánh Ly Cát bụi.mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758598/archive/recordings/77e8b77c-b772-4621-b9a2-95a01be3e6be/file_kvchu1.mp3",
+          "fileSize": 4752947,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "nhin-nhung-mua-thu-di-khanh-ly-1990",
+      "id": "10606ea1-48a9-44b4-8605-a8c2fdfd6eb6",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 6,
+      "references": 1,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "NHÌN NHỮNG MÙA THU ĐI Trịnh Công Sơn Khánh Ly.mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758620/archive/recordings/10606ea1-48a9-44b4-8605-a8c2fdfd6eb6/file_vz3mwl.mp3",
+          "fileSize": 4610295,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "mot-coi-di-ve-khanh-ly-1992",
+      "id": "2cd6ca8d-e1b2-4034-96a4-8ac1b2946c02",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 6,
+      "references": 1,
+      "audio": [],
+      "issues": []
+    },
+    {
+      "slug": "tinh-ca-thai-thanh-1986",
+      "id": "65b64d97-ea59-476f-be36-d120fb04fd3c",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 6,
+      "references": 1,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "Tình Ca.mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758644/archive/recordings/65b64d97-ea59-476f-be36-d120fb04fd3c/file_ie0k8g.mp3",
+          "fileSize": 7643722,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "nghin-trung-xa-cach-thai-thanh-1996",
+      "id": "59a4a1e3-66b7-4026-a304-baa8184fe084",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 6,
+      "references": 1,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "NGHÌN TRÙNG XA CÁCH - THÁI THANH Tạm Biệt Cô Thái Thanh.mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758662/archive/recordings/59a4a1e3-66b7-4026-a304-baa8184fe084/file_md2k5g.mp3",
+          "fileSize": 4930203,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ngay-xua-hoang-thi-thai-thanh-1986",
+      "id": "772b46b5-69bb-448a-bb87-9dcb0708e64f",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 6,
+      "references": 1,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "NGÀY XƯA HOÀNG THỊ - THÁI THANH (PHẠM DUY).mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758687/archive/recordings/772b46b5-69bb-448a-bb87-9dcb0708e64f/file_hizxne.mp3",
+          "fileSize": 5714071,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ao-anh-sut-chi-duong-ta-thai-thanh-1990",
+      "id": "1da025a5-9fc8-4871-9ef9-4a57ed0fee07",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 6,
+      "references": 1,
+      "audio": [],
+      "issues": []
+    },
+    {
+      "slug": "xin-con-goi-ten-nhau-le-thu-2003",
+      "id": "dd49f678-4d8e-4f81-bdf8-6d6ed5288e8f",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 6,
+      "references": 1,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "Xin Còn Gọi Tên Nhau.mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758713/archive/recordings/dd49f678-4d8e-4f81-bdf8-6d6ed5288e8f/file_sbjhxz.mp3",
+          "fileSize": 4912601,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "hoai-cam-le-thu-1985",
+      "id": "98f3f0da-0ca4-444d-95b4-864cfb662410",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 6,
+      "references": 1,
+      "audio": [],
+      "issues": []
+    },
+    {
+      "slug": "bai-tinh-ca-mua-dong-le-thu-1989",
+      "id": "55a3610f-0feb-4ccd-863c-2a4ce3c7aacd",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 6,
+      "references": 1,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "Bài Tình Ca Mùa Đông.mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758733/archive/recordings/55a3610f-0feb-4ccd-863c-2a4ce3c7aacd/file_vwzcwu.mp3",
+          "fileSize": 2109823,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "vet-thu-tren-lung-ngua-hoang-elvis-phuong-1992",
+      "id": "ec142cbd-4c29-4449-8638-d7850356ef2b",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 6,
+      "references": 1,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "♬ Vết Thù Trên Lưng Ngựa Hoang - Elvis Phương.mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758747/archive/recordings/ec142cbd-4c29-4449-8638-d7850356ef2b/file_z64alq.mp3",
+          "fileSize": 4176064,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ao-anh-sut-chi-duong-ta-elvis-phuong-1992",
+      "id": "b88a4b6a-c2c1-498f-9f91-7ee483b3be8f",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 6,
+      "references": 1,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "Áo Anh Sứt Chỉ Đường Tà.mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758764/archive/recordings/b88a4b6a-c2c1-498f-9f91-7ee483b3be8f/file_c362x8.mp3",
+          "fileSize": 5370514,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User identified the performer as Elvis Phương. Exact master/release edition requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "toi-muon-quen-nguoi-elvis-phuong-1995",
+      "id": "1116a2f7-00e6-43f9-a2ad-daff4e3383e4",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 6,
+      "references": 1,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "Tôi Muốn Quên Người.mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758785/archive/recordings/1116a2f7-00e6-43f9-a2ad-daff4e3383e4/file_lhegnb.mp3",
+          "fileSize": 4224752,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "noi-buon-hoa-phuong-thanh-tuyen-2001",
+      "id": "609559c5-3b0a-4900-84cd-61e00364ee5d",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 5,
+      "references": 1,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "Nỗi Buồn Hoa Phượng.mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758474/archive/recordings/609559c5-3b0a-4900-84cd-61e00364ee5d/file_vak7cj.mp3",
+          "fileSize": 4875431,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "tinh-dau-tinh-cuoi-thanh-tuyen-1988",
+      "id": "553cb81c-0b87-4bc8-9bb4-69becc430163",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 5,
+      "references": 1,
+      "audio": [],
+      "issues": []
+    },
+    {
+      "slug": "con-duong-xua-em-di-thanh-tuyen-1991",
+      "id": "f21871c4-1ef3-413b-9cea-39462124b2af",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 5,
+      "references": 1,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "Con Đường Xưa Em Đi.mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758493/archive/recordings/f21871c4-1ef3-413b-9cea-39462124b2af/file_lycbcv.mp3",
+          "fileSize": 4117554,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "khuc-hat-song-que-anh-tho-2005",
+      "id": "7ae5fc1a-f267-4d30-8883-e2872f89f03c",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 5,
+      "references": 1,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "Khúc Hát Sông Quê - Anh Thơ [Official Audio].mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758504/archive/recordings/7ae5fc1a-f267-4d30-8883-e2872f89f03c/file_j7z23w.mp3",
+          "fileSize": 6753521,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "gui-em-o-cuoi-song-hong-viet-hoan-anh-tho-2001",
+      "id": "8607bb3d-3a55-4cbb-ba41-969f9ee6a208",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 5,
+      "references": 1,
+      "audio": [],
+      "issues": []
+    },
+    {
+      "slug": "dong-song-que-anh-dong-song-que-em-2012",
+      "id": "088e4967-b484-4039-8eb3-499324494aad",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 5,
+      "references": 1,
+      "audio": [],
+      "issues": []
+    },
+    {
+      "slug": "con-ta-voi-nong-nan-quang-dung-1997",
+      "id": "01e1831b-d5c6-460a-ab4e-7273fd358053",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 6,
+      "references": 1,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "Còn Ta Với Nồng Nàn.mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758525/archive/recordings/01e1831b-d5c6-460a-ab4e-7273fd358053/file_zvhjhi.mp3",
+          "fileSize": 4416847,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "vi-do-la-em-quang-dung-1997",
+      "id": "cf68dffc-aa1b-4595-a7fa-e02f63ee2301",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 6,
+      "references": 1,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "Vì Đó Là Em.mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758542/archive/recordings/cf68dffc-aa1b-4595-a7fa-e02f63ee2301/file_iwlhri.mp3",
+          "fileSize": 5219265,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "bien-nghin-thu-o-lai-quang-dung-1997",
+      "id": "cbdf97b3-63eb-4a28-a74c-a0729106870f",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 6,
+      "references": 1,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "Bien nghin thu o lai.mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758559/archive/recordings/cbdf97b3-63eb-4a28-a74c-a0729106870f/file_jy5iud.mp3",
+          "fileSize": 3948675,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "trai-tim-ben-le-bang-kieu-2000",
+      "id": "1ac72b36-da22-4dea-bf3d-c6bb752970d3",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 6,
+      "references": 1,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "Trái Tim Bên Lề Bằng Kiều.mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758575/archive/recordings/1ac72b36-da22-4dea-bf3d-c6bb752970d3/file_urxwje.mp3",
+          "fileSize": 5021453,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "canh-hong-phai-bang-kieu-2020",
+      "id": "b989262d-1692-424a-8f40-e432825dabc2",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 6,
+      "references": 1,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "Cánh Hồng Phai.mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758591/archive/recordings/b989262d-1692-424a-8f40-e432825dabc2/file_j9s8ns.mp3",
+          "fileSize": 4572325,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "chieu-mot-minh-qua-pho-audio",
+      "id": "7f8a4e94-f33c-4a8f-af36-795cf1b83374",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 0,
+      "references": 0,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "Chiều Một Mình Qua Phố.mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758611/archive/recordings/7f8a4e94-f33c-4a8f-af36-795cf1b83374/file_mvdrid.mp3",
+          "fileSize": 4993240,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied audio file with no matching workbook row. Filename preserved; artist/date/master metadata requires review.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "chim-ngoi-bay-ve-audio",
+      "id": "ad216d26-f57f-4e49-84d4-992c28adb206",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 0,
+      "references": 0,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "Chim ngói bay về.mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758630/archive/recordings/ad216d26-f57f-4e49-84d4-992c28adb206/file_fazoly.mp3",
+          "fileSize": 4691483,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied audio file with no matching workbook row. Filename preserved; artist/date/master metadata requires review.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "giac-mo-trua-thuy-chi-audio",
+      "id": "50820ca7-7436-4724-839f-7f139d6b78d4",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 0,
+      "references": 0,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "Giấc Mơ Trưa Thùy Chi Audio MV.mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758658/archive/recordings/50820ca7-7436-4724-839f-7f139d6b78d4/file_l7g1qi.mp3",
+          "fileSize": 8455660,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied audio file with no matching workbook row. Filename preserved; artist/date/master metadata requires review.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "nho-mua-thu-ha-noi-audio",
+      "id": "1ad14268-b9b7-44c7-bce4-316d8d5b6192",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 0,
+      "references": 0,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "Nhớ Mùa Thu Hà Nội (1995).mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758680/archive/recordings/1ad14268-b9b7-44c7-bce4-316d8d5b6192/file_x14n9u.mp3",
+          "fileSize": 3997382,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied audio file with no matching workbook row. Filename preserved; artist/date/master metadata requires review.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ru-doi-di-nhe-audio",
+      "id": "8ac0ecfc-6db4-4f4d-b097-6ce03b6a281b",
+      "status": "DRAFT",
+      "translations": 2,
+      "instruments": 0,
+      "references": 0,
+      "audio": [
+        {
+          "type": "DIGITAL",
+          "filename": "Ru Đời Đi Nhé.mp3",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758697/archive/recordings/8ac0ecfc-6db4-4f4d-b097-6ce03b6a281b/file_cowavo.mp3",
+          "fileSize": 4282199,
+          "mimeType": "audio/mpeg",
+          "sourceNote": "User-supplied audio file with no matching workbook row. Filename preserved; artist/date/master metadata requires review.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT."
+        }
+      ],
+      "issues": []
+    }
+  ],
+  "unresolvedAudio": [
+    {
+      "slug": "khuc-thuy-du-tuan-ngoc-2000",
+      "reason": "No matching audio file."
+    },
+    {
+      "slug": "mot-coi-di-ve-khanh-ly-1992",
+      "reason": "No matching audio file."
+    },
+    {
+      "slug": "ao-anh-sut-chi-duong-ta-thai-thanh-1990",
+      "reason": "One file for two different performers; awaiting identification."
+    },
+    {
+      "slug": "hoai-cam-le-thu-1985",
+      "reason": "File says pre-1975 but workbook edition is 1985; exact master not confirmed."
+    },
+    {
+      "slug": "tinh-dau-tinh-cuoi-thanh-tuyen-1988",
+      "reason": "No matching audio file."
+    },
+    {
+      "slug": "gui-em-o-cuoi-song-hong-viet-hoan-anh-tho-2001",
+      "reason": "No matching audio file."
+    },
+    {
+      "slug": "dong-song-que-anh-dong-song-que-em-2012",
+      "reason": "No matching audio file."
+    }
+  ],
+  "unmatchedFiles": [],
+  "additionalRecords": [
+    "chieu-mot-minh-qua-pho-audio",
+    "chim-ngoi-bay-ve-audio",
+    "giac-mo-trua-thuy-chi-audio",
+    "nho-mua-thu-ha-noi-audio",
+    "ru-doi-di-nhe-audio"
+  ],
+  "filenameEncoding": "RFC 5987 UTF-8 multipart filenames",
+  "correctedAudio": [
+    {
+      "slug": "rieng-mot-goc-troi-tuan-ngoc-1996",
+      "filename": "Riêng Một Góc Trời.mp3"
+    },
+    {
+      "slug": "giot-le-cho-ngan-sau-tuan-ngoc-1994",
+      "filename": "Giọt Lệ Cho Ngàn Sau.mp3"
+    },
+    {
+      "slug": "ao-lua-ha-dong-tuan-ngoc-1991",
+      "filename": "Áo Lụa Hà Đông.mp3"
+    },
+    {
+      "slug": "dem-thay-ta-la-thac-do-tuan-ngoc-1995",
+      "filename": "Đêm Thấy Ta Là Thác Đổ.mp3"
+    },
+    {
+      "slug": "diem-xua-khanh-ly-1990",
+      "filename": "DIỄM XƯA (Sáng Tác Trịnh Công Sơn) - KHÁNH LY - Mưa vẫn mưa bay trên tầng tháp cổ.mp3"
+    },
+    {
+      "slug": "cat-bui-khanh-ly-1990",
+      "filename": "Khánh Ly Cát bụi.mp3"
+    },
+    {
+      "slug": "nhin-nhung-mua-thu-di-khanh-ly-1990",
+      "filename": "NHÌN NHỮNG MÙA THU ĐI Trịnh Công Sơn Khánh Ly.mp3"
+    },
+    {
+      "slug": "tinh-ca-thai-thanh-1986",
+      "filename": "Tình Ca.mp3"
+    },
+    {
+      "slug": "nghin-trung-xa-cach-thai-thanh-1996",
+      "filename": "NGHÌN TRÙNG XA CÁCH - THÁI THANH Tạm Biệt Cô Thái Thanh.mp3"
+    },
+    {
+      "slug": "ngay-xua-hoang-thi-thai-thanh-1986",
+      "filename": "NGÀY XƯA HOÀNG THỊ - THÁI THANH (PHẠM DUY).mp3"
+    },
+    {
+      "slug": "xin-con-goi-ten-nhau-le-thu-2003",
+      "filename": "Xin Còn Gọi Tên Nhau.mp3"
+    },
+    {
+      "slug": "bai-tinh-ca-mua-dong-le-thu-1989",
+      "filename": "Bài Tình Ca Mùa Đông.mp3"
+    },
+    {
+      "slug": "vet-thu-tren-lung-ngua-hoang-elvis-phuong-1992",
+      "filename": "♬ Vết Thù Trên Lưng Ngựa Hoang - Elvis Phương.mp3"
+    },
+    {
+      "slug": "ao-anh-sut-chi-duong-ta-elvis-phuong-1992",
+      "filename": "Áo Anh Sứt Chỉ Đường Tà.mp3"
+    },
+    {
+      "slug": "toi-muon-quen-nguoi-elvis-phuong-1995",
+      "filename": "Tôi Muốn Quên Người.mp3"
+    }
+  ],
+  "completedAt": "2026-10-23T12:36:12.384Z",
+  "totalAfter": 36,
+  "existingBefore": [
+    {
+      "id": "e4420b4d-e0cd-4937-8859-01a3c217b06b",
+      "slug": "trong-com",
+      "status": "PUBLISHED"
+    }
+  ],
+  "originalRecordsPreserved": true,
+  "lookupStateBefore": {
+    "artists": [
+      {
+        "id": "3152795e-6b4b-4301-b0eb-6371b54e6601",
+        "slug": "trinh-cong-son",
+        "name": "Công Sơn",
+        "image": null
+      }
+    ],
+    "albums": [
+      {
+        "id": "be164b29-2c9f-41dd-bf9b-ba227e022eed",
+        "slug": "test-album",
+        "title": "Test Album 2",
+        "year": null,
+        "coverImage": null
+      }
+    ],
+    "eras": [
+      {
+        "id": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+        "slug": "1990s",
+        "name": "1990s",
+        "startYear": 1800,
+        "endYear": 1900,
+        "order": 0,
+        "translations": [
+          {
+            "id": "419210fa-4a74-4cad-8922-c2d30f93c473",
+            "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+            "locale": "vi",
+            "title": "thoi ky 1990s",
+            "summary": "tom tat thoi ky 1990s",
+            "musicalContext": null
+          },
+          {
+            "id": "60a8ea55-a46b-4208-824a-869a3dfef059",
+            "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+            "locale": "en",
+            "title": "Era 1990s",
+            "summary": "Summary 1990s",
+            "musicalContext": null
+          }
+        ]
+      }
+    ],
+    "genres": [
+      {
+        "id": "d3a05d79-3adb-4abf-9976-5a2a6e006f52",
+        "slug": "nhac-trinh",
+        "name": "Nhạc Trịnh"
+      }
+    ],
+    "regions": [
+      {
+        "id": "d91fcdc3-5a97-4ff2-aece-1402ad9e38c5",
+        "slug": "mine-trung",
+        "name": "Miền Trung"
+      }
+    ],
+    "instruments": [
+      {
+        "id": "9397bdc8-f77c-47a8-8204-e3ca7d2393ce",
+        "slug": "guitar",
+        "name": "Guitar"
+      },
+      {
+        "id": "7cd8000a-37a3-473a-9fcf-17875fcc6fb0",
+        "slug": "dan-tranh",
+        "name": "dan tranh"
+      },
+      {
+        "id": "0657d8dc-ecbf-4687-80a3-7ccbbba4b12a",
+        "slug": "sao-truc",
+        "name": "sao truc"
+      }
+    ]
+  },
+  "lookupStateAfter": {
+    "artists": [
+      {
+        "id": "3152795e-6b4b-4301-b0eb-6371b54e6601",
+        "slug": "trinh-cong-son",
+        "name": "Công Sơn",
+        "image": null
+      },
+      {
+        "id": "f5b108b0-a1a3-4231-b8d4-f0e1b4fb8786",
+        "slug": "tuan-ngoc",
+        "name": "Tuấn Ngọc",
+        "image": null
+      },
+      {
+        "id": "00ca8813-8ea6-47a1-a7cc-019d5b63a818",
+        "slug": "khanh-ly",
+        "name": "Khánh Ly",
+        "image": null
+      },
+      {
+        "id": "d9d54337-d9ab-4291-b999-5693e43a6c72",
+        "slug": "thai-thanh",
+        "name": "Thái Thanh",
+        "image": null
+      },
+      {
+        "id": "7cc3e44a-2771-4c8d-bdf4-64699a7a61d0",
+        "slug": "le-thu",
+        "name": "Lệ Thu",
+        "image": null
+      },
+      {
+        "id": "69fc3ec5-d8ea-433b-baf8-8d1a6b3eea6d",
+        "slug": "elvis-phuong",
+        "name": "Elvis Phương",
+        "image": null
+      },
+      {
+        "id": "b88f87a6-1b68-4ecf-b907-06c67098bdba",
+        "slug": "thanh-tuyen",
+        "name": "Thanh Tuyền",
+        "image": null
+      },
+      {
+        "id": "30302702-af56-4b2e-859a-3e842e04bfaa",
+        "slug": "anh-tho",
+        "name": "Anh Thơ",
+        "image": null
+      },
+      {
+        "id": "5980bed8-81bd-47e2-83b8-c69d612f78ec",
+        "slug": "viet-hoan-va-anh-tho",
+        "name": "Việt Hoàn & Anh Thơ",
+        "image": null
+      },
+      {
+        "id": "b09c4a40-98f0-4dab-8d74-485ad860c8a0",
+        "slug": "trong-tan-va-anh-tho",
+        "name": "Trọng Tấn & Anh Thơ",
+        "image": null
+      },
+      {
+        "id": "a35e1d2f-a33d-4de8-9827-b51a65f7837c",
+        "slug": "quang-dung",
+        "name": "Quang Dũng",
+        "image": null
+      },
+      {
+        "id": "1cfaf22b-6370-4b4b-894c-6ebbfe319277",
+        "slug": "bang-kieu",
+        "name": "Bằng Kiều",
+        "image": null
+      },
+      {
+        "id": "4e7e8cf5-dad4-4432-9a40-710d89ac862b",
+        "slug": "thuy-chi",
+        "name": "Thùy Chi",
+        "image": null
+      }
+    ],
+    "albums": [
+      {
+        "id": "be164b29-2c9f-41dd-bf9b-ba227e022eed",
+        "slug": "test-album",
+        "title": "Test Album 2",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "faf58ae2-2adb-4e52-bc25-6c9dd5ce49a3",
+        "slug": "rieng-mot-goc-troi-tuan-ngoc-1996",
+        "title": "Riêng Một Góc Trời",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "5b3bf4f6-e1dd-470e-b79b-c8ac4314cfeb",
+        "slug": "nho-em-giu-lay-tinh-ta-tuan-ngoc-2000",
+        "title": "Nhờ Em Giữ Lấy Tình Ta",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "448332e2-76ec-43fa-9c03-02eda6713b3d",
+        "slug": "giot-le-cho-ngan-sau-tuan-ngoc-1994",
+        "title": "Giọt Lệ Cho Ngàn Sau",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "b705631c-e05b-479a-9ea0-04ae5526c3c5",
+        "slug": "tam-su-gui-ve-dau-tuan-ngoc-1991",
+        "title": "Tâm Sự Gửi Về Đâu",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "447ddb49-0cf3-4147-a8a4-4364494404e1",
+        "slug": "dem-thay-ta-la-thac-do-tuan-ngoc-1995",
+        "title": "Đêm Thấy Ta Là Thác Đổ",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "b80e92e6-49a6-4c55-b38e-278ff295d5c0",
+        "slug": "tinh-nho-khanh-ly-1990",
+        "title": "Tình Nhớ",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "ac2798e6-b3fb-40be-9e00-336feb6928d7",
+        "slug": "ha-trang-khanh-ly-1990",
+        "title": "Hạ Trắng",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "616da74e-a903-4966-ac43-a66b1b292381",
+        "slug": "mot-coi-di-ve-khanh-ly-1992",
+        "title": "Một Cõi Đi Về (Im Lặng Thở Dài)",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "d8be0c63-dc04-47eb-843e-5c7fd8046a2d",
+        "slug": "ngay-xua-hoang-thi-thai-thanh-1986",
+        "title": "Ngày Xưa Hoàng Thị",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "7acbd3b8-9af4-459e-aea2-53e81d3cdd70",
+        "slug": "nghin-trung-xa-cach-thai-thanh-1996",
+        "title": "Nghìn Trùng Xa Cách — Thái Thanh Vượt Thời Gian 3",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "b575b7a7-ff71-437a-88c5-14daa7940e8e",
+        "slug": "dem-nho-trang-sai-gon-thai-thanh-1990",
+        "title": "Đêm Nhớ Trăng Sài Gòn (Thái Thanh Hải Ngoại 4)",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "7a960ac0-32d8-4434-b2cc-ae1da53e1ff6",
+        "slug": "xin-con-goi-ten-nhau-le-thu-2003",
+        "title": "Xin Còn Gọi Tên Nhau",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "3d2aed3e-9b37-4a62-9d3d-8390ccb9a590",
+        "slug": "hoai-cam-le-thu-1985",
+        "title": "Hoài Cảm",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "7df120e6-fb70-49c8-8372-a1b5b3ce70e8",
+        "slug": "bai-tinh-ca-mua-dong-le-thu-1989",
+        "title": "Bài Tình Ca Mùa Đông",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "7144d5ab-aca4-4e20-b0dd-e08b9daaaf9a",
+        "slug": "vet-thu-tren-lung-ngua-hoang-elvis-phuong-1992",
+        "title": "Vết Thù Trên Lưng Ngựa Hoang",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "458ac9d5-8661-4b4f-9620-6609681a18d4",
+        "slug": "pham-duy-2-ky-niem-elvis-phuong-1992",
+        "title": "Phạm Duy 2 — Kỷ Niệm",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "3ab2e567-0f98-47ab-ae5e-54ce4548a738",
+        "slug": "bay-di-oi-co-don-elvis-phuong-1995",
+        "title": "Bay Đi Ôi Cô Đơn",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "cb7b25e9-eed3-4379-9d31-ad1b4b340d16",
+        "slug": "36-nam-tieng-hat-gui-nguoi-thanh-tuyen-2001",
+        "title": "36 Năm Tiếng Hát Gửi Người",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "ee1b3cd6-d8b0-4ec5-8cdd-c1a2842793d0",
+        "slug": "tinh-khuc-tran-thien-thanh-thanh-tuyen-1988",
+        "title": "Thanh Tuyền — Tình Khúc Trần Thiện Thanh",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "6a65bcba-4b62-4049-8e93-5feeeb3965d1",
+        "slug": "con-duong-xua-em-di-thanh-tuyen-1991",
+        "title": "Con Đường Xưa Em Đi",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "b993fe1c-b0ba-4097-88e9-316c04d059e7",
+        "slug": "tinh-em-anh-tho-2005",
+        "title": "Tình Em",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "fbdc1ba7-e56d-461e-bbe5-d6c5c91b37f8",
+        "slug": "gui-em-o-cuoi-song-hong-viet-hoan-anh-tho-2001",
+        "title": "Gửi Em Ở Cuối Sông Hồng",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "26731557-5970-4cfe-938e-2498f6480604",
+        "slug": "dat-nuoc-tinh-yeu-trong-tan-anh-tho-2012",
+        "title": "Đất Nước Tình Yêu",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "97c8f860-8550-4332-8186-36c3dc2ba2b3",
+        "slug": "ben-em-ngay-cuoi-quang-dung-1997",
+        "title": "Bên Em Ngày Cuối",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "f5a83cc4-5314-4c7f-8b5b-ca764ad2204d",
+        "slug": "chuyen-la-vol-1-bang-kieu-2000",
+        "title": "Chuyện Lạ (Vol. 1)",
+        "year": null,
+        "coverImage": null
+      },
+      {
+        "id": "ed2ead46-1cf0-4df7-9b1f-61477d5a78ec",
+        "slug": "noi-tinh-yeu-bat-dau-bang-kieu-2020",
+        "title": "Nơi Tình Yêu Bắt Đầu (Musicbox 003)",
+        "year": null,
+        "coverImage": null
+      }
+    ],
+    "eras": [
+      {
+        "id": "dbf4c975-9d0e-4922-a545-80e30180933d",
+        "slug": "1980s",
+        "name": "1980s",
+        "startYear": 1980,
+        "endYear": 1989,
+        "order": 0,
+        "translations": [
+          {
+            "id": "38888d6e-2372-4c87-a763-33d8a57de680",
+            "eraId": "dbf4c975-9d0e-4922-a545-80e30180933d",
+            "locale": "vi",
+            "title": "Thập niên 1980",
+            "summary": "Các bản thu trong nhóm này cho thấy kho tân nhạc Việt được tái trình bày qua những giọng ca lớn và các trung tâm phát hành hải ngoại. Năm trên timeline là năm của phiên bản được dẫn nguồn, không mặc định là năm sáng tác ca khúc.",
+            "musicalContext": "Băng cassette, LP và các hãng thu âm hải ngoại giữ vai trò quan trọng; hòa âm dàn dây, keyboard và kỹ thuật phòng thu giúp định hình phong cách tình khúc giai đoạn này."
+          },
+          {
+            "id": "5bf86d21-26a0-4baf-b0b6-515116433a33",
+            "eraId": "dbf4c975-9d0e-4922-a545-80e30180933d",
+            "locale": "en",
+            "title": "The 1980s",
+            "summary": "These recordings show the Vietnamese popular-song canon being reinterpreted by major singers and overseas labels. Timeline dates refer to the cited recording or catalog edition, not automatically to the song’s composition year.",
+            "musicalContext": "Cassettes, LPs, and overseas labels were central; strings, keyboards, and studio production shaped the period’s sentimental repertoire."
+          }
+        ]
+      },
+      {
+        "id": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+        "slug": "1990s",
+        "name": "1990s",
+        "startYear": 1990,
+        "endYear": 1999,
+        "order": 0,
+        "translations": [
+          {
+            "id": "419210fa-4a74-4cad-8922-c2d30f93c473",
+            "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+            "locale": "vi",
+            "title": "Thập niên 1990",
+            "summary": "Đây là phần lớn nhất của seed: thời kỳ nhiều album riêng của Tuấn Ngọc, Khánh Ly, Thái Thanh, Elvis Phương, Thanh Tuyền và Quang Dũng được lưu hành rộng.",
+            "musicalContext": "Cassette và CD cùng tồn tại; các giọng ca được nhận diện như “tác giả trình diễn”, tạo nên phiên bản chuẩn trong ký ức công chúng dù ca khúc có thể ra đời sớm hơn nhiều."
+          },
+          {
+            "id": "60a8ea55-a46b-4208-824a-869a3dfef059",
+            "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+            "locale": "en",
+            "title": "The 1990s",
+            "summary": "This is the seed’s largest group, when artist albums by Tuan Ngoc, Khanh Ly, Thai Thanh, Elvis Phuong, Thanh Tuyen, and Quang Dung circulated widely.",
+            "musicalContext": "Cassette and CD coexisted; singers functioned as interpretive authors, creating remembered benchmark versions even when the songs were composed much earlier."
+          }
+        ]
+      },
+      {
+        "id": "36e38864-f369-41ee-a868-a94288ecf8cc",
+        "slug": "2000s",
+        "name": "2000s",
+        "startYear": 2000,
+        "endYear": 2009,
+        "order": 0,
+        "translations": [
+          {
+            "id": "1c7cd189-5ce1-4a72-aa2e-85da1e0855ee",
+            "eraId": "36e38864-f369-41ee-a868-a94288ecf8cc",
+            "locale": "vi",
+            "title": "Thập niên 2000",
+            "summary": "Album ca sĩ, CD/VCD/DVD và thị trường trong nước–hải ngoại mở rộng, đưa các giọng hát cổ điển lẫn pop ballad đến một công chúng mới.",
+            "musicalContext": "Bản phối sạch và giọng hát tiền cảnh trở thành tiêu chuẩn nghe phổ biến; đây cũng là giai đoạn phù hợp để so sánh giữa tình khúc cũ và thẩm mỹ phòng thu mới."
+          },
+          {
+            "id": "d3f9d445-28b6-4b19-aab9-004f466890db",
+            "eraId": "36e38864-f369-41ee-a868-a94288ecf8cc",
+            "locale": "en",
+            "title": "The 2000s",
+            "summary": "Artist albums, CD/VCD/DVD, and connected domestic–diaspora markets brought classic voices and pop ballads to new audiences.",
+            "musicalContext": "Clean arrangements and foregrounded vocals became common listening standards, making the decade useful for comparing older repertoire with newer studio aesthetics."
+          }
+        ]
+      },
+      {
+        "id": "4c6545e1-b900-4533-ae59-7de628deca3e",
+        "slug": "2010s",
+        "name": "2010s",
+        "startYear": 2010,
+        "endYear": 2019,
+        "order": 0,
+        "translations": [
+          {
+            "id": "55e89c7b-b8d7-4add-ba7e-e4704ec209bc",
+            "eraId": "4c6545e1-b900-4533-ae59-7de628deca3e",
+            "locale": "vi",
+            "title": "Thập niên 2010",
+            "summary": "Streaming và số hóa catalogue làm các album cũ dễ tiếp cận hơn, đồng thời xuất hiện những bản song ca quê hương có chất lượng phòng thu hiện đại.",
+            "musicalContext": "Timeline cần ghi rõ đây có thể là năm phát hành số hoặc tái phát hành; dữ liệu vật mang tin gốc phải được bổ sung khi tìm thấy bìa đĩa, mã catalogue hoặc bản master đáng tin cậy."
+          },
+          {
+            "id": "9727f04a-334f-4105-bba8-84422ba53f90",
+            "eraId": "4c6545e1-b900-4533-ae59-7de628deca3e",
+            "locale": "en",
+            "title": "The 2010s",
+            "summary": "Streaming and catalog digitization made older albums easier to access while new homeland duets appeared in modern studio form.",
+            "musicalContext": "The timeline should state when a date is digital-release or reissue metadata; original-format evidence should be added when covers, catalog numbers, or reliable masters are found."
+          }
+        ]
+      },
+      {
+        "id": "a4788dd3-73a2-4e09-bc11-cc97ee636871",
+        "slug": "2020s",
+        "name": "2020s",
+        "startYear": 2020,
+        "endYear": 2029,
+        "order": 0,
+        "translations": [
+          {
+            "id": "15d50b1f-307e-468c-b7cc-1287e73b29d7",
+            "eraId": "a4788dd3-73a2-4e09-bc11-cc97ee636871",
+            "locale": "vi",
+            "title": "Thập niên 2020",
+            "summary": "Các nghệ sĩ kỳ cựu tiếp tục tái diễn giải ca khúc trong hệ sinh thái streaming, live show và các series thu âm mới.",
+            "musicalContext": "Đây là nơi dự án có thể cho thấy di sản không đứng yên: một ca khúc mới vẫn có thể dùng ngôn ngữ tình khúc truyền thống, còn trải nghiệm vinylized là lớp diễn giải của ReVinyl chứ không phải bản gốc trên đĩa than."
+          },
+          {
+            "id": "c354a749-f23f-4815-b9e6-74ef71fa259d",
+            "eraId": "a4788dd3-73a2-4e09-bc11-cc97ee636871",
+            "locale": "en",
+            "title": "The 2020s",
+            "summary": "Veteran singers continue to reinterpret songs through streaming, live shows, and new recording series.",
+            "musicalContext": "This era shows heritage as a living process: a recent song may still use traditional sentimental language, while ReVinyl’s vinylized mode is an interpretation rather than an original vinyl transfer."
+          }
+        ]
+      }
+    ],
+    "genres": [
+      {
+        "id": "d3a05d79-3adb-4abf-9976-5a2a6e006f52",
+        "slug": "nhac-trinh",
+        "name": "Nhạc Trịnh"
+      },
+      {
+        "id": "b22f179c-b1c3-43ef-8959-ec98b36abef9",
+        "slug": "tinh-khuc",
+        "name": "Tình khúc"
+      },
+      {
+        "id": "534df395-aa8c-4c2a-9352-52307b9ce640",
+        "slug": "tan-nhac-viet-nam",
+        "name": "Tân nhạc Việt Nam"
+      },
+      {
+        "id": "9a3c7387-0852-4bd8-8303-4c1b8a10a34b",
+        "slug": "nhac-vang",
+        "name": "Nhạc vàng"
+      },
+      {
+        "id": "22138311-bddb-499c-b0c2-0d4a4a2958a3",
+        "slug": "nhac-que-huong",
+        "name": "Nhạc quê hương"
+      },
+      {
+        "id": "33b0f2f9-a775-4f9e-8346-6302431a4204",
+        "slug": "pop-ballad",
+        "name": "Pop ballad"
+      }
+    ],
+    "regions": [
+      {
+        "id": "d91fcdc3-5a97-4ff2-aece-1402ad9e38c5",
+        "slug": "mine-trung",
+        "name": "Miền Trung"
+      },
+      {
+        "id": "7f38b638-3060-4ceb-ace3-534d343864e9",
+        "slug": "hai-ngoai",
+        "name": "Hải ngoại"
+      },
+      {
+        "id": "7981b099-34e6-4d83-891e-a7ed10fe5ce4",
+        "slug": "viet-nam",
+        "name": "Việt Nam"
+      },
+      {
+        "id": "644cf39b-50fe-4796-8859-1093d4c676b8",
+        "slug": "viet-nam-hai-ngoai",
+        "name": "Việt Nam / Hải ngoại"
+      }
+    ],
+    "instruments": [
+      {
+        "id": "9397bdc8-f77c-47a8-8204-e3ca7d2393ce",
+        "slug": "guitar",
+        "name": "Guitar"
+      },
+      {
+        "id": "7cd8000a-37a3-473a-9fcf-17875fcc6fb0",
+        "slug": "dan-tranh",
+        "name": "dan tranh"
+      },
+      {
+        "id": "0657d8dc-ecbf-4687-80a3-7ccbbba4b12a",
+        "slug": "sao-truc",
+        "name": "sao truc"
+      },
+      {
+        "id": "a784cdeb-920f-462e-85c9-e9198243b0d3",
+        "slug": "giong-hat",
+        "name": "Giọng hát"
+      },
+      {
+        "id": "2e9bde1b-a460-44d7-899f-541c8219b156",
+        "slug": "piano-keyboard",
+        "name": "Piano / keyboard"
+      },
+      {
+        "id": "888b96a3-b1cd-4284-b608-1e8082ce29c0",
+        "slug": "bass",
+        "name": "Bass"
+      },
+      {
+        "id": "a41b4dd2-c977-444c-95e0-5b478cc99f27",
+        "slug": "trong",
+        "name": "Trống"
+      },
+      {
+        "id": "4e072ad2-d792-4359-8a56-0234eed0a35a",
+        "slug": "dan-day",
+        "name": "Dàn dây"
+      },
+      {
+        "id": "d645e8ba-e85b-4d21-ac9e-d6a99fd2c985",
+        "slug": "keyboard",
+        "name": "Keyboard / synthesizer"
+      },
+      {
+        "id": "dd81af0f-9b26-4c88-bc55-342cf9a28ada",
+        "slug": "bo-go",
+        "name": "Bộ gõ"
+      }
+    ]
+  },
+  "summary": {
+    "createdRecords": 35,
+    "verifiedRecords": 35,
+    "draftRecords": 35,
+    "audioFiles": 28,
+    "fieldDifferences": 0,
+    "existingRecordsPreserved": true,
+    "duplicateSlugs": []
+  },
+  "downloadFilename": "ReVinyl-admin-import-report-2026-10-23-1792758988963.json"
+}

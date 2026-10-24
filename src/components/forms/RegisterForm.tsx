@@ -67,7 +67,7 @@ const RegisterForm = ({
               <FormControl>
                 <Input
                   type='email'
-                  placeholder='example@gmail.com'
+                  placeholder='Email của bạn'
                   className={`${authInputClass} ${
                     fieldState.error ? 'border-red-500 focus-visible:border-red-500' : ''
                   }`}

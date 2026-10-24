@@ -100,7 +100,7 @@ export default function HeroAboutExperience() {
             <div className='flex max-w-xl flex-col justify-between gap-10 md:h-full md:gap-0'>
               <div className='space-y-3'>
                 <p className='text-base font-semibold tracking-[0.2em] text-[var(--gold-bright)]'>
-                  / VINYL HERITAGE VIETNAM /
+                  / REVINYL /
                 </p>
                 <h1 className='font-[family-name:var(--font-display)] text-5xl font-semibold leading-[1.1] text-[var(--parchment)] md:text-[80px] md:leading-[88px]'>
                   {d.home.heroTitle.split('\n').map(line => <span className='block' key={line}>{line}</span>)}

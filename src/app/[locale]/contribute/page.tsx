@@ -15,6 +15,7 @@ import {
   ResourceDraft,
 } from '@/components/archive/contribution/ContributionResourceFields';
 import { useAuthStore } from '@/stores/useAuthStore';
+import { usesWorkbookArchive } from '@/modules/archive/workbook';
 
 const fieldClass =
   'mt-2 h-12 w-full rounded-sm border border-[#c9bda9] bg-white px-4 font-normal outline-none focus:border-[#a34924]';
@@ -40,6 +41,7 @@ export default function ContributePage() {
 
   const submit = async (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault();
+    if (usesWorkbookArchive) return;
     if (state === 'submitting') return;
     const form = new FormData(event.currentTarget);
     const recordingId = String(form.get('recordingId') ?? '');
@@ -79,6 +81,26 @@ export default function ContributePage() {
       setState('error');
     }
   };
+
+  if (usesWorkbookArchive)
+    return (
+      <main className='vinyl-striped-bg min-h-screen px-4 pb-20 pt-32 text-[#EFE3CD]'>
+        <section className='mx-auto max-w-2xl space-y-6'>
+          <h1 className='font-serif text-4xl'>{t.title}</h1>
+          <p className='leading-7'>
+            {routeLocale === 'vi'
+              ? 'Bộ tư liệu hiện đang ở chế độ xem trước. Để chia sẻ tư liệu hoặc đề nghị đính chính, vui lòng liên hệ ReVinyl.'
+              : 'The collection is currently a preview. To share materials or suggest a correction, please contact ReVinyl.'}
+          </p>
+          <Link
+            href={`/${routeLocale}/contact`}
+            className='inline-block rounded-full bg-[#a34924] px-6 py-3 font-semibold text-white'
+          >
+            {routeLocale === 'vi' ? 'Liên hệ ReVinyl' : 'Contact ReVinyl'}
+          </Link>
+        </section>
+      </main>
+    );
 
   if (state === 'success')
     return (

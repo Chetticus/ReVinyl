@@ -2,7 +2,7 @@
 
 import Image from 'next/image';
 import Link from 'next/link';
-import { ArrowRight, Play } from 'lucide-react';
+import { ArrowRight } from 'lucide-react';
 import { VINYL_ABOUT_IMAGES } from '@/constants/vinyl-about';
 import { SectionContainer } from '@/components/home/vinyl/shared';
 import { usePublicI18n } from '@/i18n/PublicI18nProvider';
@@ -46,19 +46,12 @@ export default function AboutWorkSection() {
           <div className='relative aspect-[568/426] w-full overflow-hidden rounded-2xl lg:max-w-[568px] lg:flex-1'>
             <Image
               src={VINYL_ABOUT_IMAGES.workVideo}
-              alt='Không gian làm việc Vinyl Heritage'
+              alt='Không gian làm việc ReVinyl'
               fill
               className='object-cover'
               sizes='(min-width: 1024px) 568px, 100vw'
             />
             <div className='absolute inset-0 bg-black/25' />
-            <button
-              type='button'
-              aria-label={d.about.playVideo}
-              className='absolute left-1/2 top-1/2 flex size-16 -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full bg-white/90 text-[#E4722C] shadow-lg transition-transform hover:scale-105 md:size-20'
-            >
-              <Play className='size-7 fill-current md:size-8' />
-            </button>
           </div>
         </div>
       </SectionContainer>

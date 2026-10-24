@@ -1,4 +1,5 @@
 'use client';
+import { WorkbookNotice } from '@/components/archive/WorkbookNotice';
 
 import { useEffect, useRef, useState } from 'react';
 import { useQuery } from '@tanstack/react-query';
@@ -6,6 +7,7 @@ import { ArrowRight2 } from 'iconsax-react';
 import Link from 'next/link';
 
 import { archiveApi } from '@/modules/archive/api';
+import { selectFeaturedRecordings } from '@/modules/archive/featured';
 import { RecordingCard } from '@/components/archive/RecordingCard';
 import { buildLocalePath } from '@/i18n/config';
 import { usePublicI18n } from '@/i18n/PublicI18nProvider';
@@ -23,28 +25,17 @@ export default function CollectionSection() {
   const [activeSlide, setActiveSlide] = useState(0);
   const trackRef = useRef<HTMLDivElement>(null);
 
-  const {
-    data,
-    isLoading,
-    isError,
-  } = useQuery({
+  const { data, isLoading, isError } = useQuery({
     queryKey: ['home-featured-recordings', locale],
     queryFn: () =>
       archiveApi.list({
         locale,
         page: '1',
+        perPage: '100',
       }),
   });
 
-  /**
-   * Hiện tại archive chưa có isFeatured / featuredOrder.
-   * Tạm thời lấy 4 recording đầu tiên.
-   *
-   * Sau này nếu cần content team curate homepage:
-   * Recording.isFeatured
-   * Recording.featuredOrder
-   */
-  const recordings = data?.data?.slice(0, 4) ?? [];
+  const recordings = selectFeaturedRecordings(data?.data ?? []);
 
   useEffect(() => {
     const track = trackRef.current;
@@ -59,15 +50,10 @@ export default function CollectionSection() {
       const slideWidth = firstSlide.clientWidth;
       const gap = 20;
 
-      const index = Math.round(
-        track.scrollLeft / (slideWidth + gap)
-      );
+      const index = Math.round(track.scrollLeft / (slideWidth + gap));
 
       setActiveSlide(
-        Math.min(
-          Math.max(index, 0),
-          Math.max(recordings.length - 1, 0)
-        )
+        Math.min(Math.max(index, 0), Math.max(recordings.length - 1, 0))
       );
     };
 
@@ -109,13 +95,12 @@ export default function CollectionSection() {
       <div className='pointer-events-none absolute -left-32 top-20 h-72 w-72 rounded-full bg-[var(--gold)]/[0.08] blur-3xl' />
 
       <SectionContainer className='relative'>
+        <WorkbookNotice />
         {/* HEADER */}
         <div className='mb-10 md:mb-12'>
           <div className='flex flex-col gap-7 md:flex-row md:items-end md:justify-between'>
             <div className='max-w-3xl'>
-              <SectionLabel dark>
-                {d.home.featuredArchiveLabel}
-              </SectionLabel>
+              <SectionLabel dark>{d.home.featuredArchiveLabel}</SectionLabel>
 
               <SectionTitle dark className='mt-5 max-w-2xl text-left'>
                 {d.home.featuredArchiveTitle}
@@ -166,78 +151,69 @@ export default function CollectionSection() {
         )}
 
         {/* EMPTY */}
-        {!isLoading &&
-          !isError &&
-          recordings.length === 0 && (
-            <div className='rounded-[28px] border border-dashed border-[var(--border-gold-strong)] bg-[var(--panel-soft)] px-6 py-14 text-center'>
-              <div className='mx-auto grid h-12 w-12 place-items-center rounded-full bg-[var(--gold)]/15 text-xl text-[var(--gold)]'>
-                ◉
-              </div>
-
-              <p className='mt-4 font-semibold text-[var(--parchment)]'>
-                {d.home.featuredArchiveEmpty}
-              </p>
+        {!isLoading && !isError && recordings.length === 0 && (
+          <div className='rounded-[28px] border border-dashed border-[var(--border-gold-strong)] bg-[var(--panel-soft)] px-6 py-14 text-center'>
+            <div className='mx-auto grid h-12 w-12 place-items-center rounded-full bg-[var(--gold)]/15 text-xl text-[var(--gold)]'>
+              ◉
             </div>
-          )}
+
+            <p className='mt-4 font-semibold text-[var(--parchment)]'>
+              {d.home.featuredArchiveEmpty}
+            </p>
+          </div>
+        )}
 
         {/* RECORDINGS */}
-        {!isLoading &&
-          !isError &&
-          recordings.length > 0 && (
-            <>
-              {/* DESKTOP */}
-              <div className='hidden gap-6 xl:grid xl:grid-cols-4'>
-                {recordings.map(recording => (
-                  <RecordingCard
+        {!isLoading && !isError && recordings.length > 0 && (
+          <>
+            {/* DESKTOP */}
+            <div className='hidden gap-6 xl:grid xl:grid-cols-4'>
+              {recordings.map(recording => (
+                <RecordingCard
+                  key={recording.id}
+                  item={recording}
+                  locale={locale}
+                  dark
+                />
+              ))}
+            </div>
+
+            {/* MOBILE / TABLET */}
+            <div
+              ref={trackRef}
+              className='-mx-4 flex snap-x snap-mandatory gap-5 overflow-x-auto px-4 pb-4 xl:hidden [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden'
+            >
+              {recordings.map(recording => (
+                <div
+                  key={recording.id}
+                  className='w-[min(82vw,340px)] shrink-0 snap-start'
+                >
+                  <RecordingCard item={recording} locale={locale} dark />
+                </div>
+              ))}
+            </div>
+
+            {/* MOBILE PAGINATION DOTS */}
+            {recordings.length > 1 && (
+              <div className='mt-5 flex justify-center gap-2 xl:hidden'>
+                {recordings.map((recording, index) => (
+                  <button
                     key={recording.id}
-                    item={recording}
-                    locale={locale}
-                    dark
+                    type='button'
+                    aria-label={`${d.home.featuredSlideLabel} ${index + 1}`}
+                    onClick={() => scrollToSlide(index)}
+                    className={[
+                      'h-2 rounded-full transition-all duration-300',
+                      index === activeSlide
+                        ? 'w-7 bg-[var(--lacquer)]'
+                        : 'w-2 bg-[var(--gold)]/30 hover:bg-[var(--gold)]/50',
+                    ].join(' ')}
                   />
                 ))}
               </div>
-
-              {/* MOBILE / TABLET */}
-              <div
-                ref={trackRef}
-                className='-mx-4 flex snap-x snap-mandatory gap-5 overflow-x-auto px-4 pb-4 xl:hidden [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden'
-              >
-                {recordings.map(recording => (
-                  <div
-                    key={recording.id}
-                    className='w-[min(82vw,340px)] shrink-0 snap-start'
-                  >
-                    <RecordingCard
-                      item={recording}
-                      locale={locale}
-                      dark
-                    />
-                  </div>
-                ))}
-              </div>
-
-              {/* MOBILE PAGINATION DOTS */}
-              {recordings.length > 1 && (
-                <div className='mt-5 flex justify-center gap-2 xl:hidden'>
-                  {recordings.map((recording, index) => (
-                    <button
-                      key={recording.id}
-                      type='button'
-                      aria-label={`${d.home.featuredSlideLabel} ${index + 1
-                        }`}
-                      onClick={() => scrollToSlide(index)}
-                      className={[
-                        'h-2 rounded-full transition-all duration-300',
-                        index === activeSlide
-                          ? 'w-7 bg-[var(--lacquer)]'
-                          : 'w-2 bg-[var(--gold)]/30 hover:bg-[var(--gold)]/50',
-                      ].join(' ')}
-                    />
-                  ))}
-                </div>
-              )}
-            </>
-          )}
+            )}
+          </>
+        )}
       </SectionContainer>
     </section>
   );
