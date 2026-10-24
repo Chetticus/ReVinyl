@@ -8,6 +8,7 @@ import type {
   RecordingAudio,
 } from '@/modules/archive/types';
 import { createVinylRoom } from '@/modules/archive/vinyl-room';
+import { switchedPosition } from '@/modules/archive/audio-timeline';
 
 const time = (seconds: number) => {
   const safe = Number.isFinite(seconds) ? Math.max(0, seconds) : 0;
@@ -95,7 +96,14 @@ function AudioTransport({
   const choose = (value: AudioType) => {
     if (value === activeType.current) return;
     const previous = players.current[activeType.current];
-    position.current = previous?.currentTime ?? position.current;
+    position.current = switchedPosition(
+      previous && previous.readyState >= 1
+        ? previous.currentTime
+        : position.current,
+      assets.find(asset => asset.type === activeType.current),
+      assets.find(asset => asset.type === value)
+    );
+    setCurrent(position.current);
     // Guard the outgoing pause event before changing the source.
     activeType.current = value;
     playRequest.current++;

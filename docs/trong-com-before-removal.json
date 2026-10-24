@@ -1,0 +1,1611 @@
+{
+  "id": "e4420b4d-e0cd-4937-8859-01a3c217b06b",
+  "slug": "trong-com",
+  "year": null,
+  "coverImage": "https://res.cloudinary.com/dpri5hjbx/image/upload/v1789547570/archive/recordings/e4420b4d-e0cd-4937-8859-01a3c217b06b/file_k7awsi.jpg",
+  "artistId": "3152795e-6b4b-4301-b0eb-6371b54e6601",
+  "albumId": "be164b29-2c9f-41dd-bf9b-ba227e022eed",
+  "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+  "genreId": "d3a05d79-3adb-4abf-9976-5a2a6e006f52",
+  "regionId": "d91fcdc3-5a97-4ff2-aece-1402ad9e38c5",
+  "status": "PUBLISHED",
+  "publishedAt": "2026-09-16T08:32:43.000Z",
+  "createdAt": "2026-09-16T08:32:43.054Z",
+  "updatedAt": "2026-09-16T08:32:51.369Z",
+  "artist": {
+    "id": "3152795e-6b4b-4301-b0eb-6371b54e6601",
+    "slug": "trinh-cong-son",
+    "name": "Công Sơn",
+    "image": null
+  },
+  "album": {
+    "id": "be164b29-2c9f-41dd-bf9b-ba227e022eed",
+    "slug": "test-album",
+    "title": "Test Album 2",
+    "year": null,
+    "coverImage": null
+  },
+  "era": {
+    "id": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+    "slug": "1990s",
+    "name": "1990s",
+    "startYear": 1990,
+    "endYear": 1999,
+    "order": 0,
+    "translations": [
+      {
+        "id": "419210fa-4a74-4cad-8922-c2d30f93c473",
+        "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+        "locale": "vi",
+        "title": "Thập niên 1990",
+        "summary": "Đây là phần lớn nhất của seed: thời kỳ nhiều album riêng của Tuấn Ngọc, Khánh Ly, Thái Thanh, Elvis Phương, Thanh Tuyền và Quang Dũng được lưu hành rộng.",
+        "musicalContext": "Cassette và CD cùng tồn tại; các giọng ca được nhận diện như “tác giả trình diễn”, tạo nên phiên bản chuẩn trong ký ức công chúng dù ca khúc có thể ra đời sớm hơn nhiều."
+      },
+      {
+        "id": "60a8ea55-a46b-4208-824a-869a3dfef059",
+        "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+        "locale": "en",
+        "title": "The 1990s",
+        "summary": "This is the seed’s largest group, when artist albums by Tuan Ngoc, Khanh Ly, Thai Thanh, Elvis Phuong, Thanh Tuyen, and Quang Dung circulated widely.",
+        "musicalContext": "Cassette and CD coexisted; singers functioned as interpretive authors, creating remembered benchmark versions even when the songs were composed much earlier."
+      }
+    ],
+    "translation": {
+      "id": "60a8ea55-a46b-4208-824a-869a3dfef059",
+      "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+      "locale": "en",
+      "title": "The 1990s",
+      "summary": "This is the seed’s largest group, when artist albums by Tuan Ngoc, Khanh Ly, Thai Thanh, Elvis Phuong, Thanh Tuyen, and Quang Dung circulated widely.",
+      "musicalContext": "Cassette and CD coexisted; singers functioned as interpretive authors, creating remembered benchmark versions even when the songs were composed much earlier."
+    }
+  },
+  "genre": {
+    "id": "d3a05d79-3adb-4abf-9976-5a2a6e006f52",
+    "slug": "nhac-trinh",
+    "name": "Nhạc Trịnh"
+  },
+  "region": {
+    "id": "d91fcdc3-5a97-4ff2-aece-1402ad9e38c5",
+    "slug": "mine-trung",
+    "name": "Miền Trung"
+  },
+  "translations": [
+    {
+      "id": "adb16da1-784f-47c5-984c-6748b0386a8c",
+      "recordingId": "e4420b4d-e0cd-4937-8859-01a3c217b06b",
+      "locale": "vi",
+      "title": "Trống Cơm",
+      "alternativeTitle": "Rice Drum Folk Song",
+      "shortSummary": "“Trống Cơm” là một bài dân ca Bắc Bộ quen thuộc, nổi bật bởi giai điệu vui tươi, tiết tấu linh hoạt và cách sử dụng ngôn ngữ giàu tính nhịp điệu.\n\nBài hát là một ví dụ dễ tiếp cận để người nghe trẻ khám phá cách âm nhạc dân gian Việt Nam kết hợp giai điệu, tiết tấu, tiếng hát và hình ảnh đời sống thành một trải nghiệm vừa gần gũi vừa giàu bản sắc.",
+      "historicalContext": "“Trống Cơm” thuộc dòng dân ca được lưu truyền trong đời sống âm nhạc Bắc Bộ.\n\nKhác với những ca khúc hiện đại có một thời điểm sáng tác và tác giả xác định rõ, dân ca được hình thành và truyền lại qua nhiều thế hệ, vì vậy không nên gán cho bài hát một năm sáng tác cụ thể nếu không có nguồn tư liệu đáng tin cậy.\n\nNgày nay, “Trống Cơm” vẫn thường xuyên được trình diễn dưới nhiều hình thức khác nhau, từ cách hát dân gian, biểu diễn thiếu nhi đến hòa tấu và các bản phối đương đại. Việc một giai điệu truyền thống có thể tiếp tục được chuyển soạn cho nhiều không gian biểu diễn cho thấy khả năng thích nghi của chất liệu âm nhạc dân gian Việt Nam.",
+      "culturalContext": "Một trong những điểm đáng chú ý của “Trống Cơm” là mối liên hệ giữa âm nhạc dân gian với những hình ảnh và âm thanh quen thuộc trong đời sống văn hóa Việt Nam.\n\nTên gọi của bài hát gợi trực tiếp đến trống cơm — một loại nhạc cụ gõ truyền thống. Trong hệ thống phân loại nhạc cụ Việt Nam, trống cơm thuộc nhóm nhạc cụ màng rung và được chơi bằng cách vỗ.\n\nKhi tìm hiểu bài hát, người nghe không chỉ tiếp nhận giai điệu mà còn có cơ hội nhận biết cách tên gọi nhạc cụ, tiết tấu và ngôn ngữ dân gian cùng tham gia tạo nên bản sắc của tác phẩm.",
+      "lyricsMeaning": "“Trống Cơm” đáng được lưu giữ không chỉ vì đây là một giai điệu dân gian quen thuộc, mà còn vì bài hát cho thấy cách âm nhạc truyền thống có thể tiếp tục tồn tại thông qua biểu diễn, giáo dục và chuyển soạn.\n\nViệc đặt các phiên bản khác nhau của tác phẩm trong một kho lưu trữ số giúp người nghe trẻ nhận ra rằng di sản âm nhạc không phải là một vật thể bất biến. Một giai điệu có thể được truyền lại, diễn giải và trình diễn theo nhiều cách nhưng vẫn giữ liên hệ với nguồn gốc văn hóa của nó.",
+      "lyricsNotes": "“Trống Cơm” đáng được lưu giữ không chỉ vì đây là một giai điệu dân gian quen thuộc, mà còn vì bài hát cho thấy cách âm nhạc truyền thống có thể tiếp tục tồn tại thông qua biểu diễn, giáo dục và chuyển soạn.\n\nViệc đặt các phiên bản khác nhau của tác phẩm trong một kho lưu trữ số giúp người nghe trẻ nhận ra rằng di sản âm nhạc không phải là một vật thể bất biến. Một giai điệu có thể được truyền lại, diễn giải và trình diễn theo nhiều cách nhưng vẫn giữ liên hệ với nguồn gốc văn hóa của nó.",
+      "whatToListenFor": "Khi nghe, hãy chú ý đến ba yếu tố:\n\n1. Nhịp điệu có tính lặp lại và tạo cảm giác chuyển động liên tục.\n\n2. Cách giọng hát sử dụng những âm tiết mang tính nhịp điệu, khiến phần lời đôi lúc hoạt động gần giống một nhạc cụ.\n\n3. Sự khác biệt giữa bản Digital và bản Vinylized: hãy thử nghe bằng tai nghe và chú ý đến cảm giác về bề mặt âm thanh, độ sáng, độ mềm và không gian của hai phiên bản.",
+      "preservationValue": "Khi nghe, hãy chú ý đến ba yếu tố:\n\n1. Nhịp điệu có tính lặp lại và tạo cảm giác chuyển động liên tục.\n\n2. Cách giọng hát sử dụng những âm tiết mang tính nhịp điệu, khiến phần lời đôi lúc hoạt động gần giống một nhạc cụ.\n\n3. Sự khác biệt giữa bản Digital và bản Vinylized: hãy thử nghe bằng tai nghe và chú ý đến cảm giác về bề mặt âm thanh, độ sáng, độ mềm và không gian của hai phiên bản.",
+      "fullLyrics": "",
+      "lyricsRightsStatus": "RESTRICTED",
+      "createdAt": "2026-09-16T08:32:43.269Z",
+      "updatedAt": "2026-09-16T08:32:43.269Z"
+    },
+    {
+      "id": "faa67d10-0e6f-43d5-a0b3-7143872eef61",
+      "recordingId": "e4420b4d-e0cd-4937-8859-01a3c217b06b",
+      "locale": "en",
+      "title": "Trống Cơm",
+      "alternativeTitle": "Rice Drum Folk Song",
+      "shortSummary": "“Trống Cơm” is a well-known folk song from northern Vietnam, characterized by its lively melody, rhythmic quality, and playful vocal language.\n\nIt offers an accessible introduction for younger listeners to the way Vietnamese folk music combines melody, rhythm, singing, and images of everyday cultural life.",
+      "historicalContext": "“Trống Cơm” belongs to the folk-music traditions of northern Vietnam.\n\nUnlike a modern song with a clearly documented composer and composition date, traditional folk songs are often transmitted through generations. Therefore, a specific year of composition should not be assigned unless reliable historical evidence is available.\n\nToday, “Trống Cơm” continues to appear in many different forms, including traditional singing, educational performances, instrumental arrangements, and contemporary reinterpretations. Its continued adaptation illustrates how Vietnamese folk material can remain culturally recognizable while entering new musical settings.",
+      "culturalContext": "An important feature of “Trống Cơm” is its connection to familiar sounds and images from Vietnamese traditional culture.\n\nThe title refers to the trống cơm, a traditional Vietnamese drum. In Vietnamese musical-instrument classification, the trống cơm belongs to the membranophone family and is played by striking the drumheads by hand.\n\nFor younger listeners, the song can therefore become a starting point for exploring not only melody, but also traditional instruments, rhythm, and the cultural vocabulary surrounding Vietnamese folk music.",
+      "lyricsMeaning": "The lyrics of “Trống Cơm” have a playful and strongly rhythmic character, using expressions associated with Vietnamese folk language.\n\nRather than developing a linear narrative in the manner of many modern songs, the text creates its effect through images, repeated phrases, rhythmic syllables, and musical patterns.\n\nThe educational value therefore lies not only in interpreting each phrase literally, but also in recognizing how language itself becomes part of the musical structure.",
+      "lyricsNotes": "Some words and vocal syllables in traditional folk music may sound unfamiliar to younger audiences. Not every syllable needs to function like an ordinary sentence.\n\nIn folk performance, additional vocal syllables can support rhythm, extend a melody, or contribute to the expressive character of the song.\n\nFor the final archive, selected phrases and culturally significant images should be annotated rather than forcing a literal line-by-line explanation of the entire text.",
+      "whatToListenFor": "While listening, focus on three elements:\n\n1. The recurring rhythmic patterns that create a continuous sense of movement.\n\n2. The way the voice uses rhythmic syllables, sometimes functioning almost like another musical instrument.\n\n3. The difference between the Digital and Vinylized versions. With headphones, compare the perceived texture, brightness, softness, and spatial character of the two versions.",
+      "preservationValue": "“Trống Cơm” is worth preserving not only because it is a familiar folk melody, but also because it demonstrates how traditional music can continue through performance, education, and reinterpretation.\n\nPresenting different versions of the work within a digital archive can help younger audiences understand that musical heritage is not completely static. A melody may be transmitted and rearranged in different ways while remaining connected to its cultural origins.",
+      "fullLyrics": "Full lyrics are not displayed in this development record.",
+      "lyricsRightsStatus": "RESTRICTED",
+      "createdAt": "2026-09-16T08:32:43.269Z",
+      "updatedAt": "2026-09-16T08:32:43.269Z"
+    }
+  ],
+  "audio": [
+    {
+      "id": "049738d9-7045-4bc2-ad65-cdf49562f8fb",
+      "recordingId": "e4420b4d-e0cd-4937-8859-01a3c217b06b",
+      "type": "DIGITAL",
+      "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1789547566/archive/recordings/e4420b4d-e0cd-4937-8859-01a3c217b06b/file_u77cld.mp3",
+      "storageKey": "archive/recordings/e4420b4d-e0cd-4937-8859-01a3c217b06b/file_u77cld",
+      "originalFilename": "digital.mp3",
+      "mimeType": "audio/mpeg",
+      "fileSize": 52079,
+      "sourceNote": "source digital 1",
+      "rightsNote": "right digital 1",
+      "createdAt": "2026-09-16T08:32:48.437Z",
+      "updatedAt": "2026-09-16T08:32:48.437Z"
+    },
+    {
+      "id": "1c44f6ea-fc18-4d86-ba6e-45dc33bd1263",
+      "recordingId": "e4420b4d-e0cd-4937-8859-01a3c217b06b",
+      "type": "VINYLIZED",
+      "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1789547569/archive/recordings/e4420b4d-e0cd-4937-8859-01a3c217b06b/file_ub4ito.mp3",
+      "storageKey": "archive/recordings/e4420b4d-e0cd-4937-8859-01a3c217b06b/file_ub4ito",
+      "originalFilename": "vinylized.mp3",
+      "mimeType": "audio/mpeg",
+      "fileSize": 103070,
+      "sourceNote": "source vinylzied 1",
+      "rightsNote": "right vinylzied 1",
+      "createdAt": "2026-09-16T08:32:50.004Z",
+      "updatedAt": "2026-09-16T08:32:50.004Z"
+    }
+  ],
+  "instruments": [
+    {
+      "recordingId": "e4420b4d-e0cd-4937-8859-01a3c217b06b",
+      "instrumentId": "9397bdc8-f77c-47a8-8204-e3ca7d2393ce",
+      "roleVi": "Giữ và nhấn mạnh tiết tấu, đồng thời tạo liên hệ trực tiếp với hình tượng trung tâm của tác phẩm.",
+      "roleEn": "Supports the rhythmic structure and connects directly to the central musical image suggested by the song's title.",
+      "confidence": null,
+      "instrument": {
+        "id": "9397bdc8-f77c-47a8-8204-e3ca7d2393ce",
+        "slug": "guitar",
+        "name": "Guitar"
+      }
+    },
+    {
+      "recordingId": "e4420b4d-e0cd-4937-8859-01a3c217b06b",
+      "instrumentId": "7cd8000a-37a3-473a-9fcf-17875fcc6fb0",
+      "roleVi": "dan tranh vai tro",
+      "roleEn": "dan tranh role",
+      "confidence": null,
+      "instrument": {
+        "id": "7cd8000a-37a3-473a-9fcf-17875fcc6fb0",
+        "slug": "dan-tranh",
+        "name": "dan tranh"
+      }
+    }
+  ],
+  "references": [
+    {
+      "recordingId": "e4420b4d-e0cd-4937-8859-01a3c217b06b",
+      "referenceId": "9183eec9-9c0b-4918-8772-227a06434262",
+      "verificationStatus": "VERIFIED",
+      "reference": {
+        "id": "9183eec9-9c0b-4918-8772-227a06434262",
+        "title": "Đêm thi dân ca nguyên thể – Liên hoan “Tôi yêu tiếng nước tôi”",
+        "url": "https://vov.vn/van-hoa/am-nhac/dem-thi-dan-ca-nguyen-the-lien-hoan-nghe-thuat-toi-yeu-tieng-nuoc-toi-825712.vov",
+        "type": null,
+        "publisher": null,
+        "publishedYear": null,
+        "notes": null
+      }
+    }
+  ],
+  "translation": {
+    "id": "faa67d10-0e6f-43d5-a0b3-7143872eef61",
+    "recordingId": "e4420b4d-e0cd-4937-8859-01a3c217b06b",
+    "locale": "en",
+    "title": "Trống Cơm",
+    "alternativeTitle": "Rice Drum Folk Song",
+    "shortSummary": "“Trống Cơm” is a well-known folk song from northern Vietnam, characterized by its lively melody, rhythmic quality, and playful vocal language.\n\nIt offers an accessible introduction for younger listeners to the way Vietnamese folk music combines melody, rhythm, singing, and images of everyday cultural life.",
+    "historicalContext": "“Trống Cơm” belongs to the folk-music traditions of northern Vietnam.\n\nUnlike a modern song with a clearly documented composer and composition date, traditional folk songs are often transmitted through generations. Therefore, a specific year of composition should not be assigned unless reliable historical evidence is available.\n\nToday, “Trống Cơm” continues to appear in many different forms, including traditional singing, educational performances, instrumental arrangements, and contemporary reinterpretations. Its continued adaptation illustrates how Vietnamese folk material can remain culturally recognizable while entering new musical settings.",
+    "culturalContext": "An important feature of “Trống Cơm” is its connection to familiar sounds and images from Vietnamese traditional culture.\n\nThe title refers to the trống cơm, a traditional Vietnamese drum. In Vietnamese musical-instrument classification, the trống cơm belongs to the membranophone family and is played by striking the drumheads by hand.\n\nFor younger listeners, the song can therefore become a starting point for exploring not only melody, but also traditional instruments, rhythm, and the cultural vocabulary surrounding Vietnamese folk music.",
+    "lyricsMeaning": "The lyrics of “Trống Cơm” have a playful and strongly rhythmic character, using expressions associated with Vietnamese folk language.\n\nRather than developing a linear narrative in the manner of many modern songs, the text creates its effect through images, repeated phrases, rhythmic syllables, and musical patterns.\n\nThe educational value therefore lies not only in interpreting each phrase literally, but also in recognizing how language itself becomes part of the musical structure.",
+    "lyricsNotes": "Some words and vocal syllables in traditional folk music may sound unfamiliar to younger audiences. Not every syllable needs to function like an ordinary sentence.\n\nIn folk performance, additional vocal syllables can support rhythm, extend a melody, or contribute to the expressive character of the song.\n\nFor the final archive, selected phrases and culturally significant images should be annotated rather than forcing a literal line-by-line explanation of the entire text.",
+    "whatToListenFor": "While listening, focus on three elements:\n\n1. The recurring rhythmic patterns that create a continuous sense of movement.\n\n2. The way the voice uses rhythmic syllables, sometimes functioning almost like another musical instrument.\n\n3. The difference between the Digital and Vinylized versions. With headphones, compare the perceived texture, brightness, softness, and spatial character of the two versions.",
+    "preservationValue": "“Trống Cơm” is worth preserving not only because it is a familiar folk melody, but also because it demonstrates how traditional music can continue through performance, education, and reinterpretation.\n\nPresenting different versions of the work within a digital archive can help younger audiences understand that musical heritage is not completely static. A melody may be transmitted and rearranged in different ways while remaining connected to its cultural origins.",
+    "fullLyrics": "Full lyrics are not displayed in this development record.",
+    "lyricsRightsStatus": "RESTRICTED",
+    "createdAt": "2026-09-16T08:32:43.269Z",
+    "updatedAt": "2026-09-16T08:32:43.269Z"
+  },
+  "requestedTranslationAvailable": true,
+  "related": [
+    {
+      "id": "01e1831b-d5c6-460a-ab4e-7273fd358053",
+      "slug": "con-ta-voi-nong-nan-quang-dung-1997",
+      "year": 1997,
+      "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/24/30/fb/2430fb96-546b-67bb-f8ea-9b34fab44d1d/766973828736.jpg/600x600bb.jpg",
+      "artistId": "a35e1d2f-a33d-4de8-9827-b51a65f7837c",
+      "albumId": "97c8f860-8550-4332-8186-36c3dc2ba2b3",
+      "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+      "genreId": "33b0f2f9-a775-4f9e-8346-6302431a4204",
+      "regionId": "7981b099-34e6-4d83-891e-a7ed10fe5ce4",
+      "status": "PUBLISHED",
+      "publishedAt": "2026-10-23T14:37:20.302Z",
+      "createdAt": "2026-10-23T12:14:54.668Z",
+      "updatedAt": "2026-10-23T14:37:20.303Z",
+      "artist": {
+        "id": "a35e1d2f-a33d-4de8-9827-b51a65f7837c",
+        "slug": "quang-dung",
+        "name": "Quang Dũng",
+        "image": null
+      },
+      "album": {
+        "id": "97c8f860-8550-4332-8186-36c3dc2ba2b3",
+        "slug": "ben-em-ngay-cuoi-quang-dung-1997",
+        "title": "Bên Em Ngày Cuối",
+        "year": null,
+        "coverImage": null
+      },
+      "era": {
+        "id": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+        "slug": "1990s",
+        "name": "1990s",
+        "startYear": 1990,
+        "endYear": 1999,
+        "order": 0,
+        "translations": [
+          {
+            "id": "419210fa-4a74-4cad-8922-c2d30f93c473",
+            "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+            "locale": "vi",
+            "title": "Thập niên 1990",
+            "summary": "Đây là phần lớn nhất của seed: thời kỳ nhiều album riêng của Tuấn Ngọc, Khánh Ly, Thái Thanh, Elvis Phương, Thanh Tuyền và Quang Dũng được lưu hành rộng.",
+            "musicalContext": "Cassette và CD cùng tồn tại; các giọng ca được nhận diện như “tác giả trình diễn”, tạo nên phiên bản chuẩn trong ký ức công chúng dù ca khúc có thể ra đời sớm hơn nhiều."
+          },
+          {
+            "id": "60a8ea55-a46b-4208-824a-869a3dfef059",
+            "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+            "locale": "en",
+            "title": "The 1990s",
+            "summary": "This is the seed’s largest group, when artist albums by Tuan Ngoc, Khanh Ly, Thai Thanh, Elvis Phuong, Thanh Tuyen, and Quang Dung circulated widely.",
+            "musicalContext": "Cassette and CD coexisted; singers functioned as interpretive authors, creating remembered benchmark versions even when the songs were composed much earlier."
+          }
+        ],
+        "translation": {
+          "id": "60a8ea55-a46b-4208-824a-869a3dfef059",
+          "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+          "locale": "en",
+          "title": "The 1990s",
+          "summary": "This is the seed’s largest group, when artist albums by Tuan Ngoc, Khanh Ly, Thai Thanh, Elvis Phuong, Thanh Tuyen, and Quang Dung circulated widely.",
+          "musicalContext": "Cassette and CD coexisted; singers functioned as interpretive authors, creating remembered benchmark versions even when the songs were composed much earlier."
+        }
+      },
+      "genre": {
+        "id": "33b0f2f9-a775-4f9e-8346-6302431a4204",
+        "slug": "pop-ballad",
+        "name": "Pop ballad"
+      },
+      "region": {
+        "id": "7981b099-34e6-4d83-891e-a7ed10fe5ce4",
+        "slug": "viet-nam",
+        "name": "Việt Nam"
+      },
+      "translations": [
+        {
+          "id": "58069b7e-f7a1-4276-bce7-865805a7f9f3",
+          "recordingId": "01e1831b-d5c6-460a-ab4e-7273fd358053",
+          "locale": "vi",
+          "title": "Còn Ta Với Nồng Nàn",
+          "alternativeTitle": null,
+          "shortSummary": "Còn Ta Với Nồng Nàn qua giọng Quang Dũng là một bản thu tiêu biểu để mở vào mạch pop ballad trong kho ReVinyl. Mục dữ liệu này ưu tiên câu chuyện của ca khúc và cách nghệ sĩ diễn giải.",
+          "historicalContext": "Phiên bản do Quang Dũng trình bày nằm trong album “Bên Em Ngày Cuối”; catalogue được dẫn nguồn ghi năm 1997. Ghi chú biên tập về tác giả/nguồn tác phẩm (cần đối chiếu nguồn quyền tác giả trước khi xuất bản): Quốc Bảo. Năm 1997 trong sheet là năm của bản phát hành được chọn cho archive, không mặc định là năm sáng tác đầu tiên.",
+          "culturalContext": "Bản thu thuộc dòng ca khúc đại chúng trong nước, nơi ký ức quê hương và kỹ thuật thanh nhạc chuyên nghiệp gặp nhau trong album phòng thu.",
+          "lyricsMeaning": "Khi hoàn cảnh và thời gian rút đi, điều còn lại là cường độ của tình cảm; bài hát lựa chọn sự nồng nàn thay cho một kết luận chắc chắn.",
+          "lyricsNotes": "Không chép toàn bộ lời ca vì quyền hiển thị chưa được xác minh. Phần diễn giải mô tả chủ đề tổng thể, không thay thế văn bản lời bài hát.",
+          "whatToListenFor": "Chú ý chất giọng nam trầm, lối hát mềm và việc giữ nhịp sau phách tạo phong thái crooner gần gũi với người nghe hiện đại.",
+          "preservationValue": "Nên lưu giữ vì đây là một điểm vào dễ tiếp cận cho người nghe mới, đồng thời cho phép so sánh cách Quang Dũng định hình ca khúc qua giọng hát, nhịp câu và hòa âm. Cần bổ sung mã catalogue vật lý, ảnh bìa độ phân giải cao và thông tin master nếu tìm được.",
+          "fullLyrics": null,
+          "lyricsRightsStatus": "UNKNOWN",
+          "createdAt": "2026-10-23T12:14:54.678Z",
+          "updatedAt": "2026-10-23T12:14:54.678Z"
+        },
+        {
+          "id": "c14db627-6f62-4963-82cc-ec22896dd4ee",
+          "recordingId": "01e1831b-d5c6-460a-ab4e-7273fd358053",
+          "locale": "en",
+          "title": "Còn Ta Với Nồng Nàn",
+          "alternativeTitle": null,
+          "shortSummary": "Còn Ta Với Nồng Nàn, performed by Quang Dũng, is an accessible entry into ReVinyl’s Pop ballad collection. This record focuses on the song’s story and the singer’s interpretation.",
+          "historicalContext": "This version, performed by Quang Dũng, appears on the album “Bên Em Ngày Cuối”; the cited catalog lists 1997. Editorial work credit/source (to be checked against an authoritative rights source before publication): Quốc Bảo. The year 1997 refers to the selected archive release, not automatically to the song's original composition date.",
+          "culturalContext": "The recording belongs to Vietnam’s domestic popular tradition, where homeland memory and professionally trained singing meet in the studio-album format.",
+          "lyricsMeaning": "When circumstance and time recede, emotional intensity remains; the song chooses ardor instead of a neat conclusion.",
+          "lyricsNotes": "Full lyrics are omitted because display rights have not been verified. The interpretation summarizes overall themes and does not substitute for the lyric text.",
+          "whatToListenFor": "Notice the low male timbre, soft delivery, and slightly behind-the-beat phrasing that create a modern crooner feel.",
+          "preservationValue": "Worth preserving as an accessible entry point for new listeners and as evidence of how Quang Dũng shapes the song through timbre, phrasing, and arrangement. Physical catalog numbers, high-resolution cover scans, and master provenance should be added when found.",
+          "fullLyrics": null,
+          "lyricsRightsStatus": "UNKNOWN",
+          "createdAt": "2026-10-23T12:14:54.678Z",
+          "updatedAt": "2026-10-23T12:14:54.678Z"
+        }
+      ],
+      "audio": [
+        {
+          "id": "39353a38-5f39-4534-a95e-fab3001f685b",
+          "recordingId": "01e1831b-d5c6-460a-ab4e-7273fd358053",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758525/archive/recordings/01e1831b-d5c6-460a-ab4e-7273fd358053/file_zvhjhi.mp3",
+          "storageKey": "archive/recordings/01e1831b-d5c6-460a-ab4e-7273fd358053/file_zvhjhi",
+          "originalFilename": "Còn Ta Với Nồng Nàn.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 4416847,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:28:59.323Z",
+          "updatedAt": "2026-10-23T12:28:59.323Z"
+        }
+      ],
+      "instruments": [
+        {
+          "recordingId": "01e1831b-d5c6-460a-ab4e-7273fd358053",
+          "instrumentId": "a784cdeb-920f-462e-85c9-e9198243b0d3",
+          "roleVi": "Giọng hát chính; nghệ sĩ biểu diễn đã được catalogue xác nhận",
+          "roleEn": "Lead vocal; performer confirmed by the catalog",
+          "confidence": 1,
+          "instrument": {
+            "id": "a784cdeb-920f-462e-85c9-e9198243b0d3",
+            "slug": "giong-hat",
+            "name": "Giọng hát"
+          }
+        },
+        {
+          "recordingId": "01e1831b-d5c6-460a-ab4e-7273fd358053",
+          "instrumentId": "2e9bde1b-a460-44d7-899f-541c8219b156",
+          "roleVi": "Khả năng xuất hiện trong phần hòa âm; cần nghe đúng master để xác nhận",
+          "roleEn": "Likely part of the arrangement; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "2e9bde1b-a460-44d7-899f-541c8219b156",
+            "slug": "piano-keyboard",
+            "name": "Piano / keyboard"
+          }
+        },
+        {
+          "recordingId": "01e1831b-d5c6-460a-ab4e-7273fd358053",
+          "instrumentId": "9397bdc8-f77c-47a8-8204-e3ca7d2393ce",
+          "roleVi": "Khả năng xuất hiện trong phần đệm; cần nghe đúng master để xác nhận",
+          "roleEn": "Likely accompaniment; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "9397bdc8-f77c-47a8-8204-e3ca7d2393ce",
+            "slug": "guitar",
+            "name": "Guitar"
+          }
+        },
+        {
+          "recordingId": "01e1831b-d5c6-460a-ab4e-7273fd358053",
+          "instrumentId": "888b96a3-b1cd-4284-b608-1e8082ce29c0",
+          "roleVi": "Nhận diện sơ bộ theo kiểu phối; cần nghe đúng master để xác nhận",
+          "roleEn": "Provisional identification from arrangement style; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "888b96a3-b1cd-4284-b608-1e8082ce29c0",
+            "slug": "bass",
+            "name": "Bass"
+          }
+        },
+        {
+          "recordingId": "01e1831b-d5c6-460a-ab4e-7273fd358053",
+          "instrumentId": "a41b4dd2-c977-444c-95e0-5b478cc99f27",
+          "roleVi": "Nhận diện sơ bộ theo kiểu phối; cần nghe đúng master để xác nhận",
+          "roleEn": "Provisional identification from arrangement style; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "a41b4dd2-c977-444c-95e0-5b478cc99f27",
+            "slug": "trong",
+            "name": "Trống"
+          }
+        },
+        {
+          "recordingId": "01e1831b-d5c6-460a-ab4e-7273fd358053",
+          "instrumentId": "4e072ad2-d792-4359-8a56-0234eed0a35a",
+          "roleVi": "Có thể tạo lớp nền trữ tình; cần nghe đúng master để xác nhận",
+          "roleEn": "May provide the lyrical background layer; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "4e072ad2-d792-4359-8a56-0234eed0a35a",
+            "slug": "dan-day",
+            "name": "Dàn dây"
+          }
+        }
+      ],
+      "references": [
+        {
+          "recordingId": "01e1831b-d5c6-460a-ab4e-7273fd358053",
+          "referenceId": "0beb1669-c2f6-458d-92cf-01c45b42d5f3",
+          "verificationStatus": "VERIFIED",
+          "reference": {
+            "id": "0beb1669-c2f6-458d-92cf-01c45b42d5f3",
+            "title": "Còn Ta Với Nồng Nàn — Quang Dũng — Bên Em Ngày Cuối",
+            "url": "https://music.apple.com/us/album/c%C3%B2n-ta-v%E1%BB%9Bi-n%E1%BB%93ng-n%C3%A0n/1669314005?i=1669314949",
+            "type": "Catalogue âm nhạc / streaming catalog",
+            "publisher": "Apple Music",
+            "publishedYear": 1997,
+            "notes": "Nguồn xác nhận nghệ sĩ biểu diễn, tên bản thu, album và metadata năm của phiên bản đang dùng. Năm catalogue có thể là ngày phát hành số hoặc tái phát hành; cần đối chiếu vật mang tin gốc trước khi coi là năm thu âm đầu tiên."
+          }
+        }
+      ],
+      "translation": {
+        "id": "c14db627-6f62-4963-82cc-ec22896dd4ee",
+        "recordingId": "01e1831b-d5c6-460a-ab4e-7273fd358053",
+        "locale": "en",
+        "title": "Còn Ta Với Nồng Nàn",
+        "alternativeTitle": null,
+        "shortSummary": "Còn Ta Với Nồng Nàn, performed by Quang Dũng, is an accessible entry into ReVinyl’s Pop ballad collection. This record focuses on the song’s story and the singer’s interpretation.",
+        "historicalContext": "This version, performed by Quang Dũng, appears on the album “Bên Em Ngày Cuối”; the cited catalog lists 1997. Editorial work credit/source (to be checked against an authoritative rights source before publication): Quốc Bảo. The year 1997 refers to the selected archive release, not automatically to the song's original composition date.",
+        "culturalContext": "The recording belongs to Vietnam’s domestic popular tradition, where homeland memory and professionally trained singing meet in the studio-album format.",
+        "lyricsMeaning": "When circumstance and time recede, emotional intensity remains; the song chooses ardor instead of a neat conclusion.",
+        "lyricsNotes": "Full lyrics are omitted because display rights have not been verified. The interpretation summarizes overall themes and does not substitute for the lyric text.",
+        "whatToListenFor": "Notice the low male timbre, soft delivery, and slightly behind-the-beat phrasing that create a modern crooner feel.",
+        "preservationValue": "Worth preserving as an accessible entry point for new listeners and as evidence of how Quang Dũng shapes the song through timbre, phrasing, and arrangement. Physical catalog numbers, high-resolution cover scans, and master provenance should be added when found.",
+        "fullLyrics": null,
+        "lyricsRightsStatus": "UNKNOWN",
+        "createdAt": "2026-10-23T12:14:54.678Z",
+        "updatedAt": "2026-10-23T12:14:54.678Z"
+      },
+      "requestedTranslationAvailable": true
+    },
+    {
+      "id": "10606ea1-48a9-44b4-8605-a8c2fdfd6eb6",
+      "slug": "nhin-nhung-mua-thu-di-khanh-ly-1990",
+      "year": 1990,
+      "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2b/00/5e/2b005eeb-e178-9dc8-ee72-2e804e34442f/12923.jpg/600x600bb.jpg",
+      "artistId": "00ca8813-8ea6-47a1-a7cc-019d5b63a818",
+      "albumId": "ac2798e6-b3fb-40be-9e00-336feb6928d7",
+      "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+      "genreId": "d3a05d79-3adb-4abf-9976-5a2a6e006f52",
+      "regionId": "7f38b638-3060-4ceb-ace3-534d343864e9",
+      "status": "PUBLISHED",
+      "publishedAt": "2026-10-23T14:37:31.155Z",
+      "createdAt": "2026-10-23T12:14:51.494Z",
+      "updatedAt": "2026-10-23T14:37:31.156Z",
+      "artist": {
+        "id": "00ca8813-8ea6-47a1-a7cc-019d5b63a818",
+        "slug": "khanh-ly",
+        "name": "Khánh Ly",
+        "image": null
+      },
+      "album": {
+        "id": "ac2798e6-b3fb-40be-9e00-336feb6928d7",
+        "slug": "ha-trang-khanh-ly-1990",
+        "title": "Hạ Trắng",
+        "year": null,
+        "coverImage": null
+      },
+      "era": {
+        "id": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+        "slug": "1990s",
+        "name": "1990s",
+        "startYear": 1990,
+        "endYear": 1999,
+        "order": 0,
+        "translations": [
+          {
+            "id": "419210fa-4a74-4cad-8922-c2d30f93c473",
+            "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+            "locale": "vi",
+            "title": "Thập niên 1990",
+            "summary": "Đây là phần lớn nhất của seed: thời kỳ nhiều album riêng của Tuấn Ngọc, Khánh Ly, Thái Thanh, Elvis Phương, Thanh Tuyền và Quang Dũng được lưu hành rộng.",
+            "musicalContext": "Cassette và CD cùng tồn tại; các giọng ca được nhận diện như “tác giả trình diễn”, tạo nên phiên bản chuẩn trong ký ức công chúng dù ca khúc có thể ra đời sớm hơn nhiều."
+          },
+          {
+            "id": "60a8ea55-a46b-4208-824a-869a3dfef059",
+            "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+            "locale": "en",
+            "title": "The 1990s",
+            "summary": "This is the seed’s largest group, when artist albums by Tuan Ngoc, Khanh Ly, Thai Thanh, Elvis Phuong, Thanh Tuyen, and Quang Dung circulated widely.",
+            "musicalContext": "Cassette and CD coexisted; singers functioned as interpretive authors, creating remembered benchmark versions even when the songs were composed much earlier."
+          }
+        ],
+        "translation": {
+          "id": "60a8ea55-a46b-4208-824a-869a3dfef059",
+          "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+          "locale": "en",
+          "title": "The 1990s",
+          "summary": "This is the seed’s largest group, when artist albums by Tuan Ngoc, Khanh Ly, Thai Thanh, Elvis Phuong, Thanh Tuyen, and Quang Dung circulated widely.",
+          "musicalContext": "Cassette and CD coexisted; singers functioned as interpretive authors, creating remembered benchmark versions even when the songs were composed much earlier."
+        }
+      },
+      "genre": {
+        "id": "d3a05d79-3adb-4abf-9976-5a2a6e006f52",
+        "slug": "nhac-trinh",
+        "name": "Nhạc Trịnh"
+      },
+      "region": {
+        "id": "7f38b638-3060-4ceb-ace3-534d343864e9",
+        "slug": "hai-ngoai",
+        "name": "Hải ngoại"
+      },
+      "translations": [
+        {
+          "id": "019e3ba7-9799-4346-9ad7-03d5d8055658",
+          "recordingId": "10606ea1-48a9-44b4-8605-a8c2fdfd6eb6",
+          "locale": "vi",
+          "title": "Nhìn Những Mùa Thu Đi",
+          "alternativeTitle": null,
+          "shortSummary": "Nhìn Những Mùa Thu Đi qua giọng Khánh Ly là một bản thu tiêu biểu để mở vào mạch nhạc trịnh trong kho ReVinyl. Mục dữ liệu này ưu tiên câu chuyện của ca khúc và cách nghệ sĩ diễn giải.",
+          "historicalContext": "Phiên bản do Khánh Ly trình bày nằm trong album “Hạ Trắng”; catalogue được dẫn nguồn ghi năm 1990. Ghi chú biên tập về tác giả/nguồn tác phẩm (cần đối chiếu nguồn quyền tác giả trước khi xuất bản): Trịnh Công Sơn. Năm 1990 trong sheet là năm của bản phát hành được chọn cho archive, không mặc định là năm sáng tác đầu tiên.",
+          "culturalContext": "Bản thu cho thấy vai trò của cộng đồng và hãng đĩa hải ngoại trong việc duy trì canon tân nhạc Việt, đồng thời giúp các ca khúc tiếp tục lưu hành qua nhiều thế hệ và định dạng.",
+          "lyricsMeaning": "Mùa thu lặp lại như thước đo của thời gian và chia lìa; cảnh vật ít thay đổi nhưng người nghe cảm thấy ký ức dần xa.",
+          "lyricsNotes": "Không chép toàn bộ lời ca vì quyền hiển thị chưa được xác minh. Phần diễn giải mô tả chủ đề tổng thể, không thay thế văn bản lời bài hát.",
+          "whatToListenFor": "Nghe cách ca sĩ giữ câu hát phẳng và gần lời nói, để những chuyển động nhỏ của giai điệu tạo nên nỗi buồn.",
+          "preservationValue": "Nên lưu giữ vì đây là một điểm vào dễ tiếp cận cho người nghe mới, đồng thời cho phép so sánh cách Khánh Ly định hình ca khúc qua giọng hát, nhịp câu và hòa âm. Cần bổ sung mã catalogue vật lý, ảnh bìa độ phân giải cao và thông tin master nếu tìm được.",
+          "fullLyrics": null,
+          "lyricsRightsStatus": "UNKNOWN",
+          "createdAt": "2026-10-23T12:14:51.504Z",
+          "updatedAt": "2026-10-23T12:14:51.504Z"
+        },
+        {
+          "id": "4dc473bb-3634-4abe-bb8b-fd00c322734a",
+          "recordingId": "10606ea1-48a9-44b4-8605-a8c2fdfd6eb6",
+          "locale": "en",
+          "title": "Nhìn Những Mùa Thu Đi",
+          "alternativeTitle": null,
+          "shortSummary": "Nhìn Những Mùa Thu Đi, performed by Khánh Ly, is an accessible entry into ReVinyl’s Nhạc Trịnh collection. This record focuses on the song’s story and the singer’s interpretation.",
+          "historicalContext": "This version, performed by Khánh Ly, appears on the album “Hạ Trắng”; the cited catalog lists 1990. Editorial work credit/source (to be checked against an authoritative rights source before publication): Trịnh Công Sơn. The year 1990 refers to the selected archive release, not automatically to the song's original composition date.",
+          "culturalContext": "The recording shows how overseas Vietnamese communities and labels sustained the popular-song canon, allowing repertoire to circulate across generations and formats.",
+          "lyricsMeaning": "Recurring autumns measure time and separation; the scenery changes little, yet memory feels increasingly distant.",
+          "lyricsNotes": "Full lyrics are omitted because display rights have not been verified. The interpretation summarizes overall themes and does not substitute for the lyric text.",
+          "whatToListenFor": "Hear how the singer keeps the line speech-like and level, letting small melodic movements carry the melancholy.",
+          "preservationValue": "Worth preserving as an accessible entry point for new listeners and as evidence of how Khánh Ly shapes the song through timbre, phrasing, and arrangement. Physical catalog numbers, high-resolution cover scans, and master provenance should be added when found.",
+          "fullLyrics": null,
+          "lyricsRightsStatus": "UNKNOWN",
+          "createdAt": "2026-10-23T12:14:51.504Z",
+          "updatedAt": "2026-10-23T12:14:51.504Z"
+        }
+      ],
+      "audio": [
+        {
+          "id": "0fc17407-482d-409c-9835-e41e660e8aff",
+          "recordingId": "10606ea1-48a9-44b4-8605-a8c2fdfd6eb6",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758620/archive/recordings/10606ea1-48a9-44b4-8605-a8c2fdfd6eb6/file_vz3mwl.mp3",
+          "storageKey": "archive/recordings/10606ea1-48a9-44b4-8605-a8c2fdfd6eb6/file_vz3mwl",
+          "originalFilename": "NHÌN NHỮNG MÙA THU ĐI Trịnh Công Sơn Khánh Ly.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 4610295,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:25:39.129Z",
+          "updatedAt": "2026-10-23T12:30:39.795Z"
+        },
+        {
+          "id": "c9e2e84a-912c-4cab-879e-1c1f6fc40474",
+          "recordingId": "10606ea1-48a9-44b4-8605-a8c2fdfd6eb6",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792853129/archive/recordings/10606ea1-48a9-44b4-8605-a8c2fdfd6eb6/file_p6fwsm.mp3",
+          "storageKey": "archive/recordings/10606ea1-48a9-44b4-8605-a8c2fdfd6eb6/file_p6fwsm",
+          "originalFilename": "nhin-nhung-mua-thu-di-khanh-ly-1990-vinylized.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 3390484,
+          "sourceNote": "Derived from the supplied DIGITAL source using Vinylize DSP, 2026-10-24 worn-favorite preset: RIAA, stylus tracing, groove compliance, wow/flutter, crosstalk, recorded surface texture. Full length; no added lead-in.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:45:38.087Z",
+          "updatedAt": "2026-10-24T14:45:38.087Z"
+        }
+      ],
+      "instruments": [
+        {
+          "recordingId": "10606ea1-48a9-44b4-8605-a8c2fdfd6eb6",
+          "instrumentId": "a784cdeb-920f-462e-85c9-e9198243b0d3",
+          "roleVi": "Giọng hát chính; nghệ sĩ biểu diễn đã được catalogue xác nhận",
+          "roleEn": "Lead vocal; performer confirmed by the catalog",
+          "confidence": 1,
+          "instrument": {
+            "id": "a784cdeb-920f-462e-85c9-e9198243b0d3",
+            "slug": "giong-hat",
+            "name": "Giọng hát"
+          }
+        },
+        {
+          "recordingId": "10606ea1-48a9-44b4-8605-a8c2fdfd6eb6",
+          "instrumentId": "2e9bde1b-a460-44d7-899f-541c8219b156",
+          "roleVi": "Khả năng xuất hiện trong phần hòa âm; cần nghe đúng master để xác nhận",
+          "roleEn": "Likely part of the arrangement; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "2e9bde1b-a460-44d7-899f-541c8219b156",
+            "slug": "piano-keyboard",
+            "name": "Piano / keyboard"
+          }
+        },
+        {
+          "recordingId": "10606ea1-48a9-44b4-8605-a8c2fdfd6eb6",
+          "instrumentId": "9397bdc8-f77c-47a8-8204-e3ca7d2393ce",
+          "roleVi": "Khả năng xuất hiện trong phần đệm; cần nghe đúng master để xác nhận",
+          "roleEn": "Likely accompaniment; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "9397bdc8-f77c-47a8-8204-e3ca7d2393ce",
+            "slug": "guitar",
+            "name": "Guitar"
+          }
+        },
+        {
+          "recordingId": "10606ea1-48a9-44b4-8605-a8c2fdfd6eb6",
+          "instrumentId": "888b96a3-b1cd-4284-b608-1e8082ce29c0",
+          "roleVi": "Nhận diện sơ bộ theo kiểu phối; cần nghe đúng master để xác nhận",
+          "roleEn": "Provisional identification from arrangement style; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "888b96a3-b1cd-4284-b608-1e8082ce29c0",
+            "slug": "bass",
+            "name": "Bass"
+          }
+        },
+        {
+          "recordingId": "10606ea1-48a9-44b4-8605-a8c2fdfd6eb6",
+          "instrumentId": "a41b4dd2-c977-444c-95e0-5b478cc99f27",
+          "roleVi": "Nhận diện sơ bộ theo kiểu phối; cần nghe đúng master để xác nhận",
+          "roleEn": "Provisional identification from arrangement style; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "a41b4dd2-c977-444c-95e0-5b478cc99f27",
+            "slug": "trong",
+            "name": "Trống"
+          }
+        },
+        {
+          "recordingId": "10606ea1-48a9-44b4-8605-a8c2fdfd6eb6",
+          "instrumentId": "4e072ad2-d792-4359-8a56-0234eed0a35a",
+          "roleVi": "Có thể tạo lớp nền trữ tình; cần nghe đúng master để xác nhận",
+          "roleEn": "May provide the lyrical background layer; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "4e072ad2-d792-4359-8a56-0234eed0a35a",
+            "slug": "dan-day",
+            "name": "Dàn dây"
+          }
+        }
+      ],
+      "references": [
+        {
+          "recordingId": "10606ea1-48a9-44b4-8605-a8c2fdfd6eb6",
+          "referenceId": "a1072d9a-d553-4c96-86ea-9ef8284c118a",
+          "verificationStatus": "VERIFIED",
+          "reference": {
+            "id": "a1072d9a-d553-4c96-86ea-9ef8284c118a",
+            "title": "Nhìn Những Mùa Thu Đi — Khánh Ly — Hạ Trắng",
+            "url": "https://music.apple.com/us/album/nh%C3%ACn-nh%E1%BB%AFng-m%C3%B9a-thu-%C4%91i/1557955735?i=1557956302",
+            "type": "Catalogue âm nhạc / streaming catalog",
+            "publisher": "Apple Music",
+            "publishedYear": 1990,
+            "notes": "Nguồn xác nhận nghệ sĩ biểu diễn, tên bản thu, album và metadata năm của phiên bản đang dùng. Năm catalogue có thể là ngày phát hành số hoặc tái phát hành; cần đối chiếu vật mang tin gốc trước khi coi là năm thu âm đầu tiên."
+          }
+        }
+      ],
+      "translation": {
+        "id": "4dc473bb-3634-4abe-bb8b-fd00c322734a",
+        "recordingId": "10606ea1-48a9-44b4-8605-a8c2fdfd6eb6",
+        "locale": "en",
+        "title": "Nhìn Những Mùa Thu Đi",
+        "alternativeTitle": null,
+        "shortSummary": "Nhìn Những Mùa Thu Đi, performed by Khánh Ly, is an accessible entry into ReVinyl’s Nhạc Trịnh collection. This record focuses on the song’s story and the singer’s interpretation.",
+        "historicalContext": "This version, performed by Khánh Ly, appears on the album “Hạ Trắng”; the cited catalog lists 1990. Editorial work credit/source (to be checked against an authoritative rights source before publication): Trịnh Công Sơn. The year 1990 refers to the selected archive release, not automatically to the song's original composition date.",
+        "culturalContext": "The recording shows how overseas Vietnamese communities and labels sustained the popular-song canon, allowing repertoire to circulate across generations and formats.",
+        "lyricsMeaning": "Recurring autumns measure time and separation; the scenery changes little, yet memory feels increasingly distant.",
+        "lyricsNotes": "Full lyrics are omitted because display rights have not been verified. The interpretation summarizes overall themes and does not substitute for the lyric text.",
+        "whatToListenFor": "Hear how the singer keeps the line speech-like and level, letting small melodic movements carry the melancholy.",
+        "preservationValue": "Worth preserving as an accessible entry point for new listeners and as evidence of how Khánh Ly shapes the song through timbre, phrasing, and arrangement. Physical catalog numbers, high-resolution cover scans, and master provenance should be added when found.",
+        "fullLyrics": null,
+        "lyricsRightsStatus": "UNKNOWN",
+        "createdAt": "2026-10-23T12:14:51.504Z",
+        "updatedAt": "2026-10-23T12:14:51.504Z"
+      },
+      "requestedTranslationAvailable": true
+    },
+    {
+      "id": "1116a2f7-00e6-43f9-a2ad-daff4e3383e4",
+      "slug": "toi-muon-quen-nguoi-elvis-phuong-1995",
+      "year": 1995,
+      "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6f/40/a6/6f40a6e4-5c1a-fe30-18da-395c4c9c63ff/886296044054.jpg/600x600bb.jpg",
+      "artistId": "69fc3ec5-d8ea-433b-baf8-8d1a6b3eea6d",
+      "albumId": "3ab2e567-0f98-47ab-ae5e-54ce4548a738",
+      "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+      "genreId": "b22f179c-b1c3-43ef-8959-ec98b36abef9",
+      "regionId": "7f38b638-3060-4ceb-ace3-534d343864e9",
+      "status": "PUBLISHED",
+      "publishedAt": "2026-10-23T14:37:25.403Z",
+      "createdAt": "2026-10-23T12:14:53.423Z",
+      "updatedAt": "2026-10-23T14:37:25.404Z",
+      "artist": {
+        "id": "69fc3ec5-d8ea-433b-baf8-8d1a6b3eea6d",
+        "slug": "elvis-phuong",
+        "name": "Elvis Phương",
+        "image": null
+      },
+      "album": {
+        "id": "3ab2e567-0f98-47ab-ae5e-54ce4548a738",
+        "slug": "bay-di-oi-co-don-elvis-phuong-1995",
+        "title": "Bay Đi Ôi Cô Đơn",
+        "year": null,
+        "coverImage": null
+      },
+      "era": {
+        "id": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+        "slug": "1990s",
+        "name": "1990s",
+        "startYear": 1990,
+        "endYear": 1999,
+        "order": 0,
+        "translations": [
+          {
+            "id": "419210fa-4a74-4cad-8922-c2d30f93c473",
+            "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+            "locale": "vi",
+            "title": "Thập niên 1990",
+            "summary": "Đây là phần lớn nhất của seed: thời kỳ nhiều album riêng của Tuấn Ngọc, Khánh Ly, Thái Thanh, Elvis Phương, Thanh Tuyền và Quang Dũng được lưu hành rộng.",
+            "musicalContext": "Cassette và CD cùng tồn tại; các giọng ca được nhận diện như “tác giả trình diễn”, tạo nên phiên bản chuẩn trong ký ức công chúng dù ca khúc có thể ra đời sớm hơn nhiều."
+          },
+          {
+            "id": "60a8ea55-a46b-4208-824a-869a3dfef059",
+            "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+            "locale": "en",
+            "title": "The 1990s",
+            "summary": "This is the seed’s largest group, when artist albums by Tuan Ngoc, Khanh Ly, Thai Thanh, Elvis Phuong, Thanh Tuyen, and Quang Dung circulated widely.",
+            "musicalContext": "Cassette and CD coexisted; singers functioned as interpretive authors, creating remembered benchmark versions even when the songs were composed much earlier."
+          }
+        ],
+        "translation": {
+          "id": "60a8ea55-a46b-4208-824a-869a3dfef059",
+          "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+          "locale": "en",
+          "title": "The 1990s",
+          "summary": "This is the seed’s largest group, when artist albums by Tuan Ngoc, Khanh Ly, Thai Thanh, Elvis Phuong, Thanh Tuyen, and Quang Dung circulated widely.",
+          "musicalContext": "Cassette and CD coexisted; singers functioned as interpretive authors, creating remembered benchmark versions even when the songs were composed much earlier."
+        }
+      },
+      "genre": {
+        "id": "b22f179c-b1c3-43ef-8959-ec98b36abef9",
+        "slug": "tinh-khuc",
+        "name": "Tình khúc"
+      },
+      "region": {
+        "id": "7f38b638-3060-4ceb-ace3-534d343864e9",
+        "slug": "hai-ngoai",
+        "name": "Hải ngoại"
+      },
+      "translations": [
+        {
+          "id": "75ca0d68-68d0-4ff0-8ac9-c8c7682c5dce",
+          "recordingId": "1116a2f7-00e6-43f9-a2ad-daff4e3383e4",
+          "locale": "vi",
+          "title": "Tôi Muốn Quên Người",
+          "alternativeTitle": null,
+          "shortSummary": "Tôi Muốn Quên Người qua giọng Elvis Phương là một bản thu tiêu biểu để mở vào mạch tình khúc trong kho ReVinyl. Mục dữ liệu này ưu tiên câu chuyện của ca khúc và cách nghệ sĩ diễn giải.",
+          "historicalContext": "Phiên bản do Elvis Phương trình bày nằm trong album “Bay Đi Ôi Cô Đơn”; catalogue được dẫn nguồn ghi năm 1995. Ghi chú biên tập về tác giả/nguồn tác phẩm (cần đối chiếu nguồn quyền tác giả trước khi xuất bản): Khánh Băng. Năm 1995 trong sheet là năm của bản phát hành được chọn cho archive, không mặc định là năm sáng tác đầu tiên.",
+          "culturalContext": "Bản thu cho thấy vai trò của cộng đồng và hãng đĩa hải ngoại trong việc duy trì canon tân nhạc Việt, đồng thời giúp các ca khúc tiếp tục lưu hành qua nhiều thế hệ và định dạng.",
+          "lyricsMeaning": "Mong muốn quên lại liên tục xác nhận rằng người cũ vẫn hiện diện; mâu thuẫn này tạo động lực cảm xúc cho toàn bài.",
+          "lyricsNotes": "Không chép toàn bộ lời ca vì quyền hiển thị chưa được xác minh. Phần diễn giải mô tả chủ đề tổng thể, không thay thế văn bản lời bài hát.",
+          "whatToListenFor": "Nghe cách giọng hát dùng độ mạnh và nốt cao để biến một lời tự nhủ thành cuộc giằng co công khai.",
+          "preservationValue": "Nên lưu giữ vì đây là một điểm vào dễ tiếp cận cho người nghe mới, đồng thời cho phép so sánh cách Elvis Phương định hình ca khúc qua giọng hát, nhịp câu và hòa âm. Cần bổ sung mã catalogue vật lý, ảnh bìa độ phân giải cao và thông tin master nếu tìm được.",
+          "fullLyrics": null,
+          "lyricsRightsStatus": "UNKNOWN",
+          "createdAt": "2026-10-23T12:14:53.433Z",
+          "updatedAt": "2026-10-23T12:14:53.433Z"
+        },
+        {
+          "id": "d04154da-57e2-4eeb-a18e-d21fd81ccee4",
+          "recordingId": "1116a2f7-00e6-43f9-a2ad-daff4e3383e4",
+          "locale": "en",
+          "title": "Tôi Muốn Quên Người",
+          "alternativeTitle": null,
+          "shortSummary": "Tôi Muốn Quên Người, performed by Elvis Phương, is an accessible entry into ReVinyl’s Tình khúc collection. This record focuses on the song’s story and the singer’s interpretation.",
+          "historicalContext": "This version, performed by Elvis Phương, appears on the album “Bay Đi Ôi Cô Đơn”; the cited catalog lists 1995. Editorial work credit/source (to be checked against an authoritative rights source before publication): Khánh Băng. The year 1995 refers to the selected archive release, not automatically to the song's original composition date.",
+          "culturalContext": "The recording shows how overseas Vietnamese communities and labels sustained the popular-song canon, allowing repertoire to circulate across generations and formats.",
+          "lyricsMeaning": "The desire to forget repeatedly confirms that the former lover remains present; that contradiction drives the song.",
+          "lyricsNotes": "Full lyrics are omitted because display rights have not been verified. The interpretation summarizes overall themes and does not substitute for the lyric text.",
+          "whatToListenFor": "Hear how dynamic force and high notes turn private self-talk into an open struggle.",
+          "preservationValue": "Worth preserving as an accessible entry point for new listeners and as evidence of how Elvis Phương shapes the song through timbre, phrasing, and arrangement. Physical catalog numbers, high-resolution cover scans, and master provenance should be added when found.",
+          "fullLyrics": null,
+          "lyricsRightsStatus": "UNKNOWN",
+          "createdAt": "2026-10-23T12:14:53.433Z",
+          "updatedAt": "2026-10-23T12:14:53.433Z"
+        }
+      ],
+      "audio": [
+        {
+          "id": "b357755d-359c-419b-a1db-8cda365d5aed",
+          "recordingId": "1116a2f7-00e6-43f9-a2ad-daff4e3383e4",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758785/archive/recordings/1116a2f7-00e6-43f9-a2ad-daff4e3383e4/file_lhegnb.mp3",
+          "storageKey": "archive/recordings/1116a2f7-00e6-43f9-a2ad-daff4e3383e4/file_lhegnb",
+          "originalFilename": "Tôi Muốn Quên Người.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 4224752,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:27:51.952Z",
+          "updatedAt": "2026-10-23T12:33:18.829Z"
+        },
+        {
+          "id": "c662c512-11ab-439c-a87d-0061ba769288",
+          "recordingId": "1116a2f7-00e6-43f9-a2ad-daff4e3383e4",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792853237/archive/recordings/1116a2f7-00e6-43f9-a2ad-daff4e3383e4/file_gqnvoa.mp3",
+          "storageKey": "archive/recordings/1116a2f7-00e6-43f9-a2ad-daff4e3383e4/file_gqnvoa",
+          "originalFilename": "toi-muon-quen-nguoi-elvis-phuong-1995-vinylized.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 3354122,
+          "sourceNote": "Derived from the supplied DIGITAL source using Vinylize DSP, 2026-10-24 worn-favorite preset: RIAA, stylus tracing, groove compliance, wow/flutter, crosstalk, recorded surface texture. Full length; no added lead-in.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:47:27.628Z",
+          "updatedAt": "2026-10-24T14:47:27.628Z"
+        }
+      ],
+      "instruments": [
+        {
+          "recordingId": "1116a2f7-00e6-43f9-a2ad-daff4e3383e4",
+          "instrumentId": "a784cdeb-920f-462e-85c9-e9198243b0d3",
+          "roleVi": "Giọng hát chính; nghệ sĩ biểu diễn đã được catalogue xác nhận",
+          "roleEn": "Lead vocal; performer confirmed by the catalog",
+          "confidence": 1,
+          "instrument": {
+            "id": "a784cdeb-920f-462e-85c9-e9198243b0d3",
+            "slug": "giong-hat",
+            "name": "Giọng hát"
+          }
+        },
+        {
+          "recordingId": "1116a2f7-00e6-43f9-a2ad-daff4e3383e4",
+          "instrumentId": "2e9bde1b-a460-44d7-899f-541c8219b156",
+          "roleVi": "Khả năng xuất hiện trong phần hòa âm; cần nghe đúng master để xác nhận",
+          "roleEn": "Likely part of the arrangement; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "2e9bde1b-a460-44d7-899f-541c8219b156",
+            "slug": "piano-keyboard",
+            "name": "Piano / keyboard"
+          }
+        },
+        {
+          "recordingId": "1116a2f7-00e6-43f9-a2ad-daff4e3383e4",
+          "instrumentId": "9397bdc8-f77c-47a8-8204-e3ca7d2393ce",
+          "roleVi": "Khả năng xuất hiện trong phần đệm; cần nghe đúng master để xác nhận",
+          "roleEn": "Likely accompaniment; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "9397bdc8-f77c-47a8-8204-e3ca7d2393ce",
+            "slug": "guitar",
+            "name": "Guitar"
+          }
+        },
+        {
+          "recordingId": "1116a2f7-00e6-43f9-a2ad-daff4e3383e4",
+          "instrumentId": "888b96a3-b1cd-4284-b608-1e8082ce29c0",
+          "roleVi": "Nhận diện sơ bộ theo kiểu phối; cần nghe đúng master để xác nhận",
+          "roleEn": "Provisional identification from arrangement style; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "888b96a3-b1cd-4284-b608-1e8082ce29c0",
+            "slug": "bass",
+            "name": "Bass"
+          }
+        },
+        {
+          "recordingId": "1116a2f7-00e6-43f9-a2ad-daff4e3383e4",
+          "instrumentId": "a41b4dd2-c977-444c-95e0-5b478cc99f27",
+          "roleVi": "Nhận diện sơ bộ theo kiểu phối; cần nghe đúng master để xác nhận",
+          "roleEn": "Provisional identification from arrangement style; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "a41b4dd2-c977-444c-95e0-5b478cc99f27",
+            "slug": "trong",
+            "name": "Trống"
+          }
+        },
+        {
+          "recordingId": "1116a2f7-00e6-43f9-a2ad-daff4e3383e4",
+          "instrumentId": "4e072ad2-d792-4359-8a56-0234eed0a35a",
+          "roleVi": "Có thể tạo lớp nền trữ tình; cần nghe đúng master để xác nhận",
+          "roleEn": "May provide the lyrical background layer; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "4e072ad2-d792-4359-8a56-0234eed0a35a",
+            "slug": "dan-day",
+            "name": "Dàn dây"
+          }
+        }
+      ],
+      "references": [
+        {
+          "recordingId": "1116a2f7-00e6-43f9-a2ad-daff4e3383e4",
+          "referenceId": "43b517cd-ec9e-4f79-843b-b59a60c3f67a",
+          "verificationStatus": "VERIFIED",
+          "reference": {
+            "id": "43b517cd-ec9e-4f79-843b-b59a60c3f67a",
+            "title": "Tôi Muốn Quên Người — Elvis Phương — Bay Đi Ôi Cô Đơn",
+            "url": "https://music.apple.com/us/album/t%C3%B4i-mu%E1%BB%91n-qu%C3%AAn-ng%C6%B0%E1%BB%9Di/1669292780?i=1669293503",
+            "type": "Catalogue âm nhạc / streaming catalog",
+            "publisher": "Apple Music",
+            "publishedYear": 1995,
+            "notes": "Nguồn xác nhận nghệ sĩ biểu diễn, tên bản thu, album và metadata năm của phiên bản đang dùng. Năm catalogue có thể là ngày phát hành số hoặc tái phát hành; cần đối chiếu vật mang tin gốc trước khi coi là năm thu âm đầu tiên."
+          }
+        }
+      ],
+      "translation": {
+        "id": "d04154da-57e2-4eeb-a18e-d21fd81ccee4",
+        "recordingId": "1116a2f7-00e6-43f9-a2ad-daff4e3383e4",
+        "locale": "en",
+        "title": "Tôi Muốn Quên Người",
+        "alternativeTitle": null,
+        "shortSummary": "Tôi Muốn Quên Người, performed by Elvis Phương, is an accessible entry into ReVinyl’s Tình khúc collection. This record focuses on the song’s story and the singer’s interpretation.",
+        "historicalContext": "This version, performed by Elvis Phương, appears on the album “Bay Đi Ôi Cô Đơn”; the cited catalog lists 1995. Editorial work credit/source (to be checked against an authoritative rights source before publication): Khánh Băng. The year 1995 refers to the selected archive release, not automatically to the song's original composition date.",
+        "culturalContext": "The recording shows how overseas Vietnamese communities and labels sustained the popular-song canon, allowing repertoire to circulate across generations and formats.",
+        "lyricsMeaning": "The desire to forget repeatedly confirms that the former lover remains present; that contradiction drives the song.",
+        "lyricsNotes": "Full lyrics are omitted because display rights have not been verified. The interpretation summarizes overall themes and does not substitute for the lyric text.",
+        "whatToListenFor": "Hear how dynamic force and high notes turn private self-talk into an open struggle.",
+        "preservationValue": "Worth preserving as an accessible entry point for new listeners and as evidence of how Elvis Phương shapes the song through timbre, phrasing, and arrangement. Physical catalog numbers, high-resolution cover scans, and master provenance should be added when found.",
+        "fullLyrics": null,
+        "lyricsRightsStatus": "UNKNOWN",
+        "createdAt": "2026-10-23T12:14:53.433Z",
+        "updatedAt": "2026-10-23T12:14:53.433Z"
+      },
+      "requestedTranslationAvailable": true
+    },
+    {
+      "id": "1ac72b36-da22-4dea-bf3d-c6bb752970d3",
+      "slug": "trai-tim-ben-le-bang-kieu-2000",
+      "year": 2000,
+      "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/59/d9/8759d9d1-12bd-b910-fb66-46a2a2feb3d3/105.jpg/600x600bb.jpg",
+      "artistId": "1cfaf22b-6370-4b4b-894c-6ebbfe319277",
+      "albumId": "f5a83cc4-5314-4c7f-8b5b-ca764ad2204d",
+      "eraId": "36e38864-f369-41ee-a868-a94288ecf8cc",
+      "genreId": "33b0f2f9-a775-4f9e-8346-6302431a4204",
+      "regionId": "644cf39b-50fe-4796-8859-1093d4c676b8",
+      "status": "PUBLISHED",
+      "publishedAt": "2026-10-23T14:37:12.120Z",
+      "createdAt": "2026-10-23T12:14:55.198Z",
+      "updatedAt": "2026-10-23T14:37:12.121Z",
+      "artist": {
+        "id": "1cfaf22b-6370-4b4b-894c-6ebbfe319277",
+        "slug": "bang-kieu",
+        "name": "Bằng Kiều",
+        "image": null
+      },
+      "album": {
+        "id": "f5a83cc4-5314-4c7f-8b5b-ca764ad2204d",
+        "slug": "chuyen-la-vol-1-bang-kieu-2000",
+        "title": "Chuyện Lạ (Vol. 1)",
+        "year": null,
+        "coverImage": null
+      },
+      "era": {
+        "id": "36e38864-f369-41ee-a868-a94288ecf8cc",
+        "slug": "2000s",
+        "name": "2000s",
+        "startYear": 2000,
+        "endYear": 2009,
+        "order": 0,
+        "translations": [
+          {
+            "id": "1c7cd189-5ce1-4a72-aa2e-85da1e0855ee",
+            "eraId": "36e38864-f369-41ee-a868-a94288ecf8cc",
+            "locale": "vi",
+            "title": "Thập niên 2000",
+            "summary": "Album ca sĩ, CD/VCD/DVD và thị trường trong nước–hải ngoại mở rộng, đưa các giọng hát cổ điển lẫn pop ballad đến một công chúng mới.",
+            "musicalContext": "Bản phối sạch và giọng hát tiền cảnh trở thành tiêu chuẩn nghe phổ biến; đây cũng là giai đoạn phù hợp để so sánh giữa tình khúc cũ và thẩm mỹ phòng thu mới."
+          },
+          {
+            "id": "d3f9d445-28b6-4b19-aab9-004f466890db",
+            "eraId": "36e38864-f369-41ee-a868-a94288ecf8cc",
+            "locale": "en",
+            "title": "The 2000s",
+            "summary": "Artist albums, CD/VCD/DVD, and connected domestic–diaspora markets brought classic voices and pop ballads to new audiences.",
+            "musicalContext": "Clean arrangements and foregrounded vocals became common listening standards, making the decade useful for comparing older repertoire with newer studio aesthetics."
+          }
+        ],
+        "translation": {
+          "id": "d3f9d445-28b6-4b19-aab9-004f466890db",
+          "eraId": "36e38864-f369-41ee-a868-a94288ecf8cc",
+          "locale": "en",
+          "title": "The 2000s",
+          "summary": "Artist albums, CD/VCD/DVD, and connected domestic–diaspora markets brought classic voices and pop ballads to new audiences.",
+          "musicalContext": "Clean arrangements and foregrounded vocals became common listening standards, making the decade useful for comparing older repertoire with newer studio aesthetics."
+        }
+      },
+      "genre": {
+        "id": "33b0f2f9-a775-4f9e-8346-6302431a4204",
+        "slug": "pop-ballad",
+        "name": "Pop ballad"
+      },
+      "region": {
+        "id": "644cf39b-50fe-4796-8859-1093d4c676b8",
+        "slug": "viet-nam-hai-ngoai",
+        "name": "Việt Nam / Hải ngoại"
+      },
+      "translations": [
+        {
+          "id": "6ac7d5ee-3878-4bdf-8e62-3078c28bcaf9",
+          "recordingId": "1ac72b36-da22-4dea-bf3d-c6bb752970d3",
+          "locale": "vi",
+          "title": "Trái Tim Bên Lề",
+          "alternativeTitle": null,
+          "shortSummary": "Trái Tim Bên Lề qua giọng Bằng Kiều là một bản thu tiêu biểu để mở vào mạch pop ballad trong kho ReVinyl. Mục dữ liệu này ưu tiên câu chuyện của ca khúc và cách nghệ sĩ diễn giải.",
+          "historicalContext": "Phiên bản do Bằng Kiều trình bày nằm trong album “Chuyện Lạ (Vol. 1)”; catalogue được dẫn nguồn ghi năm 2000. Ghi chú biên tập về tác giả/nguồn tác phẩm (cần đối chiếu nguồn quyền tác giả trước khi xuất bản): Phạm Khải Tuấn. Năm 2000 trong sheet là năm của bản phát hành được chọn cho archive, không mặc định là năm sáng tác đầu tiên.",
+          "culturalContext": "Bản thu đứng giữa thị trường trong nước và hải ngoại, cho thấy một ca khúc Việt có thể đi qua sân khấu, album vật lý và nền tảng số mà vẫn giữ tính nhận diện.",
+          "lyricsMeaning": "Người kể đứng ngoài tình yêu của người mình yêu; “bên lề” là vị trí vừa gần gũi vừa không được thừa nhận.",
+          "lyricsNotes": "Không chép toàn bộ lời ca vì quyền hiển thị chưa được xác minh. Phần diễn giải mô tả chủ đề tổng thể, không thay thế văn bản lời bài hát.",
+          "whatToListenFor": "Chú ý quãng giọng rộng, giọng pha ở cao độ cao và cách tăng dần cường độ—những yếu tố khiến ca khúc trở thành bài phô diễn nhưng vẫn giữ câu chuyện.",
+          "preservationValue": "Nên lưu giữ vì đây là một điểm vào dễ tiếp cận cho người nghe mới, đồng thời cho phép so sánh cách Bằng Kiều định hình ca khúc qua giọng hát, nhịp câu và hòa âm. Cần bổ sung mã catalogue vật lý, ảnh bìa độ phân giải cao và thông tin master nếu tìm được.",
+          "fullLyrics": null,
+          "lyricsRightsStatus": "UNKNOWN",
+          "createdAt": "2026-10-23T12:14:55.208Z",
+          "updatedAt": "2026-10-23T12:14:55.208Z"
+        },
+        {
+          "id": "595082e4-7c95-44be-8d91-e346e5c31769",
+          "recordingId": "1ac72b36-da22-4dea-bf3d-c6bb752970d3",
+          "locale": "en",
+          "title": "Trái Tim Bên Lề",
+          "alternativeTitle": null,
+          "shortSummary": "Trái Tim Bên Lề, performed by Bằng Kiều, is an accessible entry into ReVinyl’s Pop ballad collection. This record focuses on the song’s story and the singer’s interpretation.",
+          "historicalContext": "This version, performed by Bằng Kiều, appears on the album “Chuyện Lạ (Vol. 1)”; the cited catalog lists 2000. Editorial work credit/source (to be checked against an authoritative rights source before publication): Phạm Khải Tuấn. The year 2000 refers to the selected archive release, not automatically to the song's original composition date.",
+          "culturalContext": "The recording sits between domestic and diaspora markets, showing how a Vietnamese song can move through stage, physical albums, and streaming while retaining its identity.",
+          "lyricsMeaning": "The narrator stands outside the beloved’s relationship; “on the sidelines” means being close yet unacknowledged.",
+          "lyricsNotes": "Full lyrics are omitted because display rights have not been verified. The interpretation summarizes overall themes and does not substitute for the lyric text.",
+          "whatToListenFor": "Notice the wide range, mixed upper register, and gradual dynamic build—features that make the song a vocal showcase without losing its narrative.",
+          "preservationValue": "Worth preserving as an accessible entry point for new listeners and as evidence of how Bằng Kiều shapes the song through timbre, phrasing, and arrangement. Physical catalog numbers, high-resolution cover scans, and master provenance should be added when found.",
+          "fullLyrics": null,
+          "lyricsRightsStatus": "UNKNOWN",
+          "createdAt": "2026-10-23T12:14:55.208Z",
+          "updatedAt": "2026-10-23T12:14:55.208Z"
+        }
+      ],
+      "audio": [
+        {
+          "id": "4cf6200a-84fc-4836-8f3f-f550d18a3bf8",
+          "recordingId": "1ac72b36-da22-4dea-bf3d-c6bb752970d3",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758575/archive/recordings/1ac72b36-da22-4dea-bf3d-c6bb752970d3/file_urxwje.mp3",
+          "storageKey": "archive/recordings/1ac72b36-da22-4dea-bf3d-c6bb752970d3/file_urxwje",
+          "originalFilename": "Trái Tim Bên Lề Bằng Kiều.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 5021453,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:29:48.640Z",
+          "updatedAt": "2026-10-23T12:29:48.640Z"
+        }
+      ],
+      "instruments": [
+        {
+          "recordingId": "1ac72b36-da22-4dea-bf3d-c6bb752970d3",
+          "instrumentId": "a784cdeb-920f-462e-85c9-e9198243b0d3",
+          "roleVi": "Giọng hát chính; nghệ sĩ biểu diễn đã được catalogue xác nhận",
+          "roleEn": "Lead vocal; performer confirmed by the catalog",
+          "confidence": 1,
+          "instrument": {
+            "id": "a784cdeb-920f-462e-85c9-e9198243b0d3",
+            "slug": "giong-hat",
+            "name": "Giọng hát"
+          }
+        },
+        {
+          "recordingId": "1ac72b36-da22-4dea-bf3d-c6bb752970d3",
+          "instrumentId": "2e9bde1b-a460-44d7-899f-541c8219b156",
+          "roleVi": "Khả năng xuất hiện trong phần hòa âm; cần nghe đúng master để xác nhận",
+          "roleEn": "Likely part of the arrangement; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "2e9bde1b-a460-44d7-899f-541c8219b156",
+            "slug": "piano-keyboard",
+            "name": "Piano / keyboard"
+          }
+        },
+        {
+          "recordingId": "1ac72b36-da22-4dea-bf3d-c6bb752970d3",
+          "instrumentId": "9397bdc8-f77c-47a8-8204-e3ca7d2393ce",
+          "roleVi": "Khả năng xuất hiện trong phần đệm; cần nghe đúng master để xác nhận",
+          "roleEn": "Likely accompaniment; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "9397bdc8-f77c-47a8-8204-e3ca7d2393ce",
+            "slug": "guitar",
+            "name": "Guitar"
+          }
+        },
+        {
+          "recordingId": "1ac72b36-da22-4dea-bf3d-c6bb752970d3",
+          "instrumentId": "888b96a3-b1cd-4284-b608-1e8082ce29c0",
+          "roleVi": "Nhận diện sơ bộ theo kiểu phối; cần nghe đúng master để xác nhận",
+          "roleEn": "Provisional identification from arrangement style; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "888b96a3-b1cd-4284-b608-1e8082ce29c0",
+            "slug": "bass",
+            "name": "Bass"
+          }
+        },
+        {
+          "recordingId": "1ac72b36-da22-4dea-bf3d-c6bb752970d3",
+          "instrumentId": "a41b4dd2-c977-444c-95e0-5b478cc99f27",
+          "roleVi": "Nhận diện sơ bộ theo kiểu phối; cần nghe đúng master để xác nhận",
+          "roleEn": "Provisional identification from arrangement style; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "a41b4dd2-c977-444c-95e0-5b478cc99f27",
+            "slug": "trong",
+            "name": "Trống"
+          }
+        },
+        {
+          "recordingId": "1ac72b36-da22-4dea-bf3d-c6bb752970d3",
+          "instrumentId": "4e072ad2-d792-4359-8a56-0234eed0a35a",
+          "roleVi": "Có thể tạo lớp nền trữ tình; cần nghe đúng master để xác nhận",
+          "roleEn": "May provide the lyrical background layer; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "4e072ad2-d792-4359-8a56-0234eed0a35a",
+            "slug": "dan-day",
+            "name": "Dàn dây"
+          }
+        }
+      ],
+      "references": [
+        {
+          "recordingId": "1ac72b36-da22-4dea-bf3d-c6bb752970d3",
+          "referenceId": "bd8cf4ec-6d39-4e41-9be0-b10a2e378796",
+          "verificationStatus": "VERIFIED",
+          "reference": {
+            "id": "bd8cf4ec-6d39-4e41-9be0-b10a2e378796",
+            "title": "Trái Tim Bên Lề — Bằng Kiều — Chuyện Lạ (Vol. 1)",
+            "url": "https://music.apple.com/us/album/tr%C3%A1i-tim-b%C3%AAn-l%E1%BB%81/1754603667?i=1754603671",
+            "type": "Catalogue âm nhạc / streaming catalog",
+            "publisher": "Apple Music",
+            "publishedYear": 2000,
+            "notes": "Nguồn xác nhận nghệ sĩ biểu diễn, tên bản thu, album và metadata năm của phiên bản đang dùng. Năm catalogue có thể là ngày phát hành số hoặc tái phát hành; cần đối chiếu vật mang tin gốc trước khi coi là năm thu âm đầu tiên."
+          }
+        }
+      ],
+      "translation": {
+        "id": "595082e4-7c95-44be-8d91-e346e5c31769",
+        "recordingId": "1ac72b36-da22-4dea-bf3d-c6bb752970d3",
+        "locale": "en",
+        "title": "Trái Tim Bên Lề",
+        "alternativeTitle": null,
+        "shortSummary": "Trái Tim Bên Lề, performed by Bằng Kiều, is an accessible entry into ReVinyl’s Pop ballad collection. This record focuses on the song’s story and the singer’s interpretation.",
+        "historicalContext": "This version, performed by Bằng Kiều, appears on the album “Chuyện Lạ (Vol. 1)”; the cited catalog lists 2000. Editorial work credit/source (to be checked against an authoritative rights source before publication): Phạm Khải Tuấn. The year 2000 refers to the selected archive release, not automatically to the song's original composition date.",
+        "culturalContext": "The recording sits between domestic and diaspora markets, showing how a Vietnamese song can move through stage, physical albums, and streaming while retaining its identity.",
+        "lyricsMeaning": "The narrator stands outside the beloved’s relationship; “on the sidelines” means being close yet unacknowledged.",
+        "lyricsNotes": "Full lyrics are omitted because display rights have not been verified. The interpretation summarizes overall themes and does not substitute for the lyric text.",
+        "whatToListenFor": "Notice the wide range, mixed upper register, and gradual dynamic build—features that make the song a vocal showcase without losing its narrative.",
+        "preservationValue": "Worth preserving as an accessible entry point for new listeners and as evidence of how Bằng Kiều shapes the song through timbre, phrasing, and arrangement. Physical catalog numbers, high-resolution cover scans, and master provenance should be added when found.",
+        "fullLyrics": null,
+        "lyricsRightsStatus": "UNKNOWN",
+        "createdAt": "2026-10-23T12:14:55.208Z",
+        "updatedAt": "2026-10-23T12:14:55.208Z"
+      },
+      "requestedTranslationAvailable": true
+    },
+    {
+      "id": "1da025a5-9fc8-4871-9ef9-4a57ed0fee07",
+      "slug": "ao-anh-sut-chi-duong-ta-thai-thanh-1990",
+      "year": 1990,
+      "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8d/6b/b2/8d6bb259-0d5e-2a78-701e-1bf033cd670b/889.jpg/600x600bb.jpg",
+      "artistId": "d9d54337-d9ab-4291-b999-5693e43a6c72",
+      "albumId": "b575b7a7-ff71-437a-88c5-14daa7940e8e",
+      "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+      "genreId": "534df395-aa8c-4c2a-9352-52307b9ce640",
+      "regionId": "7f38b638-3060-4ceb-ace3-534d343864e9",
+      "status": "PUBLISHED",
+      "publishedAt": "2026-10-23T14:37:28.747Z",
+      "createdAt": "2026-10-23T12:14:52.356Z",
+      "updatedAt": "2026-10-23T14:37:28.748Z",
+      "artist": {
+        "id": "d9d54337-d9ab-4291-b999-5693e43a6c72",
+        "slug": "thai-thanh",
+        "name": "Thái Thanh",
+        "image": null
+      },
+      "album": {
+        "id": "b575b7a7-ff71-437a-88c5-14daa7940e8e",
+        "slug": "dem-nho-trang-sai-gon-thai-thanh-1990",
+        "title": "Đêm Nhớ Trăng Sài Gòn (Thái Thanh Hải Ngoại 4)",
+        "year": null,
+        "coverImage": null
+      },
+      "era": {
+        "id": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+        "slug": "1990s",
+        "name": "1990s",
+        "startYear": 1990,
+        "endYear": 1999,
+        "order": 0,
+        "translations": [
+          {
+            "id": "419210fa-4a74-4cad-8922-c2d30f93c473",
+            "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+            "locale": "vi",
+            "title": "Thập niên 1990",
+            "summary": "Đây là phần lớn nhất của seed: thời kỳ nhiều album riêng của Tuấn Ngọc, Khánh Ly, Thái Thanh, Elvis Phương, Thanh Tuyền và Quang Dũng được lưu hành rộng.",
+            "musicalContext": "Cassette và CD cùng tồn tại; các giọng ca được nhận diện như “tác giả trình diễn”, tạo nên phiên bản chuẩn trong ký ức công chúng dù ca khúc có thể ra đời sớm hơn nhiều."
+          },
+          {
+            "id": "60a8ea55-a46b-4208-824a-869a3dfef059",
+            "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+            "locale": "en",
+            "title": "The 1990s",
+            "summary": "This is the seed’s largest group, when artist albums by Tuan Ngoc, Khanh Ly, Thai Thanh, Elvis Phuong, Thanh Tuyen, and Quang Dung circulated widely.",
+            "musicalContext": "Cassette and CD coexisted; singers functioned as interpretive authors, creating remembered benchmark versions even when the songs were composed much earlier."
+          }
+        ],
+        "translation": {
+          "id": "60a8ea55-a46b-4208-824a-869a3dfef059",
+          "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+          "locale": "en",
+          "title": "The 1990s",
+          "summary": "This is the seed’s largest group, when artist albums by Tuan Ngoc, Khanh Ly, Thai Thanh, Elvis Phuong, Thanh Tuyen, and Quang Dung circulated widely.",
+          "musicalContext": "Cassette and CD coexisted; singers functioned as interpretive authors, creating remembered benchmark versions even when the songs were composed much earlier."
+        }
+      },
+      "genre": {
+        "id": "534df395-aa8c-4c2a-9352-52307b9ce640",
+        "slug": "tan-nhac-viet-nam",
+        "name": "Tân nhạc Việt Nam"
+      },
+      "region": {
+        "id": "7f38b638-3060-4ceb-ace3-534d343864e9",
+        "slug": "hai-ngoai",
+        "name": "Hải ngoại"
+      },
+      "translations": [
+        {
+          "id": "ac675888-a8a9-4389-8420-ceba4ff8460c",
+          "recordingId": "1da025a5-9fc8-4871-9ef9-4a57ed0fee07",
+          "locale": "vi",
+          "title": "Áo Anh Sứt Chỉ Đường Tà",
+          "alternativeTitle": null,
+          "shortSummary": "Áo Anh Sứt Chỉ Đường Tà qua giọng Thái Thanh là một bản thu tiêu biểu để mở vào mạch tân nhạc việt nam trong kho ReVinyl. Mục dữ liệu này ưu tiên câu chuyện của ca khúc và cách nghệ sĩ diễn giải.",
+          "historicalContext": "Phiên bản do Thái Thanh trình bày nằm trong album “Đêm Nhớ Trăng Sài Gòn (Thái Thanh Hải Ngoại 4)”; catalogue được dẫn nguồn ghi năm 1990. Ghi chú biên tập về tác giả/nguồn tác phẩm (cần đối chiếu nguồn quyền tác giả trước khi xuất bản): Phạm Duy; phổ thơ Hữu Loan. Năm 1990 trong sheet là năm của bản phát hành được chọn cho archive, không mặc định là năm sáng tác đầu tiên.",
+          "culturalContext": "Bản thu cho thấy vai trò của cộng đồng và hãng đĩa hải ngoại trong việc duy trì canon tân nhạc Việt, đồng thời giúp các ca khúc tiếp tục lưu hành qua nhiều thế hệ và định dạng.",
+          "lyricsMeaning": "Tình yêu, chiến tranh và mất mát riêng tư chồng lên nhau; những hình ảnh áo rách, đường hành quân và tang tóc giữ bài hát gần với đời sống.",
+          "lyricsNotes": "Không chép toàn bộ lời ca vì quyền hiển thị chưa được xác minh. Phần diễn giải mô tả chủ đề tổng thể, không thay thế văn bản lời bài hát.",
+          "whatToListenFor": "Chú ý cách giọng hát chuyển nhanh giữa tự sự, nghẹn ngào và những câu bùng lên, phản ánh cấu trúc kịch tính của ca khúc.",
+          "preservationValue": "Nên lưu giữ vì đây là một điểm vào dễ tiếp cận cho người nghe mới, đồng thời cho phép so sánh cách Thái Thanh định hình ca khúc qua giọng hát, nhịp câu và hòa âm. Cần bổ sung mã catalogue vật lý, ảnh bìa độ phân giải cao và thông tin master nếu tìm được.",
+          "fullLyrics": null,
+          "lyricsRightsStatus": "UNKNOWN",
+          "createdAt": "2026-10-23T12:14:52.366Z",
+          "updatedAt": "2026-10-23T12:14:52.366Z"
+        },
+        {
+          "id": "aef9ab53-b1a9-41a7-9563-e8883931e588",
+          "recordingId": "1da025a5-9fc8-4871-9ef9-4a57ed0fee07",
+          "locale": "en",
+          "title": "Áo Anh Sứt Chỉ Đường Tà",
+          "alternativeTitle": null,
+          "shortSummary": "Áo Anh Sứt Chỉ Đường Tà, performed by Thái Thanh, is an accessible entry into ReVinyl’s Tân nhạc Việt Nam collection. This record focuses on the song’s story and the singer’s interpretation.",
+          "historicalContext": "This version, performed by Thái Thanh, appears on the album “Đêm Nhớ Trăng Sài Gòn (Thái Thanh Hải Ngoại 4)”; the cited catalog lists 1990. Editorial work credit/source (to be checked against an authoritative rights source before publication): Phạm Duy; phổ thơ Hữu Loan. The year 1990 refers to the selected archive release, not automatically to the song's original composition date.",
+          "culturalContext": "The recording shows how overseas Vietnamese communities and labels sustained the popular-song canon, allowing repertoire to circulate across generations and formats.",
+          "lyricsMeaning": "Love, war, and private loss overlap; images of a torn shirt, military roads, and mourning keep the song grounded in lived experience.",
+          "lyricsNotes": "Full lyrics are omitted because display rights have not been verified. The interpretation summarizes overall themes and does not substitute for the lyric text.",
+          "whatToListenFor": "Notice the rapid shifts between narration, restraint, and surging phrases, mirroring the song’s dramatic structure.",
+          "preservationValue": "Worth preserving as an accessible entry point for new listeners and as evidence of how Thái Thanh shapes the song through timbre, phrasing, and arrangement. Physical catalog numbers, high-resolution cover scans, and master provenance should be added when found.",
+          "fullLyrics": null,
+          "lyricsRightsStatus": "UNKNOWN",
+          "createdAt": "2026-10-23T12:14:52.366Z",
+          "updatedAt": "2026-10-23T12:14:52.366Z"
+        }
+      ],
+      "audio": [],
+      "instruments": [
+        {
+          "recordingId": "1da025a5-9fc8-4871-9ef9-4a57ed0fee07",
+          "instrumentId": "a784cdeb-920f-462e-85c9-e9198243b0d3",
+          "roleVi": "Giọng hát chính; nghệ sĩ biểu diễn đã được catalogue xác nhận",
+          "roleEn": "Lead vocal; performer confirmed by the catalog",
+          "confidence": 1,
+          "instrument": {
+            "id": "a784cdeb-920f-462e-85c9-e9198243b0d3",
+            "slug": "giong-hat",
+            "name": "Giọng hát"
+          }
+        },
+        {
+          "recordingId": "1da025a5-9fc8-4871-9ef9-4a57ed0fee07",
+          "instrumentId": "2e9bde1b-a460-44d7-899f-541c8219b156",
+          "roleVi": "Khả năng xuất hiện trong phần hòa âm; cần nghe đúng master để xác nhận",
+          "roleEn": "Likely part of the arrangement; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "2e9bde1b-a460-44d7-899f-541c8219b156",
+            "slug": "piano-keyboard",
+            "name": "Piano / keyboard"
+          }
+        },
+        {
+          "recordingId": "1da025a5-9fc8-4871-9ef9-4a57ed0fee07",
+          "instrumentId": "9397bdc8-f77c-47a8-8204-e3ca7d2393ce",
+          "roleVi": "Khả năng xuất hiện trong phần đệm; cần nghe đúng master để xác nhận",
+          "roleEn": "Likely accompaniment; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "9397bdc8-f77c-47a8-8204-e3ca7d2393ce",
+            "slug": "guitar",
+            "name": "Guitar"
+          }
+        },
+        {
+          "recordingId": "1da025a5-9fc8-4871-9ef9-4a57ed0fee07",
+          "instrumentId": "888b96a3-b1cd-4284-b608-1e8082ce29c0",
+          "roleVi": "Nhận diện sơ bộ theo kiểu phối; cần nghe đúng master để xác nhận",
+          "roleEn": "Provisional identification from arrangement style; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "888b96a3-b1cd-4284-b608-1e8082ce29c0",
+            "slug": "bass",
+            "name": "Bass"
+          }
+        },
+        {
+          "recordingId": "1da025a5-9fc8-4871-9ef9-4a57ed0fee07",
+          "instrumentId": "a41b4dd2-c977-444c-95e0-5b478cc99f27",
+          "roleVi": "Nhận diện sơ bộ theo kiểu phối; cần nghe đúng master để xác nhận",
+          "roleEn": "Provisional identification from arrangement style; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "a41b4dd2-c977-444c-95e0-5b478cc99f27",
+            "slug": "trong",
+            "name": "Trống"
+          }
+        },
+        {
+          "recordingId": "1da025a5-9fc8-4871-9ef9-4a57ed0fee07",
+          "instrumentId": "4e072ad2-d792-4359-8a56-0234eed0a35a",
+          "roleVi": "Có thể tạo lớp nền trữ tình; cần nghe đúng master để xác nhận",
+          "roleEn": "May provide the lyrical background layer; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "4e072ad2-d792-4359-8a56-0234eed0a35a",
+            "slug": "dan-day",
+            "name": "Dàn dây"
+          }
+        }
+      ],
+      "references": [
+        {
+          "recordingId": "1da025a5-9fc8-4871-9ef9-4a57ed0fee07",
+          "referenceId": "5f9f684e-7e82-4c6d-b054-a3f1b95bc8a7",
+          "verificationStatus": "VERIFIED",
+          "reference": {
+            "id": "5f9f684e-7e82-4c6d-b054-a3f1b95bc8a7",
+            "title": "Áo Anh Sứt Chỉ Đường Tà — Thái Thanh — Đêm Nhớ Trăng Sài Gòn (Thái Thanh Hải Ngoại 4)",
+            "url": "https://music.apple.com/us/album/%C3%A1o-anh-s%E1%BB%A9t-ch%E1%BB%89-%C4%91%C6%B0%E1%BB%9Dng-t%C3%A0/1700823474?i=1700823673",
+            "type": "Catalogue âm nhạc / streaming catalog",
+            "publisher": "Apple Music",
+            "publishedYear": 1990,
+            "notes": "Nguồn xác nhận nghệ sĩ biểu diễn, tên bản thu, album và metadata năm của phiên bản đang dùng. Năm catalogue có thể là ngày phát hành số hoặc tái phát hành; cần đối chiếu vật mang tin gốc trước khi coi là năm thu âm đầu tiên."
+          }
+        }
+      ],
+      "translation": {
+        "id": "aef9ab53-b1a9-41a7-9563-e8883931e588",
+        "recordingId": "1da025a5-9fc8-4871-9ef9-4a57ed0fee07",
+        "locale": "en",
+        "title": "Áo Anh Sứt Chỉ Đường Tà",
+        "alternativeTitle": null,
+        "shortSummary": "Áo Anh Sứt Chỉ Đường Tà, performed by Thái Thanh, is an accessible entry into ReVinyl’s Tân nhạc Việt Nam collection. This record focuses on the song’s story and the singer’s interpretation.",
+        "historicalContext": "This version, performed by Thái Thanh, appears on the album “Đêm Nhớ Trăng Sài Gòn (Thái Thanh Hải Ngoại 4)”; the cited catalog lists 1990. Editorial work credit/source (to be checked against an authoritative rights source before publication): Phạm Duy; phổ thơ Hữu Loan. The year 1990 refers to the selected archive release, not automatically to the song's original composition date.",
+        "culturalContext": "The recording shows how overseas Vietnamese communities and labels sustained the popular-song canon, allowing repertoire to circulate across generations and formats.",
+        "lyricsMeaning": "Love, war, and private loss overlap; images of a torn shirt, military roads, and mourning keep the song grounded in lived experience.",
+        "lyricsNotes": "Full lyrics are omitted because display rights have not been verified. The interpretation summarizes overall themes and does not substitute for the lyric text.",
+        "whatToListenFor": "Notice the rapid shifts between narration, restraint, and surging phrases, mirroring the song’s dramatic structure.",
+        "preservationValue": "Worth preserving as an accessible entry point for new listeners and as evidence of how Thái Thanh shapes the song through timbre, phrasing, and arrangement. Physical catalog numbers, high-resolution cover scans, and master provenance should be added when found.",
+        "fullLyrics": null,
+        "lyricsRightsStatus": "UNKNOWN",
+        "createdAt": "2026-10-23T12:14:52.366Z",
+        "updatedAt": "2026-10-23T12:14:52.366Z"
+      },
+      "requestedTranslationAvailable": true
+    },
+    {
+      "id": "2cd6ca8d-e1b2-4034-96a4-8ac1b2946c02",
+      "slug": "mot-coi-di-ve-khanh-ly-1992",
+      "year": 1992,
+      "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e4/63/f7/e463f791-7d97-a9de-1728-e616b539fc21/12935.jpg/600x600bb.jpg",
+      "artistId": "00ca8813-8ea6-47a1-a7cc-019d5b63a818",
+      "albumId": "616da74e-a903-4966-ac43-a66b1b292381",
+      "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+      "genreId": "d3a05d79-3adb-4abf-9976-5a2a6e006f52",
+      "regionId": "7f38b638-3060-4ceb-ace3-534d343864e9",
+      "status": "PUBLISHED",
+      "publishedAt": "2026-10-23T14:37:30.576Z",
+      "createdAt": "2026-10-23T12:14:51.665Z",
+      "updatedAt": "2026-10-23T14:37:30.577Z",
+      "artist": {
+        "id": "00ca8813-8ea6-47a1-a7cc-019d5b63a818",
+        "slug": "khanh-ly",
+        "name": "Khánh Ly",
+        "image": null
+      },
+      "album": {
+        "id": "616da74e-a903-4966-ac43-a66b1b292381",
+        "slug": "mot-coi-di-ve-khanh-ly-1992",
+        "title": "Một Cõi Đi Về (Im Lặng Thở Dài)",
+        "year": null,
+        "coverImage": null
+      },
+      "era": {
+        "id": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+        "slug": "1990s",
+        "name": "1990s",
+        "startYear": 1990,
+        "endYear": 1999,
+        "order": 0,
+        "translations": [
+          {
+            "id": "419210fa-4a74-4cad-8922-c2d30f93c473",
+            "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+            "locale": "vi",
+            "title": "Thập niên 1990",
+            "summary": "Đây là phần lớn nhất của seed: thời kỳ nhiều album riêng của Tuấn Ngọc, Khánh Ly, Thái Thanh, Elvis Phương, Thanh Tuyền và Quang Dũng được lưu hành rộng.",
+            "musicalContext": "Cassette và CD cùng tồn tại; các giọng ca được nhận diện như “tác giả trình diễn”, tạo nên phiên bản chuẩn trong ký ức công chúng dù ca khúc có thể ra đời sớm hơn nhiều."
+          },
+          {
+            "id": "60a8ea55-a46b-4208-824a-869a3dfef059",
+            "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+            "locale": "en",
+            "title": "The 1990s",
+            "summary": "This is the seed’s largest group, when artist albums by Tuan Ngoc, Khanh Ly, Thai Thanh, Elvis Phuong, Thanh Tuyen, and Quang Dung circulated widely.",
+            "musicalContext": "Cassette and CD coexisted; singers functioned as interpretive authors, creating remembered benchmark versions even when the songs were composed much earlier."
+          }
+        ],
+        "translation": {
+          "id": "60a8ea55-a46b-4208-824a-869a3dfef059",
+          "eraId": "ef377ae7-5eb5-4e27-90cf-9f864c017cfa",
+          "locale": "en",
+          "title": "The 1990s",
+          "summary": "This is the seed’s largest group, when artist albums by Tuan Ngoc, Khanh Ly, Thai Thanh, Elvis Phuong, Thanh Tuyen, and Quang Dung circulated widely.",
+          "musicalContext": "Cassette and CD coexisted; singers functioned as interpretive authors, creating remembered benchmark versions even when the songs were composed much earlier."
+        }
+      },
+      "genre": {
+        "id": "d3a05d79-3adb-4abf-9976-5a2a6e006f52",
+        "slug": "nhac-trinh",
+        "name": "Nhạc Trịnh"
+      },
+      "region": {
+        "id": "7f38b638-3060-4ceb-ace3-534d343864e9",
+        "slug": "hai-ngoai",
+        "name": "Hải ngoại"
+      },
+      "translations": [
+        {
+          "id": "1dff75d8-9c98-4646-b835-f8fb35cecd29",
+          "recordingId": "2cd6ca8d-e1b2-4034-96a4-8ac1b2946c02",
+          "locale": "vi",
+          "title": "Một Cõi Đi Về",
+          "alternativeTitle": null,
+          "shortSummary": "Một Cõi Đi Về qua giọng Khánh Ly là một bản thu tiêu biểu để mở vào mạch nhạc trịnh trong kho ReVinyl. Mục dữ liệu này ưu tiên câu chuyện của ca khúc và cách nghệ sĩ diễn giải.",
+          "historicalContext": "Phiên bản do Khánh Ly trình bày nằm trong album “Một Cõi Đi Về (Im Lặng Thở Dài)”; catalogue được dẫn nguồn ghi năm 1992. Ghi chú biên tập về tác giả/nguồn tác phẩm (cần đối chiếu nguồn quyền tác giả trước khi xuất bản): Trịnh Công Sơn. Năm 1992 trong sheet là năm của bản phát hành được chọn cho archive, không mặc định là năm sáng tác đầu tiên.",
+          "culturalContext": "Bản thu cho thấy vai trò của cộng đồng và hãng đĩa hải ngoại trong việc duy trì canon tân nhạc Việt, đồng thời giúp các ca khúc tiếp tục lưu hành qua nhiều thế hệ và định dạng.",
+          "lyricsMeaning": "Hành trình đi và về trở thành câu hỏi về nơi thuộc về, đời sống và cái chết; bài hát không đưa ra đáp án dứt khoát.",
+          "lyricsNotes": "Không chép toàn bộ lời ca vì quyền hiển thị chưa được xác minh. Phần diễn giải mô tả chủ đề tổng thể, không thay thế văn bản lời bài hát.",
+          "whatToListenFor": "Chú ý cách nhịp đều như bước chân, trong khi giọng hát giữ khoảng cách để câu hỏi triết lý không thành diễn thuyết.",
+          "preservationValue": "Nên lưu giữ vì đây là một điểm vào dễ tiếp cận cho người nghe mới, đồng thời cho phép so sánh cách Khánh Ly định hình ca khúc qua giọng hát, nhịp câu và hòa âm. Cần bổ sung mã catalogue vật lý, ảnh bìa độ phân giải cao và thông tin master nếu tìm được.",
+          "fullLyrics": null,
+          "lyricsRightsStatus": "UNKNOWN",
+          "createdAt": "2026-10-23T12:14:51.675Z",
+          "updatedAt": "2026-10-23T12:14:51.675Z"
+        },
+        {
+          "id": "f886399e-3e88-4b1b-ab04-a9ca69079d47",
+          "recordingId": "2cd6ca8d-e1b2-4034-96a4-8ac1b2946c02",
+          "locale": "en",
+          "title": "Một Cõi Đi Về",
+          "alternativeTitle": null,
+          "shortSummary": "Một Cõi Đi Về, performed by Khánh Ly, is an accessible entry into ReVinyl’s Nhạc Trịnh collection. This record focuses on the song’s story and the singer’s interpretation.",
+          "historicalContext": "This version, performed by Khánh Ly, appears on the album “Một Cõi Đi Về (Im Lặng Thở Dài)”; the cited catalog lists 1992. Editorial work credit/source (to be checked against an authoritative rights source before publication): Trịnh Công Sơn. The year 1992 refers to the selected archive release, not automatically to the song's original composition date.",
+          "culturalContext": "The recording shows how overseas Vietnamese communities and labels sustained the popular-song canon, allowing repertoire to circulate across generations and formats.",
+          "lyricsMeaning": "The journey of leaving and returning becomes a question about belonging, life, and death; the song offers no final answer.",
+          "lyricsNotes": "Full lyrics are omitted because display rights have not been verified. The interpretation summarizes overall themes and does not substitute for the lyric text.",
+          "whatToListenFor": "Notice the walking-like pulse and the singer’s emotional distance, which keeps the philosophical question from turning didactic.",
+          "preservationValue": "Worth preserving as an accessible entry point for new listeners and as evidence of how Khánh Ly shapes the song through timbre, phrasing, and arrangement. Physical catalog numbers, high-resolution cover scans, and master provenance should be added when found.",
+          "fullLyrics": null,
+          "lyricsRightsStatus": "UNKNOWN",
+          "createdAt": "2026-10-23T12:14:51.675Z",
+          "updatedAt": "2026-10-23T12:14:51.675Z"
+        }
+      ],
+      "audio": [],
+      "instruments": [
+        {
+          "recordingId": "2cd6ca8d-e1b2-4034-96a4-8ac1b2946c02",
+          "instrumentId": "a784cdeb-920f-462e-85c9-e9198243b0d3",
+          "roleVi": "Giọng hát chính; nghệ sĩ biểu diễn đã được catalogue xác nhận",
+          "roleEn": "Lead vocal; performer confirmed by the catalog",
+          "confidence": 1,
+          "instrument": {
+            "id": "a784cdeb-920f-462e-85c9-e9198243b0d3",
+            "slug": "giong-hat",
+            "name": "Giọng hát"
+          }
+        },
+        {
+          "recordingId": "2cd6ca8d-e1b2-4034-96a4-8ac1b2946c02",
+          "instrumentId": "2e9bde1b-a460-44d7-899f-541c8219b156",
+          "roleVi": "Khả năng xuất hiện trong phần hòa âm; cần nghe đúng master để xác nhận",
+          "roleEn": "Likely part of the arrangement; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "2e9bde1b-a460-44d7-899f-541c8219b156",
+            "slug": "piano-keyboard",
+            "name": "Piano / keyboard"
+          }
+        },
+        {
+          "recordingId": "2cd6ca8d-e1b2-4034-96a4-8ac1b2946c02",
+          "instrumentId": "9397bdc8-f77c-47a8-8204-e3ca7d2393ce",
+          "roleVi": "Khả năng xuất hiện trong phần đệm; cần nghe đúng master để xác nhận",
+          "roleEn": "Likely accompaniment; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "9397bdc8-f77c-47a8-8204-e3ca7d2393ce",
+            "slug": "guitar",
+            "name": "Guitar"
+          }
+        },
+        {
+          "recordingId": "2cd6ca8d-e1b2-4034-96a4-8ac1b2946c02",
+          "instrumentId": "888b96a3-b1cd-4284-b608-1e8082ce29c0",
+          "roleVi": "Nhận diện sơ bộ theo kiểu phối; cần nghe đúng master để xác nhận",
+          "roleEn": "Provisional identification from arrangement style; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "888b96a3-b1cd-4284-b608-1e8082ce29c0",
+            "slug": "bass",
+            "name": "Bass"
+          }
+        },
+        {
+          "recordingId": "2cd6ca8d-e1b2-4034-96a4-8ac1b2946c02",
+          "instrumentId": "a41b4dd2-c977-444c-95e0-5b478cc99f27",
+          "roleVi": "Nhận diện sơ bộ theo kiểu phối; cần nghe đúng master để xác nhận",
+          "roleEn": "Provisional identification from arrangement style; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "a41b4dd2-c977-444c-95e0-5b478cc99f27",
+            "slug": "trong",
+            "name": "Trống"
+          }
+        },
+        {
+          "recordingId": "2cd6ca8d-e1b2-4034-96a4-8ac1b2946c02",
+          "instrumentId": "4e072ad2-d792-4359-8a56-0234eed0a35a",
+          "roleVi": "Có thể tạo lớp nền trữ tình; cần nghe đúng master để xác nhận",
+          "roleEn": "May provide the lyrical background layer; verify against the exact master",
+          "confidence": 0.5,
+          "instrument": {
+            "id": "4e072ad2-d792-4359-8a56-0234eed0a35a",
+            "slug": "dan-day",
+            "name": "Dàn dây"
+          }
+        }
+      ],
+      "references": [
+        {
+          "recordingId": "2cd6ca8d-e1b2-4034-96a4-8ac1b2946c02",
+          "referenceId": "996633d4-d5ca-4a9a-81d7-8a80c8388e94",
+          "verificationStatus": "VERIFIED",
+          "reference": {
+            "id": "996633d4-d5ca-4a9a-81d7-8a80c8388e94",
+            "title": "Một Cõi Đi Về — Khánh Ly — Một Cõi Đi Về (Im Lặng Thở Dài)",
+            "url": "https://music.apple.com/us/album/m%E1%BB%99t-c%C3%B5i-%C4%91i-v%E1%BB%81/1557960361?i=1557960362",
+            "type": "Catalogue âm nhạc / streaming catalog",
+            "publisher": "Apple Music",
+            "publishedYear": 1992,
+            "notes": "Nguồn xác nhận nghệ sĩ biểu diễn, tên bản thu, album và metadata năm của phiên bản đang dùng. Năm catalogue có thể là ngày phát hành số hoặc tái phát hành; cần đối chiếu vật mang tin gốc trước khi coi là năm thu âm đầu tiên."
+          }
+        }
+      ],
+      "translation": {
+        "id": "f886399e-3e88-4b1b-ab04-a9ca69079d47",
+        "recordingId": "2cd6ca8d-e1b2-4034-96a4-8ac1b2946c02",
+        "locale": "en",
+        "title": "Một Cõi Đi Về",
+        "alternativeTitle": null,
+        "shortSummary": "Một Cõi Đi Về, performed by Khánh Ly, is an accessible entry into ReVinyl’s Nhạc Trịnh collection. This record focuses on the song’s story and the singer’s interpretation.",
+        "historicalContext": "This version, performed by Khánh Ly, appears on the album “Một Cõi Đi Về (Im Lặng Thở Dài)”; the cited catalog lists 1992. Editorial work credit/source (to be checked against an authoritative rights source before publication): Trịnh Công Sơn. The year 1992 refers to the selected archive release, not automatically to the song's original composition date.",
+        "culturalContext": "The recording shows how overseas Vietnamese communities and labels sustained the popular-song canon, allowing repertoire to circulate across generations and formats.",
+        "lyricsMeaning": "The journey of leaving and returning becomes a question about belonging, life, and death; the song offers no final answer.",
+        "lyricsNotes": "Full lyrics are omitted because display rights have not been verified. The interpretation summarizes overall themes and does not substitute for the lyric text.",
+        "whatToListenFor": "Notice the walking-like pulse and the singer’s emotional distance, which keeps the philosophical question from turning didactic.",
+        "preservationValue": "Worth preserving as an accessible entry point for new listeners and as evidence of how Khánh Ly shapes the song through timbre, phrasing, and arrangement. Physical catalog numbers, high-resolution cover scans, and master provenance should be added when found.",
+        "fullLyrics": null,
+        "lyricsRightsStatus": "UNKNOWN",
+        "createdAt": "2026-10-23T12:14:51.675Z",
+        "updatedAt": "2026-10-23T12:14:51.675Z"
+      },
+      "requestedTranslationAvailable": true
+    }
+  ]
+}

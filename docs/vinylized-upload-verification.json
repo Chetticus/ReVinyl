@@ -1,0 +1,1213 @@
+{
+  "checkedAt": "2026-10-24T15:05:16.885837+00:00",
+  "total": 28,
+  "passed": 28,
+  "catalogTotal": 35,
+  "mockPresent": false,
+  "records": [
+    {
+      "slug": "rieng-mot-goc-troi-tuan-ngoc-1996",
+      "id": "d8187af0-971d-46ee-a77c-f1861a2f41a4",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "c16ebdff-50dd-498c-a21d-1ba9f550f119",
+          "recordingId": "d8187af0-971d-46ee-a77c-f1861a2f41a4",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758506/archive/recordings/d8187af0-971d-46ee-a77c-f1861a2f41a4/file_xri047.mp3",
+          "storageKey": "archive/recordings/d8187af0-971d-46ee-a77c-f1861a2f41a4/file_xri047",
+          "originalFilename": "Riêng Một Góc Trời.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 4691776,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:23:36.126Z",
+          "updatedAt": "2026-10-23T12:28:39.062Z"
+        },
+        {
+          "id": "46b84cb3-3b19-4967-b8fc-14cda18a5774",
+          "recordingId": "d8187af0-971d-46ee-a77c-f1861a2f41a4",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854125/archive/recordings/d8187af0-971d-46ee-a77c-f1861a2f41a4/file_s2nogk.mp3",
+          "storageKey": "archive/recordings/d8187af0-971d-46ee-a77c-f1861a2f41a4/file_s2nogk",
+          "originalFilename": "rieng-mot-goc-troi-tuan-ngoc-1996-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 9303770,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:44:11.463Z",
+          "updatedAt": "2026-10-24T15:02:18.410Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 5949716,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "giot-le-cho-ngan-sau-tuan-ngoc-1994",
+      "id": "c1d27e51-2b80-4a7f-9328-95451fd2f2e7",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "add424a6-b50b-474b-9dab-5359771620f5",
+          "recordingId": "c1d27e51-2b80-4a7f-9328-95451fd2f2e7",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758522/archive/recordings/c1d27e51-2b80-4a7f-9328-95451fd2f2e7/file_mldq90.mp3",
+          "storageKey": "archive/recordings/c1d27e51-2b80-4a7f-9328-95451fd2f2e7/file_mldq90",
+          "originalFilename": "Giọt Lệ Cho Ngàn Sau.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 5565994,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:24:04.108Z",
+          "updatedAt": "2026-10-23T12:29:01.119Z"
+        },
+        {
+          "id": "51d992d4-7793-447b-a1b4-8712a656519c",
+          "recordingId": "c1d27e51-2b80-4a7f-9328-95451fd2f2e7",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854126/archive/recordings/c1d27e51-2b80-4a7f-9328-95451fd2f2e7/file_lay0ed.mp3",
+          "storageKey": "archive/recordings/c1d27e51-2b80-4a7f-9328-95451fd2f2e7/file_lay0ed",
+          "originalFilename": "giot-le-cho-ngan-sau-tuan-ngoc-1994-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 12601468,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:44:28.894Z",
+          "updatedAt": "2026-10-24T15:02:17.830Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 7981967,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "ao-lua-ha-dong-tuan-ngoc-1991",
+      "id": "751f7091-632e-419f-ab80-8b1c17fbd392",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "24a84990-50aa-4427-a0a4-96ee58dd3cb1",
+          "recordingId": "751f7091-632e-419f-ab80-8b1c17fbd392",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758544/archive/recordings/751f7091-632e-419f-ab80-8b1c17fbd392/file_tbqahu.mp3",
+          "storageKey": "archive/recordings/751f7091-632e-419f-ab80-8b1c17fbd392/file_tbqahu",
+          "originalFilename": "Áo Lụa Hà Đông.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 5800307,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:24:19.153Z",
+          "updatedAt": "2026-10-23T12:29:15.902Z"
+        },
+        {
+          "id": "e932607a-567f-4656-8b58-bdafa877af4f",
+          "recordingId": "751f7091-632e-419f-ab80-8b1c17fbd392",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854126/archive/recordings/751f7091-632e-419f-ab80-8b1c17fbd392/file_ab66mh.mp3",
+          "storageKey": "archive/recordings/751f7091-632e-419f-ab80-8b1c17fbd392/file_ab66mh",
+          "originalFilename": "ao-lua-ha-dong-tuan-ngoc-1991-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 11375176,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:44:46.012Z",
+          "updatedAt": "2026-10-24T15:02:17.372Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 7534803,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "dem-thay-ta-la-thac-do-tuan-ngoc-1995",
+      "id": "a4e5e67c-7575-44d8-945d-4c726e885b50",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "c87fcde7-acdf-48b8-9640-952d774e5370",
+          "recordingId": "a4e5e67c-7575-44d8-945d-4c726e885b50",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758559/archive/recordings/a4e5e67c-7575-44d8-945d-4c726e885b50/file_vewlvv.mp3",
+          "storageKey": "archive/recordings/a4e5e67c-7575-44d8-945d-4c726e885b50/file_vewlvv",
+          "originalFilename": "Đêm Thấy Ta Là Thác Đổ.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 5527949,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:24:47.552Z",
+          "updatedAt": "2026-10-23T12:29:38.300Z"
+        },
+        {
+          "id": "49c8e7cf-a2aa-47d9-80ff-1f4ea25443eb",
+          "recordingId": "a4e5e67c-7575-44d8-945d-4c726e885b50",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854145/archive/recordings/a4e5e67c-7575-44d8-945d-4c726e885b50/file_uf5ot2.mp3",
+          "storageKey": "archive/recordings/a4e5e67c-7575-44d8-945d-4c726e885b50/file_uf5ot2",
+          "originalFilename": "dem-thay-ta-la-thac-do-tuan-ngoc-1995-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 11926882,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:45:02.113Z",
+          "updatedAt": "2026-10-24T15:02:37.746Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 7418511,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "diem-xua-khanh-ly-1990",
+      "id": "451a27bd-c625-48ab-af3e-99909e9ac666",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "c903ca63-8cc9-478b-9354-9b13ae1c1e0b",
+          "recordingId": "451a27bd-c625-48ab-af3e-99909e9ac666",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758581/archive/recordings/451a27bd-c625-48ab-af3e-99909e9ac666/file_ck9tmk.mp3",
+          "storageKey": "archive/recordings/451a27bd-c625-48ab-af3e-99909e9ac666/file_ck9tmk",
+          "originalFilename": "DIỄM XƯA (Sáng Tác Trịnh Công Sơn) - KHÁNH LY - Mưa vẫn mưa bay trên tầng tháp cổ.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 3355323,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:25:01.435Z",
+          "updatedAt": "2026-10-23T12:29:52.253Z"
+        },
+        {
+          "id": "779b15e1-c77f-4ebc-913f-1b3d6a2d9348",
+          "recordingId": "451a27bd-c625-48ab-af3e-99909e9ac666",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854142/archive/recordings/451a27bd-c625-48ab-af3e-99909e9ac666/file_yjkj30.mp3",
+          "storageKey": "archive/recordings/451a27bd-c625-48ab-af3e-99909e9ac666/file_yjkj30",
+          "originalFilename": "diem-xua-khanh-ly-1990-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 6902177,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:45:12.931Z",
+          "updatedAt": "2026-10-24T15:02:30.722Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 4377119,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "cat-bui-khanh-ly-1990",
+      "id": "77e8b77c-b772-4621-b9a2-95a01be3e6be",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "10252554-57c0-4b82-a7ce-e617aa911e42",
+          "recordingId": "77e8b77c-b772-4621-b9a2-95a01be3e6be",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758598/archive/recordings/77e8b77c-b772-4621-b9a2-95a01be3e6be/file_kvchu1.mp3",
+          "storageKey": "archive/recordings/77e8b77c-b772-4621-b9a2-95a01be3e6be/file_kvchu1",
+          "originalFilename": "Khánh Ly Cát bụi.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 4752947,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:25:23.111Z",
+          "updatedAt": "2026-10-23T12:30:16.567Z"
+        },
+        {
+          "id": "73f0578c-1352-4c91-85c3-09202ed65ff0",
+          "recordingId": "77e8b77c-b772-4621-b9a2-95a01be3e6be",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854143/archive/recordings/77e8b77c-b772-4621-b9a2-95a01be3e6be/file_seshwg.mp3",
+          "storageKey": "archive/recordings/77e8b77c-b772-4621-b9a2-95a01be3e6be/file_seshwg",
+          "originalFilename": "cat-bui-khanh-ly-1990-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 9625599,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:45:25.682Z",
+          "updatedAt": "2026-10-24T15:02:34.394Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 6367458,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "nhin-nhung-mua-thu-di-khanh-ly-1990",
+      "id": "10606ea1-48a9-44b4-8605-a8c2fdfd6eb6",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "0fc17407-482d-409c-9835-e41e660e8aff",
+          "recordingId": "10606ea1-48a9-44b4-8605-a8c2fdfd6eb6",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758620/archive/recordings/10606ea1-48a9-44b4-8605-a8c2fdfd6eb6/file_vz3mwl.mp3",
+          "storageKey": "archive/recordings/10606ea1-48a9-44b4-8605-a8c2fdfd6eb6/file_vz3mwl",
+          "originalFilename": "NHÌN NHỮNG MÙA THU ĐI Trịnh Công Sơn Khánh Ly.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 4610295,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:25:39.129Z",
+          "updatedAt": "2026-10-23T12:30:39.795Z"
+        },
+        {
+          "id": "c9e2e84a-912c-4cab-879e-1c1f6fc40474",
+          "recordingId": "10606ea1-48a9-44b4-8605-a8c2fdfd6eb6",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854156/archive/recordings/10606ea1-48a9-44b4-8605-a8c2fdfd6eb6/file_bttopx.mp3",
+          "storageKey": "archive/recordings/10606ea1-48a9-44b4-8605-a8c2fdfd6eb6/file_bttopx",
+          "originalFilename": "nhin-nhung-mua-thu-di-khanh-ly-1990-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 9185070,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:45:38.087Z",
+          "updatedAt": "2026-10-24T15:02:44.928Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 6027360,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "tinh-ca-thai-thanh-1986",
+      "id": "65b64d97-ea59-476f-be36-d120fb04fd3c",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "ebb7bc03-52da-4ae3-a0c4-e2f6a3abf96d",
+          "recordingId": "65b64d97-ea59-476f-be36-d120fb04fd3c",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758644/archive/recordings/65b64d97-ea59-476f-be36-d120fb04fd3c/file_ie0k8g.mp3",
+          "storageKey": "archive/recordings/65b64d97-ea59-476f-be36-d120fb04fd3c/file_ie0k8g",
+          "originalFilename": "Tình Ca.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 7643722,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:26:01.130Z",
+          "updatedAt": "2026-10-23T12:30:58.693Z"
+        },
+        {
+          "id": "5136486a-4208-42ea-9a3a-5d3548f3f744",
+          "recordingId": "65b64d97-ea59-476f-be36-d120fb04fd3c",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854160/archive/recordings/65b64d97-ea59-476f-be36-d120fb04fd3c/file_qlldz0.mp3",
+          "storageKey": "archive/recordings/65b64d97-ea59-476f-be36-d120fb04fd3c/file_qlldz0",
+          "originalFilename": "tinh-ca-thai-thanh-1986-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 16206784,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:46:00.620Z",
+          "updatedAt": "2026-10-24T15:02:56.800Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 11021775,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "nghin-trung-xa-cach-thai-thanh-1996",
+      "id": "59a4a1e3-66b7-4026-a304-baa8184fe084",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "c6ca0337-bd6d-4992-b1b1-9f421481f0f6",
+          "recordingId": "59a4a1e3-66b7-4026-a304-baa8184fe084",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758662/archive/recordings/59a4a1e3-66b7-4026-a304-baa8184fe084/file_md2k5g.mp3",
+          "storageKey": "archive/recordings/59a4a1e3-66b7-4026-a304-baa8184fe084/file_md2k5g",
+          "originalFilename": "NGHÌN TRÙNG XA CÁCH - THÁI THANH Tạm Biệt Cô Thái Thanh.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 4930203,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:26:19.408Z",
+          "updatedAt": "2026-10-23T12:31:23.900Z"
+        },
+        {
+          "id": "5f461265-e426-4e47-bd87-73a71524db0d",
+          "recordingId": "59a4a1e3-66b7-4026-a304-baa8184fe084",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854165/archive/recordings/59a4a1e3-66b7-4026-a304-baa8184fe084/file_hpnegn.mp3",
+          "storageKey": "archive/recordings/59a4a1e3-66b7-4026-a304-baa8184fe084/file_hpnegn",
+          "originalFilename": "nghin-trung-xa-cach-thai-thanh-1996-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 11636818,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:46:17.741Z",
+          "updatedAt": "2026-10-24T15:03:01.193Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 7933185,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "ngay-xua-hoang-thi-thai-thanh-1986",
+      "id": "772b46b5-69bb-448a-bb87-9dcb0708e64f",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "f450b814-a7ca-4856-8f5b-fe5c909f83ca",
+          "recordingId": "772b46b5-69bb-448a-bb87-9dcb0708e64f",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758687/archive/recordings/772b46b5-69bb-448a-bb87-9dcb0708e64f/file_hizxne.mp3",
+          "storageKey": "archive/recordings/772b46b5-69bb-448a-bb87-9dcb0708e64f/file_hizxne",
+          "originalFilename": "NGÀY XƯA HOÀNG THỊ - THÁI THANH (PHẠM DUY).mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 5714071,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:26:35.366Z",
+          "updatedAt": "2026-10-23T12:31:50.322Z"
+        },
+        {
+          "id": "5eb052f2-70ea-4995-a78b-6c5fa2f12810",
+          "recordingId": "772b46b5-69bb-448a-bb87-9dcb0708e64f",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854170/archive/recordings/772b46b5-69bb-448a-bb87-9dcb0708e64f/file_vwwgmj.mp3",
+          "storageKey": "archive/recordings/772b46b5-69bb-448a-bb87-9dcb0708e64f/file_vwwgmj",
+          "originalFilename": "ngay-xua-hoang-thi-thai-thanh-1986-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 12807940,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:46:36.229Z",
+          "updatedAt": "2026-10-24T15:03:03.133Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 8035002,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "xin-con-goi-ten-nhau-le-thu-2003",
+      "id": "dd49f678-4d8e-4f81-bdf8-6d6ed5288e8f",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "7559e22f-f983-4708-9d51-d7213eb3de12",
+          "recordingId": "dd49f678-4d8e-4f81-bdf8-6d6ed5288e8f",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758713/archive/recordings/dd49f678-4d8e-4f81-bdf8-6d6ed5288e8f/file_sbjhxz.mp3",
+          "storageKey": "archive/recordings/dd49f678-4d8e-4f81-bdf8-6d6ed5288e8f/file_sbjhxz",
+          "originalFilename": "Xin Còn Gọi Tên Nhau.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 4912601,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:26:53.507Z",
+          "updatedAt": "2026-10-23T12:32:10.700Z"
+        },
+        {
+          "id": "76a44482-bd35-49fb-8183-e2570c02daf3",
+          "recordingId": "dd49f678-4d8e-4f81-bdf8-6d6ed5288e8f",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854182/archive/recordings/dd49f678-4d8e-4f81-bdf8-6d6ed5288e8f/file_e3izzr.mp3",
+          "storageKey": "archive/recordings/dd49f678-4d8e-4f81-bdf8-6d6ed5288e8f/file_e3izzr",
+          "originalFilename": "xin-con-goi-ten-nhau-le-thu-2003-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 9649840,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:46:50.014Z",
+          "updatedAt": "2026-10-24T15:03:16.610Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 6162669,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "bai-tinh-ca-mua-dong-le-thu-1989",
+      "id": "55a3610f-0feb-4ccd-863c-2a4ce3c7aacd",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "12bd1e24-223e-4bca-806d-e7de5140111e",
+          "recordingId": "55a3610f-0feb-4ccd-863c-2a4ce3c7aacd",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758733/archive/recordings/55a3610f-0feb-4ccd-863c-2a4ce3c7aacd/file_vwzcwu.mp3",
+          "storageKey": "archive/recordings/55a3610f-0feb-4ccd-863c-2a4ce3c7aacd/file_vwzcwu",
+          "originalFilename": "Bài Tình Ca Mùa Đông.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 2109823,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:27:01.977Z",
+          "updatedAt": "2026-10-23T12:32:23.761Z"
+        },
+        {
+          "id": "eb92afc7-07a8-4590-91e0-a5c0ee81466b",
+          "recordingId": "55a3610f-0feb-4ccd-863c-2a4ce3c7aacd",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854186/archive/recordings/55a3610f-0feb-4ccd-863c-2a4ce3c7aacd/file_b79swm.mp3",
+          "storageKey": "archive/recordings/55a3610f-0feb-4ccd-863c-2a4ce3c7aacd/file_b79swm",
+          "originalFilename": "bai-tinh-ca-mua-dong-le-thu-1989-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 7025057,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:47:02.898Z",
+          "updatedAt": "2026-10-24T15:03:13.589Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 3887750,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "vet-thu-tren-lung-ngua-hoang-elvis-phuong-1992",
+      "id": "ec142cbd-4c29-4449-8638-d7850356ef2b",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "682d0890-8df7-44e0-b251-ff2c9219efa6",
+          "recordingId": "ec142cbd-4c29-4449-8638-d7850356ef2b",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758747/archive/recordings/ec142cbd-4c29-4449-8638-d7850356ef2b/file_z64alq.mp3",
+          "storageKey": "archive/recordings/ec142cbd-4c29-4449-8638-d7850356ef2b/file_z64alq",
+          "originalFilename": "♬ Vết Thù Trên Lưng Ngựa Hoang - Elvis Phương.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 4176064,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:27:16.955Z",
+          "updatedAt": "2026-10-23T12:32:41.374Z"
+        },
+        {
+          "id": "033a6b58-3c97-48ca-8bfa-28713276b26e",
+          "recordingId": "ec142cbd-4c29-4449-8638-d7850356ef2b",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854187/archive/recordings/ec142cbd-4c29-4449-8638-d7850356ef2b/file_nshf5v.mp3",
+          "storageKey": "archive/recordings/ec142cbd-4c29-4449-8638-d7850356ef2b/file_nshf5v",
+          "originalFilename": "vet-thu-tren-lung-ngua-hoang-elvis-phuong-1992-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 8514663,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:47:14.747Z",
+          "updatedAt": "2026-10-24T15:03:17.310Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 5887331,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "toi-muon-quen-nguoi-elvis-phuong-1995",
+      "id": "1116a2f7-00e6-43f9-a2ad-daff4e3383e4",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "b357755d-359c-419b-a1db-8cda365d5aed",
+          "recordingId": "1116a2f7-00e6-43f9-a2ad-daff4e3383e4",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758785/archive/recordings/1116a2f7-00e6-43f9-a2ad-daff4e3383e4/file_lhegnb.mp3",
+          "storageKey": "archive/recordings/1116a2f7-00e6-43f9-a2ad-daff4e3383e4/file_lhegnb",
+          "originalFilename": "Tôi Muốn Quên Người.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 4224752,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:27:51.952Z",
+          "updatedAt": "2026-10-23T12:33:18.829Z"
+        },
+        {
+          "id": "c662c512-11ab-439c-a87d-0061ba769288",
+          "recordingId": "1116a2f7-00e6-43f9-a2ad-daff4e3383e4",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854199/archive/recordings/1116a2f7-00e6-43f9-a2ad-daff4e3383e4/file_h8kdzb.mp3",
+          "storageKey": "archive/recordings/1116a2f7-00e6-43f9-a2ad-daff4e3383e4/file_h8kdzb",
+          "originalFilename": "toi-muon-quen-nguoi-elvis-phuong-1995-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 9088103,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:47:27.628Z",
+          "updatedAt": "2026-10-24T15:03:28.835Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 5801178,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "noi-buon-hoa-phuong-thanh-tuyen-2001",
+      "id": "609559c5-3b0a-4900-84cd-61e00364ee5d",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "2a310317-59f9-45a8-80b7-95e908e37b77",
+          "recordingId": "609559c5-3b0a-4900-84cd-61e00364ee5d",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758474/archive/recordings/609559c5-3b0a-4900-84cd-61e00364ee5d/file_vak7cj.mp3",
+          "storageKey": "archive/recordings/609559c5-3b0a-4900-84cd-61e00364ee5d/file_vak7cj",
+          "originalFilename": "Nỗi Buồn Hoa Phượng.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 4875431,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:28:11.004Z",
+          "updatedAt": "2026-10-23T12:28:11.004Z"
+        },
+        {
+          "id": "4765e192-d50d-4bf4-a645-36ea26ceb783",
+          "recordingId": "609559c5-3b0a-4900-84cd-61e00364ee5d",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854201/archive/recordings/609559c5-3b0a-4900-84cd-61e00364ee5d/file_hjnakm.mp3",
+          "storageKey": "archive/recordings/609559c5-3b0a-4900-84cd-61e00364ee5d/file_hjnakm",
+          "originalFilename": "noi-buon-hoa-phuong-thanh-tuyen-2001-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 9338879,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:47:40.059Z",
+          "updatedAt": "2026-10-24T15:03:32.237Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 6667766,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "con-duong-xua-em-di-thanh-tuyen-1991",
+      "id": "f21871c4-1ef3-413b-9cea-39462124b2af",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "a7bc6d30-0d99-49db-ada8-8540edc01e7e",
+          "recordingId": "f21871c4-1ef3-413b-9cea-39462124b2af",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758493/archive/recordings/f21871c4-1ef3-413b-9cea-39462124b2af/file_lycbcv.mp3",
+          "storageKey": "archive/recordings/f21871c4-1ef3-413b-9cea-39462124b2af/file_lycbcv",
+          "originalFilename": "Con Đường Xưa Em Đi.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 4117554,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:28:21.010Z",
+          "updatedAt": "2026-10-23T12:28:21.010Z"
+        },
+        {
+          "id": "edcda3b3-bab5-4687-a054-317c5129a0af",
+          "recordingId": "f21871c4-1ef3-413b-9cea-39462124b2af",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854203/archive/recordings/f21871c4-1ef3-413b-9cea-39462124b2af/file_iwmcn4.mp3",
+          "storageKey": "archive/recordings/f21871c4-1ef3-413b-9cea-39462124b2af/file_iwmcn4",
+          "originalFilename": "con-duong-xua-em-di-thanh-tuyen-1991-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 8703581,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:47:54.617Z",
+          "updatedAt": "2026-10-24T15:03:34.626Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 5666582,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "khuc-hat-song-que-anh-tho-2005",
+      "id": "7ae5fc1a-f267-4d30-8883-e2872f89f03c",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "cd416098-54d5-401c-924f-257da5432935",
+          "recordingId": "7ae5fc1a-f267-4d30-8883-e2872f89f03c",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758504/archive/recordings/7ae5fc1a-f267-4d30-8883-e2872f89f03c/file_j7z23w.mp3",
+          "storageKey": "archive/recordings/7ae5fc1a-f267-4d30-8883-e2872f89f03c/file_j7z23w",
+          "originalFilename": "Khúc Hát Sông Quê - Anh Thơ [Official Audio].mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 6753521,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:28:42.715Z",
+          "updatedAt": "2026-10-23T12:28:42.715Z"
+        },
+        {
+          "id": "23502a1f-bfc1-427a-902c-9c8e2a1c21e2",
+          "recordingId": "7ae5fc1a-f267-4d30-8883-e2872f89f03c",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854214/archive/recordings/7ae5fc1a-f267-4d30-8883-e2872f89f03c/file_idxlad.mp3",
+          "storageKey": "archive/recordings/7ae5fc1a-f267-4d30-8883-e2872f89f03c/file_idxlad",
+          "originalFilename": "khuc-hat-song-que-anh-tho-2005-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 9149125,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:48:09.453Z",
+          "updatedAt": "2026-10-24T15:03:43.420Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 6004267,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "con-ta-voi-nong-nan-quang-dung-1997",
+      "id": "01e1831b-d5c6-460a-ab4e-7273fd358053",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "39353a38-5f39-4534-a95e-fab3001f685b",
+          "recordingId": "01e1831b-d5c6-460a-ab4e-7273fd358053",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758525/archive/recordings/01e1831b-d5c6-460a-ab4e-7273fd358053/file_zvhjhi.mp3",
+          "storageKey": "archive/recordings/01e1831b-d5c6-460a-ab4e-7273fd358053/file_zvhjhi",
+          "originalFilename": "Còn Ta Với Nồng Nàn.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 4416847,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:28:59.323Z",
+          "updatedAt": "2026-10-23T12:28:59.323Z"
+        },
+        {
+          "id": "5f5d069d-e309-4472-b807-b2d0f42f49b2",
+          "recordingId": "01e1831b-d5c6-460a-ab4e-7273fd358053",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854219/archive/recordings/01e1831b-d5c6-460a-ab4e-7273fd358053/file_ya99q9.mp3",
+          "storageKey": "archive/recordings/01e1831b-d5c6-460a-ab4e-7273fd358053/file_ya99q9",
+          "originalFilename": "con-ta-voi-nong-nan-quang-dung-1997-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 9387362,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:48:23.649Z",
+          "updatedAt": "2026-10-24T15:03:48.522Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 5970563,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "vi-do-la-em-quang-dung-1997",
+      "id": "cf68dffc-aa1b-4595-a7fa-e02f63ee2301",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "d7175bc3-25c9-4fcb-bec6-3f80631d14a2",
+          "recordingId": "cf68dffc-aa1b-4595-a7fa-e02f63ee2301",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758542/archive/recordings/cf68dffc-aa1b-4595-a7fa-e02f63ee2301/file_iwlhri.mp3",
+          "storageKey": "archive/recordings/cf68dffc-aa1b-4595-a7fa-e02f63ee2301/file_iwlhri",
+          "originalFilename": "Vì Đó Là Em.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 5219265,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:29:16.353Z",
+          "updatedAt": "2026-10-23T12:29:16.353Z"
+        },
+        {
+          "id": "fb176a62-90d6-4197-8cbf-1ac0174a0891",
+          "recordingId": "cf68dffc-aa1b-4595-a7fa-e02f63ee2301",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854221/archive/recordings/cf68dffc-aa1b-4595-a7fa-e02f63ee2301/file_bohz67.mp3",
+          "storageKey": "archive/recordings/cf68dffc-aa1b-4595-a7fa-e02f63ee2301/file_bohz67",
+          "originalFilename": "vi-do-la-em-quang-dung-1997-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 11286568,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:48:38.333Z",
+          "updatedAt": "2026-10-24T15:03:53.222Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 7041867,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "bien-nghin-thu-o-lai-quang-dung-1997",
+      "id": "cbdf97b3-63eb-4a28-a74c-a0729106870f",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "f9df26df-e07d-411f-ba98-d75c23abf7c0",
+          "recordingId": "cbdf97b3-63eb-4a28-a74c-a0729106870f",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758559/archive/recordings/cbdf97b3-63eb-4a28-a74c-a0729106870f/file_jy5iud.mp3",
+          "storageKey": "archive/recordings/cbdf97b3-63eb-4a28-a74c-a0729106870f/file_jy5iud",
+          "originalFilename": "Bien nghin thu o lai.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 3948675,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:29:31.313Z",
+          "updatedAt": "2026-10-23T12:29:31.313Z"
+        },
+        {
+          "id": "a0d4c87a-e818-4c54-8564-4caf2f8d7cd1",
+          "recordingId": "cbdf97b3-63eb-4a28-a74c-a0729106870f",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854229/archive/recordings/cbdf97b3-63eb-4a28-a74c-a0729106870f/file_rq5mw1.mp3",
+          "storageKey": "archive/recordings/cbdf97b3-63eb-4a28-a74c-a0729106870f/file_rq5mw1",
+          "originalFilename": "bien-nghin-thu-o-lai-quang-dung-1997-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 8756244,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:48:50.787Z",
+          "updatedAt": "2026-10-24T15:03:57.983Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 5457276,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "trai-tim-ben-le-bang-kieu-2000",
+      "id": "1ac72b36-da22-4dea-bf3d-c6bb752970d3",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "4cf6200a-84fc-4836-8f3f-f550d18a3bf8",
+          "recordingId": "1ac72b36-da22-4dea-bf3d-c6bb752970d3",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758575/archive/recordings/1ac72b36-da22-4dea-bf3d-c6bb752970d3/file_urxwje.mp3",
+          "storageKey": "archive/recordings/1ac72b36-da22-4dea-bf3d-c6bb752970d3/file_urxwje",
+          "originalFilename": "Trái Tim Bên Lề Bằng Kiều.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 5021453,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:29:48.640Z",
+          "updatedAt": "2026-10-23T12:29:48.640Z"
+        },
+        {
+          "id": "e81161ce-acf8-415f-926f-dc42e2eb0a15",
+          "recordingId": "1ac72b36-da22-4dea-bf3d-c6bb752970d3",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854236/archive/recordings/1ac72b36-da22-4dea-bf3d-c6bb752970d3/file_wlu3lh.mp3",
+          "storageKey": "archive/recordings/1ac72b36-da22-4dea-bf3d-c6bb752970d3/file_wlu3lh",
+          "originalFilename": "trai-tim-ben-le-bang-kieu-2000-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 10389628,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:49:04.001Z",
+          "updatedAt": "2026-10-24T15:04:06.005Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 6676208,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "canh-hong-phai-bang-kieu-2020",
+      "id": "b989262d-1692-424a-8f40-e432825dabc2",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "31844f9b-a0a9-42f6-89b8-ec0a58d88771",
+          "recordingId": "b989262d-1692-424a-8f40-e432825dabc2",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758591/archive/recordings/b989262d-1692-424a-8f40-e432825dabc2/file_j9s8ns.mp3",
+          "storageKey": "archive/recordings/b989262d-1692-424a-8f40-e432825dabc2/file_j9s8ns",
+          "originalFilename": "Cánh Hồng Phai.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 4572325,
+          "sourceNote": "User-supplied MP3 from D:\\ReVinyl_AudioFiles. Matched to workbook by title; exact performer/master/release requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:30:07.717Z",
+          "updatedAt": "2026-10-23T12:30:07.717Z"
+        },
+        {
+          "id": "251228b0-eba5-4e30-960e-55491cdb32d2",
+          "recordingId": "b989262d-1692-424a-8f40-e432825dabc2",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854241/archive/recordings/b989262d-1692-424a-8f40-e432825dabc2/file_peqvd0.mp3",
+          "storageKey": "archive/recordings/b989262d-1692-424a-8f40-e432825dabc2/file_peqvd0",
+          "originalFilename": "canh-hong-phai-bang-kieu-2020-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 9693308,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:49:18.711Z",
+          "updatedAt": "2026-10-24T15:04:11.865Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 6325677,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "ao-anh-sut-chi-duong-ta-elvis-phuong-1992",
+      "id": "b88a4b6a-c2c1-498f-9f91-7ee483b3be8f",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "4101009a-d5d8-4c7f-828a-07f968216126",
+          "recordingId": "b88a4b6a-c2c1-498f-9f91-7ee483b3be8f",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758764/archive/recordings/b88a4b6a-c2c1-498f-9f91-7ee483b3be8f/file_c362x8.mp3",
+          "storageKey": "archive/recordings/b88a4b6a-c2c1-498f-9f91-7ee483b3be8f/file_c362x8",
+          "originalFilename": "Áo Anh Sứt Chỉ Đường Tà.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 5370514,
+          "sourceNote": "User identified the performer as Elvis Phương. Exact master/release edition requires review before publication.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:27:36.046Z",
+          "updatedAt": "2026-10-23T12:33:01.422Z"
+        },
+        {
+          "id": "0909fee0-8fde-4e88-9b3c-19026a4ed39f",
+          "recordingId": "b88a4b6a-c2c1-498f-9f91-7ee483b3be8f",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854243/archive/recordings/b88a4b6a-c2c1-498f-9f91-7ee483b3be8f/file_aeoix0.mp3",
+          "storageKey": "archive/recordings/b88a4b6a-c2c1-498f-9f91-7ee483b3be8f/file_aeoix0",
+          "originalFilename": "ao-anh-sut-chi-duong-ta-elvis-phuong-1992-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 11796479,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:49:36.359Z",
+          "updatedAt": "2026-10-24T15:04:19.138Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 7543277,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "chieu-mot-minh-qua-pho-audio",
+      "id": "7f8a4e94-f33c-4a8f-af36-795cf1b83374",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "7da569bb-ae59-4339-9667-7c21654e38ef",
+          "recordingId": "7f8a4e94-f33c-4a8f-af36-795cf1b83374",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758611/archive/recordings/7f8a4e94-f33c-4a8f-af36-795cf1b83374/file_mvdrid.mp3",
+          "storageKey": "archive/recordings/7f8a4e94-f33c-4a8f-af36-795cf1b83374/file_mvdrid",
+          "originalFilename": "Chiều Một Mình Qua Phố.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 4993240,
+          "sourceNote": "User-supplied audio file with no matching workbook row. Filename preserved; artist/date/master metadata requires review.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:30:27.125Z",
+          "updatedAt": "2026-10-23T12:30:27.125Z"
+        },
+        {
+          "id": "82a519a6-f53d-4acc-b05c-f8d34aa06ab5",
+          "recordingId": "7f8a4e94-f33c-4a8f-af36-795cf1b83374",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854253/archive/recordings/7f8a4e94-f33c-4a8f-af36-795cf1b83374/file_lwtn4h.mp3",
+          "storageKey": "archive/recordings/7f8a4e94-f33c-4a8f-af36-795cf1b83374/file_lwtn4h",
+          "originalFilename": "chieu-mot-minh-qua-pho-audio-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 10689723,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:49:54.338Z",
+          "updatedAt": "2026-10-24T15:04:24.612Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 7145526,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "chim-ngoi-bay-ve-audio",
+      "id": "ad216d26-f57f-4e49-84d4-992c28adb206",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "97db8d7d-6e05-4ca0-ad89-5339b327bc96",
+          "recordingId": "ad216d26-f57f-4e49-84d4-992c28adb206",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758630/archive/recordings/ad216d26-f57f-4e49-84d4-992c28adb206/file_fazoly.mp3",
+          "storageKey": "archive/recordings/ad216d26-f57f-4e49-84d4-992c28adb206/file_fazoly",
+          "originalFilename": "Chim ngói bay về.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 4691483,
+          "sourceNote": "User-supplied audio file with no matching workbook row. Filename preserved; artist/date/master metadata requires review.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:30:51.864Z",
+          "updatedAt": "2026-10-23T12:30:51.864Z"
+        },
+        {
+          "id": "a44f4788-e07c-46f6-b674-613d487eda14",
+          "recordingId": "ad216d26-f57f-4e49-84d4-992c28adb206",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854258/archive/recordings/ad216d26-f57f-4e49-84d4-992c28adb206/file_pumsta.mp3",
+          "storageKey": "archive/recordings/ad216d26-f57f-4e49-84d4-992c28adb206/file_pumsta",
+          "originalFilename": "chim-ngoi-bay-ve-audio-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 10233311,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:50:12.519Z",
+          "updatedAt": "2026-10-24T15:04:27.534Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 6642708,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "giac-mo-trua-thuy-chi-audio",
+      "id": "50820ca7-7436-4724-839f-7f139d6b78d4",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "89da7bd1-b905-441e-bff0-776dfa6400d4",
+          "recordingId": "50820ca7-7436-4724-839f-7f139d6b78d4",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758658/archive/recordings/50820ca7-7436-4724-839f-7f139d6b78d4/file_l7g1qi.mp3",
+          "storageKey": "archive/recordings/50820ca7-7436-4724-839f-7f139d6b78d4/file_l7g1qi",
+          "originalFilename": "Giấc Mơ Trưa Thùy Chi Audio MV.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 8455660,
+          "sourceNote": "User-supplied audio file with no matching workbook row. Filename preserved; artist/date/master metadata requires review.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:31:16.848Z",
+          "updatedAt": "2026-10-23T12:31:16.848Z"
+        },
+        {
+          "id": "66bc56a2-57e5-4036-9dc1-89f9212a472a",
+          "recordingId": "50820ca7-7436-4724-839f-7f139d6b78d4",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854265/archive/recordings/50820ca7-7436-4724-839f-7f139d6b78d4/file_tnml7l.mp3",
+          "storageKey": "archive/recordings/50820ca7-7436-4724-839f-7f139d6b78d4/file_tnml7l",
+          "originalFilename": "giac-mo-trua-thuy-chi-audio-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 11417808,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:50:29.978Z",
+          "updatedAt": "2026-10-24T15:04:36.076Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 7442703,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "nho-mua-thu-ha-noi-audio",
+      "id": "1ad14268-b9b7-44c7-bce4-316d8d5b6192",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "fd80485a-dd85-49f3-841b-33512a343201",
+          "recordingId": "1ad14268-b9b7-44c7-bce4-316d8d5b6192",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758680/archive/recordings/1ad14268-b9b7-44c7-bce4-316d8d5b6192/file_x14n9u.mp3",
+          "storageKey": "archive/recordings/1ad14268-b9b7-44c7-bce4-316d8d5b6192/file_x14n9u",
+          "originalFilename": "Nhớ Mùa Thu Hà Nội (1995).mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 3997382,
+          "sourceNote": "User-supplied audio file with no matching workbook row. Filename preserved; artist/date/master metadata requires review.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:31:33.995Z",
+          "updatedAt": "2026-10-23T12:31:33.995Z"
+        },
+        {
+          "id": "2e581467-f24d-4d21-984f-db956de411ba",
+          "recordingId": "1ad14268-b9b7-44c7-bce4-316d8d5b6192",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854271/archive/recordings/1ad14268-b9b7-44c7-bce4-316d8d5b6192/file_aqjcra.mp3",
+          "storageKey": "archive/recordings/1ad14268-b9b7-44c7-bce4-316d8d5b6192/file_aqjcra",
+          "originalFilename": "nho-mua-thu-ha-noi-audio-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 8652590,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:50:42.848Z",
+          "updatedAt": "2026-10-24T15:04:40.803Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 5844286,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    },
+    {
+      "slug": "ru-doi-di-nhe-audio",
+      "id": "8ac0ecfc-6db4-4f4d-b097-6ce03b6a281b",
+      "status": "PUBLISHED",
+      "leadInSeconds": 4.5,
+      "audio": [
+        {
+          "id": "b98ff180-19b2-4f2a-bfd5-45e402d9e0ce",
+          "recordingId": "8ac0ecfc-6db4-4f4d-b097-6ce03b6a281b",
+          "type": "DIGITAL",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792758697/archive/recordings/8ac0ecfc-6db4-4f4d-b097-6ce03b6a281b/file_cowavo.mp3",
+          "storageKey": "archive/recordings/8ac0ecfc-6db4-4f4d-b097-6ce03b6a281b/file_cowavo",
+          "originalFilename": "Ru Đời Đi Nhé.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 4282199,
+          "sourceNote": "User-supplied audio file with no matching workbook row. Filename preserved; artist/date/master metadata requires review.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-23T12:31:53.872Z",
+          "updatedAt": "2026-10-23T12:31:53.872Z"
+        },
+        {
+          "id": "78f56658-2abd-46dd-83a5-d8d129005885",
+          "recordingId": "8ac0ecfc-6db4-4f4d-b097-6ce03b6a281b",
+          "type": "VINYLIZED",
+          "url": "https://res.cloudinary.com/dpri5hjbx/video/upload/v1792854273/archive/recordings/8ac0ecfc-6db4-4f4d-b097-6ce03b6a281b/file_oqppxw.mp3",
+          "storageKey": "archive/recordings/8ac0ecfc-6db4-4f4d-b097-6ce03b6a281b/file_oqppxw",
+          "originalFilename": "ru-doi-di-nhe-audio-vinylized-intro.mp3",
+          "mimeType": "audio/mpeg",
+          "fileSize": 8929279,
+          "sourceNote": "Vinylize worn-favorite DSP with a 4.5-second crackle/pop lead-in from its recorded surface texture. The complete music follows at offset 4.5 seconds.",
+          "rightsNote": "Rights clearance not supplied; keep recording in DRAFT.",
+          "createdAt": "2026-10-24T14:51:00.224Z",
+          "updatedAt": "2026-10-24T15:04:40.982Z"
+        }
+      ],
+      "delivery": {
+        "status": 200,
+        "mimeType": "audio/mpeg",
+        "deliveryBytes": 5873720,
+        "allowOrigin": "*"
+      },
+      "issues": []
+    }
+  ]
+}

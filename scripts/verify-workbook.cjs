@@ -36,6 +36,40 @@ const source = require('../src/data/archive-workbook.json');
 const content = require('../src/data/website-content.json');
 const list = adapter.listWorkbookRecordings;
 const all = list({ perPage: 100 }).data;
+const { selectFeaturedRecordings, featuredSlugs } = loadTypeScript(
+  'src/modules/archive/featured.ts'
+);
+const featured = selectFeaturedRecordings(all);
+assert.deepEqual(
+  Array.from(featured, item => item.slug),
+  Array.from(featuredSlugs)
+);
+assert.equal(new Set(featured.map(item => item.artist.slug)).size, 4);
+const fallbackFeatured = selectFeaturedRecordings(
+  all.filter(item => item.slug !== featuredSlugs[1])
+);
+assert.equal(fallbackFeatured.length, 4);
+assert.equal(new Set(fallbackFeatured.map(item => item.artist.slug)).size, 4);
+assert.equal(selectFeaturedRecordings([]).length, 0);
+const { audioLeadIn, switchedPosition } = loadTypeScript(
+  'src/modules/archive/audio-timeline.ts'
+);
+const digitalAsset = { type: 'DIGITAL', originalFilename: 'source.mp3' };
+const introAsset = {
+  type: 'VINYLIZED',
+  originalFilename: 'recording-vinylized-intro.mp3',
+};
+const legacyAsset = {
+  type: 'VINYLIZED',
+  originalFilename: 'recording-vinylized.mp3',
+};
+assert.equal(audioLeadIn(digitalAsset), 0);
+assert.equal(audioLeadIn(introAsset), 4.5);
+assert.equal(switchedPosition(60, digitalAsset, introAsset), 64.5);
+assert.equal(switchedPosition(64.5, introAsset, digitalAsset), 60);
+assert.equal(switchedPosition(2, introAsset, digitalAsset), 0);
+assert.equal(switchedPosition(0, digitalAsset, introAsset), 0);
+assert.equal(switchedPosition(60, legacyAsset, digitalAsset), 60);
 assert.equal(all.length, 30);
 assert.equal(new Set(all.map(item => item.slug)).size, 30);
 assert.equal(
