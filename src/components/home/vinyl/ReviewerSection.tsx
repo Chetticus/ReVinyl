@@ -1,11 +1,14 @@
 'use client';
 
-import Image from 'next/image';
-import { useState } from 'react';
-import { motion, LayoutGroup, AnimatePresence } from 'framer-motion';
-import { REVIEWERS, VINYL_IMAGES } from '@/constants/vinyl-home';
+import Link from 'next/link';
+import {
+  Headphones,
+  BookOpen,
+  MessageSquarePlus,
+  ArrowUpRight,
+} from 'lucide-react';
 import { usePublicI18n } from '@/i18n/PublicI18nProvider';
-import { cn } from '@/lib/utils';
+import { buildLocalePath } from '@/i18n/config';
 import {
   SectionContainer,
   SectionDescription,
@@ -13,141 +16,58 @@ import {
   SectionTitle,
 } from './shared';
 
-export default function ReviewerSection() {
-  const { dictionary: d } = usePublicI18n();
-  const reviewers = REVIEWERS.map((reviewer, index) => ({ ...reviewer, ...d.home.reviewers[index] }));
-  const [activeIndex, setActiveIndex] = useState(1);
-  const active = reviewers[activeIndex];
+const actions = [
+  { icon: Headphones, path: '/archive' },
+  { icon: BookOpen, path: '/timeline' },
+  { icon: MessageSquarePlus, path: '/contribute' },
+] as const;
 
+export default function ReviewerSection() {
+  const { locale, dictionary: d } = usePublicI18n();
   return (
-    <section className='bg-[var(--wood-darkest)] py-24 md:pt-[140px]'>
+    <section
+      className='bg-[var(--wood-darkest)] py-24 md:pt-[140px]'
+      aria-labelledby='explore-heritage-title'
+    >
       <SectionContainer className='flex flex-col items-center gap-12'>
         <div className='flex max-w-[800px] flex-col items-center gap-8 text-center'>
           <SectionLabel dark>{d.home.communityLabel}</SectionLabel>
           <SectionTitle dark>
-            {d.home.communityTitle.split('\n').map(line => <span className='block' key={line}>{line}</span>)}
+            <span id='explore-heritage-title'>{d.home.communityTitle}</span>
           </SectionTitle>
           <SectionDescription dark className='text-center'>
             {d.home.communityDescription}
           </SectionDescription>
         </div>
-
-        <LayoutGroup>
-          <div className='hidden w-full items-stretch gap-6 lg:flex'>
-            {reviewers.map((reviewer, index) => {
-              const isActive = index === activeIndex;
-
-              if (isActive) {
-                return (
-                  <motion.article
-                    key={reviewer.name}
-                    layout
-                    transition={{ type: 'spring', stiffness: 320, damping: 32 }}
-                    className='flex min-h-[500px] flex-[2] gap-6 overflow-hidden rounded-[30px] border border-[var(--border-gold)] bg-[linear-gradient(160deg,var(--panel),var(--wood-dark))] p-5 shadow-[var(--shadow-soft)]'
-                  >
-                    <motion.div
-                      layout
-                      className='relative min-h-[420px] flex-1 overflow-hidden rounded-[20px]'
-                    >
-                      <Image
-                        src={reviewer.image}
-                        alt={reviewer.name}
-                        fill
-                        className='object-cover'
-                        sizes='340px'
-                      />
-                    </motion.div>
-                    <motion.div
-                      layout
-                      initial={{ opacity: 0, x: 16 }}
-                      animate={{ opacity: 1, x: 0 }}
-                      transition={{ duration: 0.35 }}
-                      className='flex flex-1 flex-col justify-between py-2'
-                    >
-                      <div className='space-y-3'>
-                        <Image src={VINYL_IMAGES.quote} alt='' width={29} height={22} />
-                        <p className='text-base leading-6 text-[var(--parchment)]'>{reviewer.quote}</p>
-                      </div>
-                      <div>
-                        <p className='font-[family-name:var(--font-display)] text-2xl leading-8 text-[var(--parchment)]'>{reviewer.name}</p>
-                        <p className='text-base text-[var(--parchment-dim)]'>{reviewer.role}</p>
-                      </div>
-                    </motion.div>
-                  </motion.article>
-                );
-              }
-
-              return (
-                <motion.button
-                  key={reviewer.name}
-                  type='button'
-                  layout
-                  onClick={() => setActiveIndex(index)}
-                  whileHover={{ scale: 1.02 }}
-                  transition={{ type: 'spring', stiffness: 320, damping: 32 }}
-                  className='relative min-h-[500px] w-[230px] shrink-0 cursor-pointer overflow-hidden rounded-[30px] border border-[var(--border-gold)] bg-[var(--panel)]'
-                >
-                  <Image
-                    src={reviewer.image}
-                    alt={reviewer.name}
-                    fill
-                    className='object-cover'
-                    sizes='230px'
+        <div className='grid w-full gap-6 md:grid-cols-3'>
+          {d.home.archiveActions.map((action, index) => {
+            const { icon: Icon, path } = actions[index];
+            return (
+              <Link
+                key={path}
+                href={buildLocalePath(locale, path)}
+                className='group flex flex-col items-start rounded-[30px] border border-[var(--border-gold)] bg-[linear-gradient(160deg,var(--panel),var(--wood-dark))] p-8 shadow-[var(--shadow-soft)] transition-colors hover:border-[var(--gold)] focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[var(--gold)]'
+              >
+                <span className='mb-8 rounded-full border border-[var(--border-gold)] bg-[var(--gold)]/10 p-4 text-[var(--gold)]'>
+                  <Icon size={28} aria-hidden='true' />
+                </span>
+                <h3 className='mb-4 font-[family-name:var(--font-display)] text-2xl text-[var(--parchment)]'>
+                  {action.title}
+                </h3>
+                <p className='mb-8 flex-1 text-base leading-7 text-[var(--parchment-dim)]'>
+                  {action.description}
+                </p>
+                <span className='inline-flex items-center gap-2 text-sm font-medium text-[var(--gold)]'>
+                  {action.cta}
+                  <ArrowUpRight
+                    size={18}
+                    aria-hidden='true'
+                    className='transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5'
                   />
-                  <div className='absolute inset-0 bg-[var(--wood-darkest)]/40 transition-opacity hover:bg-[var(--wood-darkest)]/25' />
-                  <p className='absolute inset-x-5 bottom-5 text-center font-[family-name:var(--font-display)] text-xl text-[var(--parchment)]'>
-                    {reviewer.name}
-                  </p>
-                </motion.button>
-              );
-            })}
-          </div>
-        </LayoutGroup>
-
-        <div className='w-full space-y-6 lg:hidden'>
-          <AnimatePresence mode='wait'>
-            <motion.article
-              key={active.name}
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              exit={{ opacity: 0, y: -20 }}
-              transition={{ duration: 0.35 }}
-              className='overflow-hidden rounded-[30px] border border-[var(--border-gold)] bg-[linear-gradient(160deg,var(--panel),var(--wood-dark))] p-5 shadow-[var(--shadow-soft)]'
-            >
-              <div className='relative mb-5 h-[280px] overflow-hidden rounded-[20px]'>
-                <Image
-                  src={active.image}
-                  alt={active.name}
-                  fill
-                  className='object-cover'
-                  sizes='100vw'
-                />
-              </div>
-              <div className='space-y-4'>
-                <Image src={VINYL_IMAGES.quote} alt='' width={29} height={22} />
-                <p className='text-base leading-6 text-[var(--parchment)]'>{active.quote}</p>
-                <div>
-                  <p className='font-[family-name:var(--font-display)] text-2xl text-[var(--parchment)]'>{active.name}</p>
-                  <p className='text-[var(--parchment-dim)]'>{active.role}</p>
-                </div>
-              </div>
-            </motion.article>
-          </AnimatePresence>
-
-          <div className='flex justify-center gap-3'>
-            {reviewers.map((reviewer, index) => (
-              <button
-                key={reviewer.name}
-                type='button'
-                onClick={() => setActiveIndex(index)}
-                className={cn(
-                  'size-3 cursor-pointer rounded-full transition-colors',
-                  index === activeIndex ? 'bg-[var(--lacquer)]' : 'bg-[var(--gold)]/25',
-                )}
-                aria-label={reviewer.name}
-              />
-            ))}
-          </div>
+                </span>
+              </Link>
+            );
+          })}
         </div>
       </SectionContainer>
     </section>

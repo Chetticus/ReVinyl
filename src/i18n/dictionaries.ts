@@ -154,26 +154,14 @@ const vi = {
           'Những giá trị âm nhạc của quá khứ được lưu giữ, kể lại và truyền cảm hứng cho các thế hệ mai sau.',
       },
     ],
-    communityLabel: 'NHỮNG KẾT NỐI TỪ ÂM NHẠC',
-    communityTitle: 'Di sản trở nên sống động\nkhi được cùng nhau sẻ chia',
+    communityLabel: 'KHÁM PHÁ DI SẢN',
+    communityTitle: 'Lắng nghe, tìm hiểu và cùng gìn giữ',
     communityDescription:
-      'Những chia sẻ ấy giúp di sản âm nhạc không chỉ được lưu giữ, mà còn tiếp tục hiện diện trong đời sống hôm nay.',
-    reviewers: [
-      {
-        role: 'Nhà sưu tầm đĩa nhạc',
-        quote:
-          'Vinyl Heritage Vietnam giúp người xem hiểu bối cảnh văn hóa phía sau mỗi bản thu.',
-      },
-      {
-        role: 'Người nghiên cứu văn hóa',
-        quote:
-          'Thông tin về nghệ sĩ, tác phẩm, thời kỳ và hiện vật được kết nối thành một câu chuyện dễ tiếp cận.',
-      },
-      {
-        role: 'Người yêu nhạc',
-        quote:
-          'Di sản âm nhạc và những câu chuyện phía sau mỗi bản thu trở nên gần gũi hơn.',
-      },
+      'Mỗi bản thu mở ra một cách kết nối với âm nhạc Việt Nam. Bắt đầu từ một giai điệu, tìm hiểu bối cảnh và góp thêm tư liệu cho kho lưu trữ.',
+    archiveActions: [
+      { title: 'Lắng nghe từng bản thu', description: 'Khám phá những giọng ca và tác phẩm trong kho nhạc. Với bản thu có đủ hai phiên bản, hãy chuyển giữa Digital và Vinylized để cảm nhận sự khác biệt.', cta: 'Khám phá kho nhạc' },
+      { title: 'Tìm hiểu qua thời gian', description: 'Theo dòng thời gian để tìm hiểu các giai đoạn, nghệ sĩ và bối cảnh của âm nhạc Việt Nam.', cta: 'Xem dòng thời gian' },
+      { title: 'Góp thêm một mảnh tư liệu', description: 'Bạn có thông tin cần bổ sung hoặc phát hiện chi tiết chưa chính xác? Gửi tư liệu và nguồn tham khảo để nhóm biên tập xem xét.', cta: 'Gửi đóng góp' },
     ],
     featuredArchiveLabel: 'Từ kho lưu trữ',
 
@@ -418,26 +406,14 @@ const en = {
           'The musical values of the past are preserved, retold, and used to inspire future generations.',
       },
     ],
-    communityLabel: 'CONNECTIONS THROUGH MUSIC',
-    communityTitle: 'Heritage comes alive\nwhen we share it together',
+    communityLabel: 'EXPLORE THE HERITAGE',
+    communityTitle: 'Listen, discover, and help preserve',
     communityDescription:
-      'These perspectives allow musical heritage not only to be preserved, but to remain present in life today.',
-    reviewers: [
-      {
-        role: 'Record collector',
-        quote:
-          'Vinyl Heritage Vietnam helps audiences understand the cultural context behind each recording.',
-      },
-      {
-        role: 'Cultural researcher',
-        quote:
-          'Information about artists, works, periods, and artifacts is connected into an accessible story.',
-      },
-      {
-        role: 'Music enthusiast',
-        quote:
-          'Musical heritage and the stories behind each recording feel closer than ever.',
-      },
+      'Every recording offers a way into Vietnamese music. Start with a song, explore its context, and contribute to the archive.',
+    archiveActions: [
+      { title: 'Listen to the recordings', description: 'Explore the voices and works in the music archive. Where both versions are available, switch between Digital and Vinylized to hear the difference.', cta: 'Explore the archive' },
+      { title: 'Follow the music through time', description: 'Explore the timeline to learn about the periods, artists, and context of Vietnamese music.', cta: 'Explore the timeline' },
+      { title: 'Add a piece of the story', description: 'Have information to add or a detail to correct? Send supporting material and references for the editorial team to review.', cta: 'Contribute to the archive' },
     ],
     featuredArchiveLabel: 'From the archive',
 
