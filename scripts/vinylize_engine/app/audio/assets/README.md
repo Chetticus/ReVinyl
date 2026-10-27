@@ -9,8 +9,8 @@ Original sound: Vinyl Noise SFX by Chia, hosted by 99Sounds. The
 non-commercial and commercial projects, excluding resale as a sample library
 or virtual instrument. This is used only as the website's playback ambience.
 
-Reference gain: 0.5. Initial Vinylize trial: 0.45. Current gain: 0.27,
-40% quieter in linear amplitude than that previous trial (0.45 × 0.60).
+Reference gain: 0.5. Initial Vinylize trial: 0.45. Archive gain: 0.351, raised 30% from 0.27 at the user’s request (0.27 × 1.30).
+The increase applies only to the surface texture, including the 4.5-second intro.
 This texture replaces the physical clicks and surface noise. RIAA, stylus,
 compliance, wow/flutter and crosstalk settings are preserved.
 

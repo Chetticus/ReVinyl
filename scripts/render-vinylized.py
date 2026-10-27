@@ -19,7 +19,7 @@ import soundfile as sf
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts/vinylize_engine"))
 from app.dsp.pipeline import PipelineConfig, run
-from app.dsp.playback.sampled_surface import mix_sampled_surface
+from app.dsp.playback.sampled_surface import SURFACE_GAIN, mix_sampled_surface
 
 # Matches VinylStuff/frontend/src/types/api.ts DEFAULT_CONFIG.
 CONFIG = PipelineConfig(surface_sound="codrops", retain_detail=False,
@@ -41,7 +41,7 @@ def main():
     manifest_file = ROOT / "docs/vinylized-render-manifest.json"
     previous = json.loads(manifest_file.read_text(encoding="utf-8")) if manifest_file.exists() else {"records": []}
     manifest = {"engine": "Vinylize DSP snapshot 2026-10-24", "preset": asdict(CONFIG),
-        "leadInSeconds": args.lead_in_seconds, "fullLength": True, "roomResponse": "Applied by the web player to VINYLIZED only", "records": previous["records"]}
+        "leadInSeconds": args.lead_in_seconds, "surfaceGain": SURFACE_GAIN, "fullLength": True, "roomResponse": "Applied by the web player to VINYLIZED only", "records": previous["records"]}
     for slug, match in plan["audio"].items():
         if args.slug and slug != args.slug:
             continue
@@ -49,7 +49,7 @@ def main():
         source_hash = hashlib.sha256(source.read_bytes()).hexdigest()
         output = output_dir / (slug + ("-vinylized-intro.mp3" if args.lead_in_seconds else "-vinylized.mp3"))
         old = next((r for r in manifest["records"] if r["slug"] == slug), None)
-        if old and old["sourceSha256"] == source_hash and old.get("preset") == asdict(CONFIG) and old.get("leadInSeconds", 0) == args.lead_in_seconds and output.exists() and hashlib.sha256(output.read_bytes()).hexdigest() == old["sha256"]:
+        if old and old["sourceSha256"] == source_hash and old.get("preset") == asdict(CONFIG) and old.get("surfaceGain") == SURFACE_GAIN and old.get("leadInSeconds", 0) == args.lead_in_seconds and output.exists() and hashlib.sha256(output.read_bytes()).hexdigest() == old["sha256"]:
             print("CACHED " + slug, flush=True)
             continue
         started = time.monotonic()
@@ -78,7 +78,7 @@ def main():
         row = {"slug": slug, "filename": output.name, "sourceFilename": source.name,
             "sourceSha256": source_hash, "sha256": hashlib.sha256(output.read_bytes()).hexdigest(),
             "bytes": output.stat().st_size, "sampleRate": rate, "sourceFrames": len(samples),
-            "duration": info.duration, "leadInSeconds": args.lead_in_seconds, "channels": info.channels, "differenceRms": difference_rms,
+            "duration": info.duration, "leadInSeconds": args.lead_in_seconds, "surfaceGain": SURFACE_GAIN, "channels": info.channels, "differenceRms": difference_rms,
             "peak": float(np.max(np.abs(rendered))), "metrics": result.stage_metrics,
             "preset": asdict(CONFIG), "renderSeconds": round(time.monotonic() - started, 2)}
         manifest["records"] = [r for r in manifest["records"] if r["slug"] != slug] + [row]

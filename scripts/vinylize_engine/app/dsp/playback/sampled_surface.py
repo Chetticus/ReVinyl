@@ -1,7 +1,7 @@
 """Codrops' recorded surface texture; the original physical model stays intact.
 
 Source and usage terms are recorded beside the bundled asset. The reference
-player uses gain 0.5. Our initial 0.45 trial is reduced a further 40% to 0.27.
+player uses gain 0.5. The current archive preset raises 0.27 by 30% to 0.351.
 """
 
 from functools import lru_cache
@@ -14,7 +14,7 @@ from scipy.signal import resample_poly
 
 
 ASSET = Path(__file__).resolve().parents[2] / "audio" / "assets" / "codrops-noise1.mp3"
-SURFACE_GAIN = 0.27  # 0.45 * 0.60: 40% below the previous listening preset
+SURFACE_GAIN = 0.351  # User-requested 30% increase: 0.27 * 1.30; music gain is unchanged.
 
 
 @lru_cache(maxsize=3)

@@ -1,0 +1,148 @@
+{
+  "total": 28,
+  "passed": 28,
+  "surfaceGainBefore": 0.27,
+  "surfaceGainAfter": 0.351,
+  "records": [
+    {
+      "slug": "rieng-mot-goc-troi-tuan-ngoc-1996",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    },
+    {
+      "slug": "giot-le-cho-ngan-sau-tuan-ngoc-1994",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    },
+    {
+      "slug": "ao-lua-ha-dong-tuan-ngoc-1991",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    },
+    {
+      "slug": "dem-thay-ta-la-thac-do-tuan-ngoc-1995",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    },
+    {
+      "slug": "diem-xua-khanh-ly-1990",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    },
+    {
+      "slug": "cat-bui-khanh-ly-1990",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    },
+    {
+      "slug": "nhin-nhung-mua-thu-di-khanh-ly-1990",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    },
+    {
+      "slug": "tinh-ca-thai-thanh-1986",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    },
+    {
+      "slug": "nghin-trung-xa-cach-thai-thanh-1996",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    },
+    {
+      "slug": "ngay-xua-hoang-thi-thai-thanh-1986",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    },
+    {
+      "slug": "xin-con-goi-ten-nhau-le-thu-2003",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 3.8175492433311993e-08
+    },
+    {
+      "slug": "bai-tinh-ca-mua-dong-le-thu-1989",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    },
+    {
+      "slug": "vet-thu-tren-lung-ngua-hoang-elvis-phuong-1992",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    },
+    {
+      "slug": "toi-muon-quen-nguoi-elvis-phuong-1995",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    },
+    {
+      "slug": "noi-buon-hoa-phuong-thanh-tuyen-2001",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 4.578338208474157e-06
+    },
+    {
+      "slug": "con-duong-xua-em-di-thanh-tuyen-1991",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    },
+    {
+      "slug": "khuc-hat-song-que-anh-tho-2005",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    },
+    {
+      "slug": "con-ta-voi-nong-nan-quang-dung-1997",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    },
+    {
+      "slug": "vi-do-la-em-quang-dung-1997",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    },
+    {
+      "slug": "bien-nghin-thu-o-lai-quang-dung-1997",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    },
+    {
+      "slug": "trai-tim-ben-le-bang-kieu-2000",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    },
+    {
+      "slug": "canh-hong-phai-bang-kieu-2020",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    },
+    {
+      "slug": "ao-anh-sut-chi-duong-ta-elvis-phuong-1992",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    },
+    {
+      "slug": "chieu-mot-minh-qua-pho-audio",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    },
+    {
+      "slug": "chim-ngoi-bay-ve-audio",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    },
+    {
+      "slug": "giac-mo-trua-thuy-chi-audio",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    },
+    {
+      "slug": "nho-mua-thu-ha-noi-audio",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    },
+    {
+      "slug": "ru-doi-di-nhe-audio",
+      "introRmsRatio": 1.2997008562088013,
+      "extraTextureLimitedFraction": 0.0
+    }
+  ]
+}
